@@ -1,0 +1,270 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <entry>
+            <form>
+               <orth>A</orth>
+               <pron>á</pron>
+            </form>
+            <gramGrp>s. m.</gramGrp>
+            <sense>
+               <def>
+                  a primeira lettra do abecedario da lingua
+                  portugueza e de muitas outras.      
+               </def>
+            </sense>
+            <gramGrp>adj.</gramGrp>
+            <sense>
+               <def>
+                  emprega-se esta lettra em logar do primeiro algarismo de
+                  ordem: <q>livro A</q>, <q>caderno A</q>, isto é: livro primeiro, caderno
+                  primeiro. Junta a um algarismo designa o primeiro
+                  numero de uma serie secundaria: <q>camarote 5</q>,
+                  <q>camarote 5-A</q>.
+               </def>
+            </sense>
+            <sense>
+               <def>
+                  Esta lettra tem quatro valores: <q>à</q>
+                  aberto, <q>à</q> circumflexo, <q>a</q> atono e <q>ã</q> nazalado. Deve-se
+                  accentuar o <q>a</q> forte quando da omissão do accento
+                  possa resultar confusão com outro termo representado
+                  pelas mesmas lettras: <q>pápa</q>, <q>papá</q>, ou quando o accento
+                  não recahe na penultima syllaba: <q>Sabiá</q>, <q>Málaga</q>.
+                  É a voz mais clara e bella da linguagem, e a predominante
+                  nas linguas primitivas indo-enropéas, sendo,
+                  entre as romanas, a portugueza aquella em que mais
+                  predomina. A aceumulação d'esta voz é de um bello
+                  effeito onomatopico; imprime à phrase um ar festival,
+                  mui proprio para manifestar sentimentos de enthusiasmo.
+                  Que optimo effeito produz a repetição d'esta voz
+                  nos versos porque começa a magna epopêa nacional:
+                  
+                  <cit>
+                     <quote>
+                        <l>As armas e os barões assignalados,</l>
+                        <l>Que da occidental praia lusitana,</l>
+                        <l>Por mares nunca d'antes navegados,</l>
+                        <l>Passaram ainda alem da Taprobana.</l>      
+                     </quote>
+                     <bibl>
+                        <author>L. de Camões</author>
+                        <title>Lusiadas</title>
+                     </bibl>
+                  </cit>
+                  
+                  No seguinte sublime trecho:
+                  <cit>
+                     <quote>
+                        <l>Pela ultima vez, co'a espada em punho</l>
+                        <l>Rutilante na pugna se arremessa;</l>
+                        <l>Seu braço é tempestade, a espada é raio!...</l>
+                        <l>Mas invencivel mão lhe toca o peito!</l>
+                        <l>É a mão do Senhor! barreira ingente;</l>
+                        <l>Basta, Guerreiro! Tua gloria é minha;</l>
+                        <l>Tua força em mim está. Tens completado</l>
+                        <l>Tua augusta missão. És homem; — pára.</l></quote>
+                     <bibl>
+                        <author>D. J. G. de MAagalhães</author>
+                        <title>Ode a Napoleão</title>
+                     </bibl>
+                  </cit>
+                  
+                  Não é só o grandioso da idéa que os torna um dos
+                  mais bellos trechos da litteratura portugueza, é a sua
+                  esplendida fórma onomatopica.
+                  
+                  
+                  Para evitar o hiato que resulta do encontro de dois
+                  <q>aa</q>, agglutinam-se estas vozes pela figura crase nos seguintes casos:
+                  1.º (na escripta), quando concorre a
+                  prep. <q>a</q> com o art. <q>f.</q>, <q>á</q> por <q>aa</q>; 2.º (no som) quando
+                  se encontra a prep. <q>para</q> com o art. <q>a</q>; 3.º (no som) o
+                  art. comp. <q>na</q> com uma palavra, cuja syllaba inicial é
+                  a voz <q>a</q>: <q>para a ilusão ser mais completa; par'á illusão
+                     ser mais completa; — ocoultou-se na abobada;
+                     occultou-se n'abobada.</q>
+               </def>
+            </sense>
+            <gramGrp>Phonol.</gramGrp>
+            <sense>
+               <def>
+                  Esta lettra, nas syllabas accentuadas, subsiste
+                  em regra nas palavras derivadas do latim. Em 
+                  muitas permuta-se em <q>e</q>: espargo (asparagus), Tejo
+                  (Tagus), cereja (cerasinum). Em <q>o</q>: outro (alter), fome
+                  (fame), grosso (crassus), ceroto (ceratum), bolor (pallor),
+                  cova (cavea), colleira (collaria), pomba (palumba).
+                  Em <q>ei</q>: beijo (basium), queijo (caseus), eira (area).
+                  Em <q>ou</q>: souto (saltos), papoula (papaver). Cahe no principio
+                  de algumas palavras : ligeiro (aliger), diamante
+                  (adamas), chegar (applicare), poupa (apupa). Accrescenta-se
+                  principio de outras : apostilla (postilla), aleijão
+                  (laesio), abrunho (prunum), arrombar (rumpere),
+                  amora (morum), apalpar (palpare), aplanar (planare).</def>
+            </sense>
+         </entry>
+         <entry>
+            <form>
+               <orth>A</orth>
+               <pron>a</pron>
+            </form>
+            <gramGrp>art. f. sing. e pron.</gramGrp>
+            <sense>
+               <xr>Ver <ref>O</ref>.</xr>
+            </sense>
+         </entry>
+         
+         <entry>
+            <form>
+               <orth>A</orth>
+               <pron>à</pron>
+            </form>
+            <gramGrp>prep.</gramGrp>
+            <sense>
+               <def>
+                  esta preposição é de todas a mais vaga,
+                  a mais indeterminada, e a menos especificativa. As
+                  suas accepções fundamentaes são: exprimir a relação
+                  de direcção, fim, logar para onde (physico ou virtual),
+                  proveito, damno, ou modo: <cit><quote>Encaminhou-se <q>ás</q> casas
+                     da camara; <q>ao</q> mesmo tempo chegavam outros fidalgos
+                     <q>às</q> portas da casa da supplicação.</quote><bibl><title>Reb. da Silva</title></bibl></cit>
+                  Dar instrucção <q>aos</q> ignorantes é fazer cidadãos livres;
+                  — o deficit da intelligencia é mais prejudicial
+                  <q>aos</q> povos que o deficit do orçamento.
+               </def>
+            </sense>
+            <sense>
+               <def>
+                  A predilecção
+                  que a raça latina tem por esta preposição, faz que se
+                  encontre empregada como equivalente de quasi todas
+                  as mais preposições; <q>em</q>: chegou á fortaleza meia hora
+                  ante-manhã <q>ao</q> dia de Nossa Senhora (Dic. d'Ac.) [em
+                  vez de em o dia]; <q>para</q>, das portas <q>a</q> dentro (Vieira);
+                  <q>com</q>, quando Magdalena esta manhã não achou o corpo
+                  do Senhor, que buscava na sepultura, veio <q>a</q> toda
+                  a diligencia dar conta a S. Pedro (Vieira); <q>para com</q>,
+                  indifferente <q>aos</q> perigos; <q>em consequencia de</q>, cedeu ás
+                  rasões que lhe expuzeram; <q>segundo</q>, <q>conforme</q>, Deus
+                  fez o homem <q>á</q> sua imagem; <q>sobre</q>, estar <q>a</q> cavallo;
+                  <q>por</q>, uma <q>a</q> uma, etc. N'estes diversos empregos ella
+                  não constitue uma synonymia absoluta. Os synonymistas,
+                  fieis zeladores da pureza e rigor da lingua, assignam-lhe
+                  profundas differenças, que em seus logares
+                  apresentaremos. Quando se diz que uma preposição é
+                  synonyma de outra, deve-se entender sempre que o é
+                  parcialmente, que não se pode substituir em todas as
+                  hypotheses. Em muitas phrases o uso tem prevalecido
+                  à grammatica, empregando esta preposição em vez da
+                  propria, pela sua radical significação: Lá no cimo, um
+                  moinho bracejando e cantando no trabalho, emquanto
+                  o dono <q>á</q> janella escuta ocioso a viração de Deus, que
+                  lhe está chovendo pão lá dentro. (Visc. de Castilho.)  
+                  Nas mãos de Pericles, <q>á</q> sombra da liberdade, a civilisação
+                  assumio um esplendor que maravilha. (Dr. Thom.
+                  de Carvalho.) Affonso I veiu a fallecer <q>a</q> 6 de dezembro
+                  de 1185. (Alex. Hercul.) Coisa geral a todos os
+                  principes quererem ser rogados <q>ao</q> modo das mulheres.
+                  (J. de Barros.) A primeira resolução de David, quando
+                  viu a Saul só e sem defensa, foi cosel-o alli <q>ás</q> facadas.
+                  (Vieira.) — antes de uma linguagem do infinito com os
+                  verbos auxiliares <q>estar</q>, <q>andar</q> e outros, equivale ao
+                  participio presente: Estou <q>a</q> estudar, em vez de estou
+                  estudando; andei <q>a</q> estudar, em vez de andei estudando.
+                  Passo noites inteiras em claro <q>a</q> lidar nisto, e a
+                  lembrar-me de quantas palavras vos tenho ouvido, e <q>a</q>
+                  meu pae; e <q>a</q> pensar em tudo. (Garrett) Com o verbo
+                  <q>ter</q> representa uma linguagem futura, equivalente á formada
+                  pela preposição <q>de</q>: Tem <q>a</q> estudar a lição, em
+                  vez de tem <q>de</q> estudar a lição.
+                  
+               </def>
+            </sense>
+            <sense>
+               <def>
+                  
+                  Depois de certos adjectivos
+                  serve para lhe precisar a significação: Agradavel
+                  <q>a</q> cantar, prompto, <q>a</q> responder, gracioso <q>a</q> dansar.   
+               </def>
+            </sense>
+            <sense>
+               <def>
+                  
+                  Com esta preposição formam-se complementos directos
+                  (objectivos), indirectos e circumstanciaes. Na formação
+                  dos directos os grammaticos só aconselham o
+                  emprego d'esta preposição quando o complemento for
+                  pessoa ou coisa personificada, e da sua omissão, resultar
+                  ambiguidade para a phrase. Aconselham-n'a tambem
+                  quando concorre para dar mais força á phrase:
+                  Convidava o papa <q>ao</q> arcebispo a jantar. (Fr. L. de
+                  Souza.) Amae a Deus e do proximo como <q>a</q> vós mesmos.
+                  Pintaram os antigos <q>ao</q> amor menino, porque
+                  nenhum amor dura tanto, que chegue a ser velho.
+                  (Vieira) A melhor traça para accrescentar nossos
+                  bens é soccorrer com elles <q>aos</q> pobres (Idem.)   
+               </def>
+            </sense>
+            <sense><def>
+               Para
+               a formação dos complementos indirectos e circumstanciaes
+               nenhuma regra ha estabelecida; só a leitura
+               attenta dos mestres da lingua poderá dirigir o leitor
+               n'esta parte. O processo mechanico de consultar o ouvido,
+               tantas vezes usado pelos nacionaes, não é applicavel,
+               em geral, ao emprego das preposições.
+            </def></sense>
+            <sense><def>
+               Os nossos classicos principiam grande numero de phrases
+               ellipticas por esta preposição com um som aberto, o
+               que lhes dá grande força e brilho: <q>Á</q> fé de cavalleiro!
+               <q>á</q> face do céu e da terra! <q>á</q> memória dos seus feitos!
+               <q>á</q> saude de el-rei! <q>ás</q> armas!
+            </def></sense>
+            <sense><def>
+               Com ella se forma
+               grande numero de phrases adverbiaes: <q>Á</q> mingua; <q>á</q>
+               boa mente; <q>á</q> revelia: Como o professor a vida monastica
+               é enterrar-se, se quizerdes na comida ter vantagem,
+               poder-vos-hão dizer que vos sepultaste <q>á</q> mourisca
+               ou <q>á</q> gentilica, com banquetes na cova. (Fr. L.. de
+               Souza.) 
+            </def></sense>
+            <sense>
+               <def>
+                  Os classicos não empregavam a preposição <q>a</q>
+                  depois da preposição <q>até</q>: N'este exercicio gastaram
+                  <q>até o</q> principio da quaresma. (Balth. Telles.) Vendo
+                  ora o mar <q>até o</q> inferno aberto. (Camões.) Hoje diz-se:
+                  <q>Até ao</q> principio, <q>até ao</q> inferno. A prep. precedida e
+                  seguida do mesmo vocabulo, exprime successão, ordem:
+                  Gotta <q>a</q> gotta; — tres <q>a</q> tres; — palmo <q>a</q> palmo.         
+               </def>
+            </sense>
+            <xr>V. <ref>Preposição</ref></xr>
+         </entry>
+            
+            
+      </body>
+  </text>
+</TEI>
