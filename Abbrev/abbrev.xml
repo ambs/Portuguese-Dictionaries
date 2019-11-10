@@ -59,7 +59,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
             
          <choice><abbr>hebr.</abbr><expan>hebraico</expan></choice>
          <choice><abbr>hesp.</abbr><expan>hespanhol</expan></choice>
-         <choice><abbr>homog.</abbr><expan>hemographia</expan></choice>
+         <choice><abbr>homog.</abbr><expan>homographia</expan></choice>
          <choice><abbr>hydraul.</abbr><expan>hydraulico</expan></choice>
          <choice><abbr>hyg.</abbr><expan>hygiene</expan></choice>
          <choice><abbr>ind,</abbr><expan>indicativo</expan></choice>
