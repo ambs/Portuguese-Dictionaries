@@ -29,10 +29,13 @@ q {
     font-style: italic;
 }
 
-l {
+lg {
     display: block;
     margin-left: 20px;
 }
+
+l { display: block; }
+
 
 bibl:before { content: "(" }
 bibl:after { content: ")" }
