@@ -4,16 +4,38 @@ body {
     margin-left: auto;
     margin-right: auto;
     width: 600px;
-
+    display: block;
+}
 
 teiHeader {
     display: none;
 }
 
 orth { font-weight: bold; }
-pron:before { render: "(" }
-pron:after { render: ")" }
+pron:before { content: "(" }
+pron:after { content: ")" }
 
 entry {
     display: block;
+    text-align: justify;
+    margin-bottom: 20px;
 }
+
+gramGrp {
+    font-style: italic;
+}
+
+q {
+    font-style: italic;
+}
+
+l {
+    display: block;
+    margin-left: 20px;
+}
+
+bibl:before { content: "(" }
+bibl:after { content: ")" }
+
+bibl author { text-style: italic; }
+
