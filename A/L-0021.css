@@ -49,3 +49,5 @@ bibl:after { content: ")" }
 
 bibl author { text-style: italic; }
 
+author + title:before { content: "—"; }
+
