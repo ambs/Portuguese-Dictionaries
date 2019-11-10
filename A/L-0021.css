@@ -1,7 +1,18 @@
 
+body {
+    margin-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 600px;
+
+
 teiHeader {
     display: none;
 }
+
+orth { font-weight: bold; }
+pron:before { render: "(" }
+pron:after { render: ")" }
 
 entry {
     display: block;
