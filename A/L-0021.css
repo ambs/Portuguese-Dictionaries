@@ -31,7 +31,11 @@ q {
 
 l {
     display: block;
+    margin-left: 20px;
 }
 
 bibl:before { content: "(" }
-bibl:after { content: "(" }
+bibl:after { content: ")" }
+
+bibl author { text-style: italic; }
+
