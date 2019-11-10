@@ -4,6 +4,7 @@ body {
     margin-left: auto;
     margin-right: auto;
     width: 600px;
+    display: block;
 }
 
 teiHeader {
@@ -19,5 +20,9 @@ entry {
 }
 
 gramGrp {
+    font-style: italic;
+}
+
+q {
     font-style: italic;
 }
