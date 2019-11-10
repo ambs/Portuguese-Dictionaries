@@ -17,6 +17,7 @@ pron:after { content: ")" }
 
 entry {
     display: block;
+    text-align: justify;
 }
 
 gramGrp {
@@ -26,3 +27,10 @@ gramGrp {
 q {
     font-style: italic;
 }
+
+l {
+    display: block;
+}
+
+bibl:before { content: "(" }
+bibl:after { content: "(" }
