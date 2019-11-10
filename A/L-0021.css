@@ -18,6 +18,7 @@ pron:after { content: ")" }
 entry {
     display: block;
     text-align: justify;
+    margin-bottom: 20px;
 }
 
 gramGrp {
