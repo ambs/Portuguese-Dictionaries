@@ -46,7 +46,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                   portugueza aquella em que mais predomina. A aceumulação d'esta voz é de um bello
                   effeito onomatopico; imprime à phrase um ar festival, mui proprio para manifestar
                   sentimentos de enthusiasmo. Que optimo effeito produz a repetição d'esta voz nos
-                  versos porque começa a magna epopêa nacional: <cit>
+                  versos porque começa a magna epopêa nacional: <cit type="display">
                   <quote>
                     <lg>
                         <l>As armas e os barões assignalados,</l>
@@ -59,7 +59,7 @@ schematypens="http://purl.oclc.org/dsdl/schematron"?>
                         <author>L. de Camões</author>
                         <title>Lusiadas</title>
                      </bibl>
-                  </cit> No seguinte sublime trecho: <cit>
+                  </cit> No seguinte sublime trecho: <cit type="display">
                   <quote>
                     <lg>
                         <l>Pela ultima vez, co'a espada em punho</l>

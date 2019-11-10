@@ -1,4 +1,8 @@
 
+sense + sense:before {
+    content: "||";
+}
+
 body {
     margin-top: 10px;
     margin-left: auto;
@@ -14,6 +18,10 @@ teiHeader {
 orth { font-weight: bold; }
 pron:before { content: "(" }
 pron:after { content: ")" }
+
+cit[type="display"] {
+    display: block;
+}
 
 entry {
     display: block;
