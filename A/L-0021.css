@@ -11,8 +11,13 @@ teiHeader {
 }
 
 orth { font-weight: bold; }
-pron:before { render: "(" }
-pron:after { render: ")" }
+pron:before { content: "(" }
+pron:after { content: ")" }
+
 entry {
     display: block;
+}
+
+gramGrp {
+    font-style: italic;
 }
