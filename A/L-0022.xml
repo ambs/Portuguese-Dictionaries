@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <entry>
+            <form>
+               <orth>A</orth>
+               <pron>à</pron>
+            </form>
+            <gramGrp>pref.</gramGrp>
+            <sense><def>  tem tres procedencias: portuguez, greg.
+            e lat.</def></sense> 
+            <sense><def>O pref. port. <q>a</q> é de duas naturezas, de sigmf.
+            e de euph.</def></sense>
+          <sense><def>Pref. <q>a</q> de signif. junta-se a verbos e a
+            adjectivos para exprimir o uso, o emprego, a fórma,
+            a imitação : abaetar-se, adamar-se, afrancezar-se, ajanotar-se,
+            abaetado, adamado, ajanotado, afidalgado,
+            amouriscado, abatatado.</def></sense>
+         <sense><def>Uma idéa augmentativa, extensiva
+      ou intensiva: assoada (prolongação de som),
+            adoçar, (tornar mais doce), assonílhar, afamar, abrazar,
+            afervorar, apavorar, atroar.</def></sense>
+            <sense><def>Junto a certos verbos denota 
+               uma idéa de destinação, de tendencia para um
+               certo fim, o exercicio da actividade n'um certo sentido,
+               ao contrario dos seus simples, que significam a plenitude
+               da acção sem dependencia alguma: chegar, achegar;
+               cercar, acercar; juntar, ajuntar; baixar, abaixar.</def></sense>
+            <sense><def>Este pref. empregava-se antigamente com muitos
+            verbos em que hoje se usa a prep. <q>em</q>: afeitar, enfei-
+            tar; abainhar, embainhar.</def></sense> 
+            
+            <sense><def>Pref. euph. emprega-se
+               com verbos e nomes começados por consoantes para tornar
+               mais facil a sua articulação: acypreste, alampada,
+               abobada, ametade, alevantar, em vez de cypreste, lampada, etc.
+            </def></sense>
+            
+            <sense><def> Pref. lat. correspondendo ao pref. lat. <q>ab</q>,
+               (<emph>vid. s. loc.</emph>), amentar, anormal, aspecto. 
+            </def></sense>
+            
+            <sense><def>
+               Pref. gr.
+               privativo, significa ausencia (este pref. quando se lhe
+               segue vogal muda para <q>an</q>): acephalo, aphonia, amnistia, anonymo.
+            </def></sense>
+         </entry>
+         <entry><form>   <orth>A</orth> <pron>a</pron></form>
+            <gramGrp>suff. subs. contr.</gramGrp>
+            <sense><def>significa o mesmo que <q>mento</q>
+            ou <q>ão</q>: Paga, pagamento; aberta, abertura ; revenda,
+            revendicação. Este suffixo é sempre a contracção de
+            uma desinencia verbal.</def></sense>
+            <xr>V. o suff. <ref>O</ref> e <ref>E</ref></xr>
+          </entry>  
+         
+         <entry><form><orth>A</orth><pron>a</pron></form> 
+            <sense><def>flexão subs. e adj. com que se forma o genero
+            fem. na lingua portugueza. N'esta parte a grammatica
+            moderna tem grande vantagem sobre a antiga.
+            Muitos nomes que nos primeiros periodos da lingua
+            eram invariaveis, hoje admittem flexão feminina: <q>O
+            portuguez</q>, <q>a portuguez</q>; <q>o hespanhol</q>, <q>a hespanhol</q>; <q>o
+            servidor</q>, <q>a servidor</q>, <q>o sabedor</q>, <q>a sabedor</q>; <q>o senhor</q>,
+            <q>a senhor</q>: hoje diz-se, a portugueza, a hespanhola, etc.
+            V. <ref>Genero</ref>.</def></sense> 
+            <sense><def>Flex. verb. representa as linguagens da
+            3.º pess. do sing. do pres. do ind. da 1.º conj. e do
+            imperat., e da 1.º e 3.º pess. do sing. do pres. do subj.
+            da 2.º e 3.º conj.</def></sense></entry>
+         
+            
+         
+        
+        <entry>    <form><orth>Á</orth> <pron>á</pron></form>
+           <gramGrp>art.</gramGrp> 
+           <sense><def>contracto, formado da prep. <q>a</q> e do art.
+            <q>á</q>. Antes da introducção dos accentos representava-se
+            esta contracção escrevendo dois <q>aa</q>. VY. supra.</def></sense>
+        </entry>    
+          
+       <entry>   <form><orth>AA</orth> <pron>ás</pron></form>
+          <gramGrp>s. m. pl. de a</gramGrp>
+         <sense><def> Os <q>aa</q> goticos são mais elevados
+          que os romanos. Quando o plural é formado de
+            um pequeno numero, costuma-se repetir o numero d'elles:
+            <cit><quote>Aos tres AAA com que Jeremias se escusava de
+            ser propheta das gentes, respondia Deus com Africa,
+            Ásia e America.</quote> <bibl><author>Vieira</author></bibl></cit></def></sense></entry>
+            
+          <entry> <form> <orth>Aa</orth></form><sense><def>
+             Formula usada em receitas medicas e quer dizer:
+             <quote>partes eguaes de cada coisa</quote>; o mesmo que <q>ana</q>.</def></sense></entry>
+            
+           <entry> <form><orth>Aal</orth> <pron>a-<q>ál</q></pron></form>
+              <gramGrp>s. m.</gramGrp>
+              <sense><def>arvore da fam. das therebinthaceas.</def></sense></entry>
+          
+          <entry><form><orth>Aalénio</orth> <pron>a-a-<q>lé</q>-ni-u</pron></form>
+             <gramGrp>adj. e s. m.</gramGrp>
+             <usg type="dom">geol.</usg>
+             <sense><def>Diz-se de
+            certo terreno predominante em Aalen (Allemanha).</def></sense>
+          </entry>  
+           <entry><form> <orth>Ab</orth> <pron>ab'</pron></form> 
+              <gramGrp>pref. latl.</gramGrp>
+              <note>toma às vezes a fórma de <q>abs</q>,
+            <q>au</q>, ou só <q>a</q>.
+              V. <q>A pref. lat.</q>, correspondendo ás prep.
+                 <q>de</q>, <q>por</q></note>
+              <sense><def> significa separação, afastamento, extracção,
+            privação, falta; abdicar, absolver, abjurar, absterger,
+            ausentar-se. Emprega-se em algumas phrases latinas,
+            espacejada do radical pelo traço de união: ab-ceterno,
+            ab-initio, ab-intestato.</def></sense>
+           </entry>
+            
+      </body>
+  </text>
+</TEI>
