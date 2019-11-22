@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <entry>
+            <form>
+               <orth></orth>
+               <pron></pron>
+            </form>
+            <gramGrp></gramGrp>
+            <sense><def></def></sense>
+         </entry>
+         <p>ABEIRAR
+            
+            
+            
+            Abeirar (a-bei-rár), v. dr. collocar na beira, na ex-
+            tremidade. | —, +v. pr. approximar-se: Abeirando-se
+            d'elle affectuosamente. || r. Atbeiratar.
+            
+            —Abeiro (a-béi-ro) s. m. (Açores) chapeu de palha de
+            abas largas. || F. Aba eiro.
+            
+            - Ahejaruco (a-be-Ja-ru-ku), 8. m. o mesmo que abe-
+            lharuco. || F. cast. abeja.
+            
+            Abelha (a-bé-lha), s. /. insecto bymenoptero que
+            produz mel e cera. Ha muita especie de abelhas. À que
+            em Portugal se cria é a abelha domestica. (Apis melli-
+            fica ), denominada tambem abelha commum. J Abelha
+            mestra, a femea que preside. a cada colmea formada
+            por abelhas neutras ou assexuadas. À sua missão
+            unica é a propagação da especie. || (Famil.) Mulher la-
+            dina, astuciosa: Vossa comadre abelha mestra. (Ferr.
+            Vasc.) || Segredo da abelha, coisa mysteriosa. [A abelha
+            é o emblema da ordem e do trabalho.) || Ha grande nu-
+            mero de adagios em que entra este termo: De Deus
+            vem o bem, e das abelhas o mel. Não morde a abelha
+            senão a quem trata com ellas, etc, || F. Apícula (apio'"-
+            la), diminutivo de apis.
+            
+            Abelha-ftor (a-bé-lha-flór), s. f. (Bot.) nome vul-
+            gar de uma especie de orchideas. || F. Abelha. or.
+            
+            Abelhal (a-be-lhál), s. m. casta de uva do Douro
+            e Tras-os-Montes. || F. Abelha-pal.
+            
+            Abelhão (a-be-lhão), s. m. uma especie de abelha
+            ordinaria das colmeias, a que tambem se chama abe-
+            lhão negro roxado (Apis víolacea, Linn.), notável pela
+            sua cór violeta, e que põe os ovos em profundos bura-
+            cos que abre nas madeiras. || Augmentativo de abelha.
+            || F. Abelha++ão.
+            
+            Abelhar (a-be-lhár), v. inir. (prov.) concorrer com
+            uma quota para interesse commum. || —, +. pr. trabalhar
+            com afan. (F. Abelhatar.
+            
+            Abelharuco (a-be-lha-ru-ku), 8. m. o mesmo que
+            abelheiro: O abelharuco e as mais d'essa ralé damni-
+            nha. (Castilho.) || F. Abelhatr (euph.)-wco.
+            
+            Abelheira (a-be-lhéi-ra), s. f. buraco onde se re-
+            colhem as abelhas. || (Bot.) Planta da fam. das orchid.
+            (Orchis papilionacea ). || F. Abelha+eira.
+            
+            Abelheiro! (a-be-lhéi-ru), s. m. ave syndactyla, que
+            se nutre de abelhas e outros insectos ( Merops apiaster ).
+            O seu vôo é como o da andorinha. || Ninho de abelhas.
+            || F. Abelha-peiro.
+            
+            Abelheiro? (a-be-lhéêi-ru), s. m. a pessoa que trata
+            das abelhas, que tem a seu cargo a creação d'ellas. ||
+            F. Abelhat-eiro.
+            
+            Abelhina (a-be-lhi-na), s. f. especie de orchidea,
+            o mesmo que abelha-flor.
+            
+            Abelhudamente (a-be-lhu-da-men-te), adv. entre-
+            mettidamente, de um modo abelhudo. || F. Abelhudot-
+            mente.
+            
+            Abelhudice (a-be-lhu-di-sse), s. f. a qualidade, o
+            acto do abelhudo. || F. Abelhudo-t-ice.
+            
+            Abelhudo (a-be-lhu-du), adj. (fam.) entremettido.
+            [Diz-se de quem se introduz nos negocios alheios ou
+            nas conversações a que não é chamado!, Quási todos os
+            ignorantes são abelhudos. É termo metaphorico prove-
+            niénte da vida activa das abelhas. || F. Abelha+udo.
+            
+            Abelidar-se (a-be-licdár-sse), v. pr. crear belida.
+            || F. A-tbelidatar.
+            
+            Abelmosco (a-bél-môós-ku), s. m. semente odorife-
+            ra, de que se fabricam os pós de Chypre. || F. ar. Habb-
+            el-mosk.
+            
+            Abeloira (a-be-lói-ra), s. f. planta vivaz, preferida
+            pelas abelhas, onde depositam uma substancia melifera.
+            
+            Abeloura (a-be-ló-ra), s. f. (var. orth. da pal. Abe-
+            lotra).
+            
+            A hbel-prazer CTA AÉrA loc. adv. regalada-
+            mente, muito à vontade: À seu bel-prazer.
+            
+            A hem (a-bãe), loc. adv. o mesmo que por bem, por
+            boas maneiras: Melhor é fazer as coisas a bem que a
+            mal. 4 bem todos o dominam.
+            
+            Abemolado (a-be-mu-lá-du), adj. (maos.) produzido
+            em bemol, marcado com bemol. || (Fig.) Suave, doce:
+            À voz de Monte-Alverne trovejava; a de Sampaio tri-
+            nava como um gorgeio abemoltado. (Visconde de Ara-
+            guaya). || F. Abemolar-tado.
+            
+            Abemoltar (a-be-mu-lár), v. tr. (mus.) produzir em
+            eo ArÇãe som, bemol izese de uma nota, de um
+            recho musical). || (Fig.) Adoçar, suavizar. || F. At+-be-
+            mol-tar. ) | ( Las. ) Ç W + e
+            
+            
+            
+            
+            
+         </p>
+      </body>
+  </text>
+</TEI>
