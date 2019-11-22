@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         
+         <entry>
+            
+            <form> <orth>Abatidamente</orth> <pron>a-ba-ticda-<q>men-te</q> </pron> </form>,<gramGrp> adv.</gramGrp> <sense><def>com aba-
+         timento, de um modo abatido.</def></sense> || F. Abatidot-mente.
+         </entry>
+         
+         <entry><form><orth>Abatido</orth> (a-ba-fi-du)</form>, <gramGrp>adv.</gramGrp><sense><form> além das accepções que
+         lhe provém do verbo abater, significa: escondido, oc-
+         culto: À gente ia abatida, nas caravellas. || (Naut.) Na-
+         vegar rota abatida, navegar com toda a força pela li-
+         nha mais curta sem fazer paragens nem escalas. Esta
+         phrase passou para a linguagem commum e corre vi-
+         ciada ; diz-se roda batida, em vez de rota abatida, isto
+         é, precipitadamente.</form></sense> || F. Abater-bido.</entry>
+         
+         <entry><form><orth>Abatimento</orth> <pron>(a-ba-ti-men-tu)</pron></form>, <gramGrp>s. m.</gramGrp> <sense><def>acção ou effeito
+         de abater. || (Med.) Sensação de fraqueza geral do corpo
+         e do animo. || (Comm.) Rebate, desconto.</def></sense> || F. Abafert-
+         mento.</entry>
+         
+         <entry><form><orth>Abatina</orth><pron> (a-ba-fí-na)</pron></form>,<gramGrp> s. f.</gramGrp> <sense><def>o mesmo que batina.</def></sense> || F.
+         At+batina. </entry>|
+         
+        <entry> <form><orth>Abatinar</orth> <pron>(a-ba-ticnár)</pron></form>, <gramGrp>v. tr.</gramGrp> vestir com batina
+         ||—, pr. vestir-se com batina: Os estudantes abatftina-
+         ram-se à pressa. || F. A+-batina-tar.
+         </entry>
+         
+        <entry> <form><orth>Abat-jour</orth> <pron>(a-bá-júr )</pron></form>,<gramGrp> s. m.</gramGrp> <sense><def>sombreira, sombra, abai-
+         xa-luz ; peça, ordinariamente de papel ou de folha de
+         Flandres, de fórma cónica e aberta de cima abaixo, que
+         se colloca sobre a luz do candieiro ou da véla para fazer
+         convergir a maior força da luz sobre a mesa de traba-
+         lho, e ao mesmo tempo resguardar a vista. </def></sense>|| F. E pa-
+         lavra franceza composta.</entry>
+         
+       <entry>  <form><orth>Abatis</orth> <pron>(a-ba-lis)</pron></form>,<gramGrp> s. m.</gramGrp> <sense><def>o mesmo que abatiz</def></sense>.</entry>
+         
+       <entry>  <form><orth>Abatixi</orth> <pron>(a-ba-ti-xi)</pron></form>, <gramGrp>s. m.</gramGrp><sense><def> planta aquatica do Ama-
+         zonas.</def></sense></entry>
+         
+        <entry> <form><orth>Abatiz'</orth><pron> (a-ba-lis)</pron>,</form><gramGrp> s. m. </gramGrp><sense><def>(fortif.) trincheira feita com
+         arvores cortadas.</def></sense> || F. fr. Abatis.
+         </entry>
+         
+       <entry>  <form><orth>Abatiz? </orth><pron>(a-ba-lis)</pron>,</form> <gramGrp>s. m.</gramGrp><sense><def> especie de cabidela, feita
+         com miudos de aves.</def></sense>
+         </entry>
+         
+        <entry> Abatocado (a-ba-tu-ká-du), adj. fechado ou tapado
+         com batoque. || F. CAE irao</entry>
+         
+      <entry> Abatocadura (a-ba-tu-ka-dú-ra), s. f. (naut.) no-
+         me de certas peças que servem para segurar enxarcias;
+         o mesmo que abotocadura. || F. Abatocar-Fura.
+         </entry>
+         
+         <entry>Abatocar tab id) v. tr. tapar ou fechar com
+         batoque ou a maço; arrolhar. || F. A-batoquetar.</entry>
+         
+        <entry> Abatufado (a-ba-tu-fá-du), adj. (Tras-M.) gordo;
+         abalofado. || F. r. Tufado.</entry>
+         
+         <entry>Abaúna (a-ba-ú-na), adj.que é da raça autochthóne
+         do Brasil.</entry>
+         
+        <entry> Abaxial (a-ba-xi-dl), adj. que não está no eixo
+         óptico. || F. 4b (lat. eixo.</entry>
+         
+         <entry>Abbacial (a-ba-ssi-dl), adj. que tem relação com
+         o abbade, que pertence ao abbade : Cahiu-lhe da mão o
+         bacnlo abbacial. || F. lat. Abbatialis.</entry>
+         
+       <entry>  Abbadado (a-ba-dá-du), adj. que tem abbade:
+         Egrejas abbadadas. (Dic. d'Ac.) ||—, s. m. (ant) o
+         mesmo que abbadia. || F. Abbade-t+ado, pela mesma ra-
+         zão que se diz : bispado, papado, ducado, marquezado,
+         patriarchado, ete. </entry>
+         
+         <entry>Abbadagio (a-ba-dá-giu), s. m. alimento, rendas
+         devidas ao abbade. || (Ant.) Refeição que os freguezes
+         em certas abbadias eram obrigados a dar nos abbades.
+         || F. Abbade-bagto.</entry>
+         
+        <entry> Abbadar Ensaio v. tr. prover de abbade, apre”
+         sentar o abbade (em uma egreja) : O concelho de Bra-
+         gança abbada as egrejas de Bragança. || F. Abbade-tar.</entry>
+         
+         <entry>Abbade (a-bá-de), s. m. dignidade ecclesiastica, o
+         superior, o primeiro prelado nas ordens monasticas. ||
+         Abbade geral, o que não governa só uma casa religiosa,
+         mas as de toda a ordem. || Abbade mitrado, o mesmo
+         que D. Abbade, o que usa certas insignias episcopaes</entry>
+         
+         
+         
+         
+         
+      </body>
+  </text>
+</TEI>
