@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <entry>
+            <form>
+               <orth>Abencoadéiro</orth>
+               <pron>a-ben-ssu-a-<q>dei</q>-ru</pron>
+            </form>
+            <gramGrp>s. m.</gramGrp>
+            <sense><def>a pessoa que abençôa, benzedeiro [toma-se à mà parte];</def></sense>
+            <etym>F.<q>Abençoar+eiro.</q></etym>
+         </entry>
+         <entry>
+            <form>
+               <orth>Abençoador</orth>
+               <pron>a-ben-ssu-a-<q>dôr</q></pron>
+            </form>
+            <gramGrp>s. m.</gramGrp>
+            <sense><def>o que abençoa (toma-se em bom sentido).</def></sense>
+            <etym>F.<q>Abençoar+or</q></etym>
+         </entry>
+         <entry>
+            <form>
+               <orth>Abençoador</orth>
+               <pron>a-ben-ssu-<q>ár</q></pron>
+               
+            </form>
+         </entry>
+         <p>Some text here.</p>
+      </body>
+  </text>
+</TEI>
+
+
+
+Abencoadeiro (a-ben-ssu-a-dГ©Г­-ru), s. m. a pessoa
+que abençôa, benzedeiro [toma-se à mà parte]; || F.
+Abençoar+eiro.
+
+Abençoador (a-ben-ssu-a-dôr), s. m. o que abençoa (toma-se em bom sentido). || F. Abençoar+or
+
+Abençoar (a-ben-ssu-ár ), v. tr. lanГ§ar benГ§ГЈo a:
+AbenГ§oou o filho na hora da partida. || (Fig.) Fazer fe-
+liz, tornar prospero: Deus abenГ§oe teus filhos.-Os cГ©us
+abenГ§oem teus dias. | F. A-+benГ§ao tar.
+
+Abendicoar (a-ben-di-ssu-ГЎr), v. fr. fГіrma alati-
+nada de abenГ§oar. || F. A+В» bendiГ§ГЈo (lat. benedictio)
+
+ar.
+
+Abepithymia (a-be-pi-ti-mi-a), 8. f. o mesmo que
+anepithymia.
+
+AberГ©m (a-be-ren), s. m. o mesmo que abarГ©m.
+
+Aberingelado (a-be-rin-ge-lГЎ-du), adj. que tem a
+cГґr ou o gГіsto da beringela. || F. A-beringela+ado.
+
+AberracГЈo (a-be-rra-ssГЈo), s. f. acto ou effeito de
+aberrar. || Phys.) DispersГЈo dos raios luminosos que
+atravessam corpus diaphanos, como o vidro, a ГЎgua. ||
+(Astr.) Phenomeno que consiste em nos fazer ver 08 cor-
+pos celestes em um logar differente do que elles real-
+mente ORCIpAIa: || (Med.) Desarranjo, anomalia na situa-
+
+ГЈo ou conformaГ§ГЈo dos orgГЈos ou no exercicio das suas
+uncГ§Гµes. || (Fig.) Desvio do espirito, erro de raciocinio.
+|| F. Aberrar+ГЈo.
+
+Aberrante (a-be-rran-te), adj. que aberra; que se
+desvia das normas. || F. Aberrar-lante.
+
+Aberrar (a-be-rrГЎr), v. Г­nir. desviar-se das verda-
+deiras doutrinas: NГЈo aberraram das suas crenГ§as. || F.
+lat. Aberrare.
+
+Aberrativo (a-be-rra-fГ­-vu), adj. que conduz Г  aber-
+raГ§ГЈo. || F. Aberrart-ivo.
+
+Aberta (a-bГ©r-ta), s. f. abertura, logar ou espaГ§o
+descoberto ; fenda, buraco: ГЂ qual (pedra) tinha uma
+greta grande, ou aberta, que parecia por dentro ser doi-
+rada. (Dic. 3'Ac) | tervalos. || Afastamento das nu-
+vens, cessaГ§ГЈo da chuva: Agora jГЎ nГЈo chove, aprovei-
+temos esta aberta. || (Fig.) Opportunidade, ensejo. || F.
+lat. Apertus.
+
+Abertamente (a-bГ©r-ta-men-te), adv. com franque-
+za, claramente, manifestamente. || F. Aberto+mente.
+
+Aberteira (a-ber-tГ©i-ra), s. f. (p. us.) 0 mesmo que
+aberta. || F. Abertateira.
+
+Aberto (a-bГ©r-tu), adj. sem obstaculo que impeГ§a de
+entrar, de sahir, de ver: Porta aberta, janella aberta. ||
+Dormir de olhos abertos, diz-se quando durante o somno
+as palpebras nГЈo estГЈo bem unidas. || Ter os olhos aber-
+tos, nГЈo dormir ; ser vivo, perspicaz. ||-(Loc. famil.) De
+bocca aberta, pasmado, absorto. || Desabotoado, nГЈo uni-
+do adiante (diz-se dos sestidosts PoderГЈo trazer lobas
+abertas. (Dic. d'Ac.) || (Bras.) CorГґa aberta, corГґa com-
+posta de uma simples folha, como as corГґas de duque,
+
+e conde. || NГЈo cicatrizado (diz-se das feridas e chagas).
+|| Gravado ;: Lettras aberfas em aГ§o. || Paiz, campo, lo-
+gar aberto, nГЈo defendido por forti icaГ§Гµes, nem por
+montanhas ou rios: Viviam numa terra aberfa e sem
+defensГЈo nenhuma. (Dic. d' Ac.) Pelejar em campo aber-
+to. || Largo, espaГ§oso: N'um rio que alli sahe ao mar
+aberto. (Dic. d'Ac.) || (Fig.) CГ©u aberto, logar extrema-
+mente aprazivel: tranquillidade feliz. | Desdobrado,
+desenrolado, estendido: Tinha um mappa aberfo em
+cima da banca. || De braГ§os abertos, loc. adv. com sa-
+tisfaГ§ГЈo, cordealmente: Recebeu-o de braГ§os abertos.
+|| (Jurid.) Estar a successГЈo aberta em favor de alguem,
+estar alguem no caso de a receber. || Conta aberta,
+aquella a que successivamente se vГЈo a dicionando no-
+vos artigos. || Credito aberto, o que se concede a alguem
+para poder sacar dinheiro ou mercadorias. || Guerra
+aberta, guerra declarada. || (Fig.) Accessivel: Uma alma
+aberta Г  compaixГЈo, Г  malevolencia. || Que admitte e
+comprehende facilmente: Uma intelligencia aberta. !
+Que exprime franqueza e benevolencia: Uma physio-
+nomia aberta. || Franco, sincero: SejГўmos de coraГ§ГЈo
+aberto. (Die. d'Ac.) || Em exercicio : O parlamento estГЎ
+aberto desde janeiro atГ© marГ§o. || Devassa aberta aquel-
+la a que se estГЎ procedendo. || Em aberto, loc. adv. nГЈo
+concluido: Tenho muitos negocios em aberto. (Dic.
+d'Ac.) || Culpas em aberto, as que ainda nГЈo foram jul-
+gadas nem prescreveram. || (Gram.) Vozes abertas sГЈo
+aquellas que se pronunciam abrindo muito a bocca. ||
+Part. irr. do v. abrir. || F. lat. Apertus.
