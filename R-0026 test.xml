@@ -1,0 +1,211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <entry>
+         <form>
+         <orth>Abaremo-temo</orth>
+            <pron>a-ba-re-mu-<q>tê</q>-mu</pron>
+         </form>
+         <gramGrp>s. m.</gramGrp>
+            <sense><def>arvore leguminosa do Brasil.</def></sense>
+         </entry>
+         
+         <entry>
+            <form><orth>Abarga</orth>
+               <pron>a-<q>bár</q>-ga</pron>
+            </form>
+            <gramGrp>s. f. (antiq.)</gramGrp>
+            <sense><def>armadilha para
+               pescar: Sem venderem os saveis nas <q>abargas</q>, onde os
+               pescam. (<q>Elucid.</q> de Viterbo.)</def></sense>
+            <etym>F. <q>A+barga</q></etym>
+         </entry>
+         
+         <entry>
+            <form><orth>Abariaré</orth>
+               <pron>a-ba-ri-a-<q>ré</q></pron>
+            </form>
+            <gramGrp>s. m.</gramGrp>
+            <sense><def>certa chita indiana.</def></sense>
+         </entry>
+         
+         <entry>
+            <form><orth>Abarmão</orth>
+            <pron>a-bar-<q>mão</q></pron>
+            </form>
+            <gramGrp>s. m.</gramGrp>
+            <sense><def>especie de esqualo.</def></sense>
+         </entry>
+         
+         <entry>
+            <form>
+            <orth>Abarqueiro</orth>
+            <pron>a-bar-kéi-ru</pron>
+            </form>
+            <gramGrp>s. m. (norte)</gramGrp>
+            <sense><def>especie de abarca.</def></sense>
+            <etym>F. <q>Abarca+eiro</q>.</etym>
+         </entry>
+         
+         <entry>
+            <form>
+               <orth>Abarracado</orth>
+               <pron>a-ba-rra-<q>ká</q>-du</pron>
+            </form>
+            <gramGrp>adj.</gramGrp>
+            <sense><def>que tem fórma de barraca.</def></sense>
+            <etym>F. Abarracar-Fado.</etym>
+         </entry>
+         
+         <entry>
+            <form>
+               <orth>Abarracamento</orth>
+               <pron>a-ba-rra-ka-<q>men</q>-tu</pron>
+            </form>
+            <gramGrp>s. m.</gramGrp>
+            <sense><def>acção ou effeito de abarracar: <quote>O <q>abarracamento</q> da praça le-vou dois dias.</quote></def></sense>
+            <sense><def>Logar aonde se acham muitas barracas armadas: <quote>Percorren o <q>abarracamento</q> do exercito.</quote></def></sense>
+            <sense><def>Conjuncto de barracas: <quote>Um <q>abarracamento</q> muito bem feito.</quote></def></sense>
+            <etym>F. <q>Abarracar+mento.</q></etym>
+         </entry>
+         
+         <entry>
+            <form>
+               <orth>Abarracar</orth>
+               <pron>a-ba-rra-<q>kár</q></pron>
+            </form>
+            <gramGrp>v. fr.</gramGrp>
+            <sense><def>armar de barracas: <quote>Abarracar uma praça para fazer uma feira.</quote></def></sense>
+            <sense><def>Recolher em barracas: <quote>O estado maior tratou de <q>abarracar</q> o exercito.</quote></def></sense>
+            <gramGrp>v. intr.</gramGrp>
+            <sense><def>recolher-se em barracas : <q>O exercito abarracou proximo à serra do Bussaco.</q></def></sense>
+            <gramGrp>v. pr.</gramGrp>
+            <sense><def>recolher-se em barracas: <quote>À população de Lisboa, durante a peste, <q>abarracou-se</q> à oito leguas da cidade.</quote></def></sense>
+            <etym>F. <q>A+barraca+ar</q>.</etym>
+         </entry>
+         
+         <entry>
+            <form>
+               <orth>Abarrancar</orth>
+               <pron>a-ba-rran-<q>kádr</q></pron>
+            </form>
+            <gramGrp>v. tr.</gramGrp>
+            <sense><def>obstruir com barrancos, covas, precipicios: <quote>O general <q>abarrancou</q> a estrada para que não podesse passar a artilherta inimiga.</quote></def></sense>
+            <gramGrp>v. pr.</gramGrp>
+            <sense><def>metter-se em barrancos.</def></sense>
+            <etym>F. <q>A+barranco+ar</q></etym>
+         </entry>
+         
+         <entry>
+            <form>
+               <orth>Abarregado</orth>
+               <pron>a-ba-rre-<q>ghá</q>-du</pron>
+            </form>
+            <gramGrp>adj.</gramGrp>
+            <sense><def>que está exposto a roubo (casal ou herdade).</def></sense>
+         </entry>
+         
+         <entry>
+            <form>
+               <orth>Abarregamento</orth>
+               <pron>a-ba-rre-gha-<q>men</q>-tu</pron>
+            </form>
+            <gramGrp>s. m.</gramGrp>
+            <sense>acto ou effeito de abarregar-se.</sense>
+            <etym>F. <q>Abarregar+mento</q>.</etym>
+         </entry>
+         
+         <entry>
+            <form>
+               <orth>Abarregar-se</orth>
+               <pron>a-ba-rre-<q>ghár</q>-sse</pron>
+            </form>
+            <gramGrp>v. pr.</gramGrp>
+            <sense><def>o mesmo que amancebar-se.</def></sense>
+            <etym>F. <q>A+barregan+ar.</q></etym>
+         </entry>
+         
+         
+      </body>
+  </text>
+</TEI>
+
+Abarreirar (a-ba-rrei-rár), v. tr. cercar, impedir
+com barreiras, entrincheirar. || F. A+barreiratar.
+
+Abarretar-se (a-ba-rre-fár-sse), v. pr. cobrir-se com
+barrete. || F. A+ barretet+ar.
+
+Abarroado (a-ba-rru-áú-do), adj. (fg.) teimoso;
+indocil. || F. A+-barrãot+-ado.
+
+Abarrotamento (a-ba-rru-ta-men-tu), s. m. acção
+ou effeito de abarrotar. || F. Abarrotar+Tmento.
+
+Abarrotar (a-ba-rru-tár), v. tr. encher de barrotes,
+cobrir com barrotes. Abarrofou a casa com madeira de
+castanho. || Encher em excesso: Abarrotar o navio, o
+estomago. || F. A+barrote-+ar.
+
+Abarruntar (a-ba-rrun-tár), v. tr. (Tras-M.) dar
+té de ; lobrigar. || F. A+-hesp. barrunto+ar.
+
+Abartieular (a-bar-ti-ku-lár), adj. (Med.). Diz-se
+do rheumatismo, que ataca os orgãos, os musculos, ete.
+sem atacar as articulações.
+
+Abarytonado (a-ba-ri-tu-nd-do), adj. Diz-se da
+voz que se aproxima da de barytono ; diz-se do cantor
+que tem essa voz. || F. A-Hbarytonotar.
+
+Abarytonar (a-ba-ri-tu-ndr), v. tr. tornar barytono;
+—se, v. pr. tornar-se barytono. || F. A-Fbarytonot+ar.
+
+Abasbacar-se (a-bas-ba-kár-sse), v. pr. o mesmo
+que embasbacar-se. || F. A4+basbaquet+ar.
+
+Abascanto (a-bas-tan-tu), s. m. e adj. que preser-
+va de malefícios. || F. greg. Abaskantos.
+
+Abasia (a-ba-zi-a), s. f. (Med.) Palavra usada na
+expressão astasia-abasia. V. Astasia.
+
+Abasico (a-bá-zi-ku), adj. e s. m. relativo à aba-
+sia; o que soffre de abasia. || F. Abasia-Fico.
+
+Abassor (a-ba-ssór), adj. (Anat.) que abaixa (fa-
+lando de musculos). || F. lat. Bassus.
+
+Abastadamente (a-bas-fú-da-men-te), adv. com
+abastança. || F. Abastado+-mente.
+
+Abastado qa asd, u), adj. cheio de viveres, do
+necessario : Cidade muito abastada. || Applicado a pes-
+soas significa rico: Um homem abastado. || F. Abastar+
+ado.
+
+Abastamento (a-bas-ta-men-tu), s. m. abastança,
+acção ou effeito de abastar. || F. Abastartmento. =
+
+Abastança (a-bas-fan-ssa), s. f. abundancia, cópia,
+fartura. || F. Abastar+ança.
+
+Abastante (a-bas-fan-te), adj. o mesmo que bas-
+tante. || F. A+bastante.
