@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+   <?xml-stylesheet type="text/css" href="../CSS/abbrev.css"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <p>
+         
+         <choice><abbr>adj.</abbr><expan>adjectivo</expan></choice>
+         <choice><abbr>adv.</abbr><expan>adverbio</expan></choice>
+         <choice><abbr>agr.</abbr><expan>agricultura</expan></choice>
+         <choice><abbr>alg.</abbr><expan>algebra</expan></choice>
+         <choice><abbr>anat.</abbr><expan>anatomia</expan></choice>
+         <choice><abbr>ant.</abbr><expan>antiquado</expan></choice>
+         <choice><abbr>anton.</abbr><expan>antonymo</expan></choice>
+         <choice><abbr>ar.</abbr><expan>arabica</expan></choice>
+         <choice><abbr>arch.</abbr><expan>archaismo</expan></choice>
+         <choice><abbr>archit.</abbr><expan>architectura</expan></choice>
+         <choice><abbr>augm.</abbr><expan>augmentativo</expan></choice>
+         <choice><abbr>aux.</abbr><expan>auxiliar</expan></choice>
+         <choice><abbr>bot.</abbr><expan>botanica</expan></choice>
+         <choice><abbr>cf.</abbr><expan>confira</expan></choice>
+         <choice><abbr>chron.</abbr><expan>chronologia</expan></choice>
+         <choice><abbr>cir.</abbr><expan>cirurgia</expan></choice>
+         <choice><abbr>comm.</abbr><expan>commercial</expan></choice>
+         <choice><abbr>comp.</abbr><expan>composto</expan></choice>
+         <choice><abbr>compl.</abbr><expan>complemento</expan></choice>
+         <choice><abbr>contr.</abbr><expan>contracção</expan></choice>
+         <choice><abbr>cul.</abbr><expan>culinario</expan></choice>
+         <choice><abbr>dim.</abbr><expan>diminutivo</expan></choice>
+         <choice><abbr>euph.</abbr><expan>euphonica</expan></choice>
+         <choice><abbr>f.</abbr><expan>feminino</expan></choice>
+         <choice><abbr>F.</abbr><expan>formação</expan></choice>
+         <choice><abbr>fam.</abbr><expan>familiar</expan></choice>
+         <choice><abbr>Flex.</abbr><expan>flexão</expan></choice>
+         <choice><abbr>fig.</abbr><expan>figurado</expan></choice>
+         <choice><abbr>for.</abbr><expan>forense</expan></choice>
+         <choice><abbr>fr.</abbr><expan>francez</expan></choice>
+         <choice><abbr>g.</abbr><expan>genero</expan></choice>
+         <choice><abbr>geod.</abbr><expan>geodesia</expan></choice>
+         <choice><abbr>gr.</abbr><expan>grego</expan></choice>
+            
+         <choice><abbr>hebr.</abbr><expan>hebraico</expan></choice>
+         <choice><abbr>hesp.</abbr><expan>hespanhol</expan></choice>
+         <choice><abbr>homog.</abbr><expan>homographia</expan></choice>
+         <choice><abbr>hydraul.</abbr><expan>hydraulico</expan></choice>
+         <choice><abbr>hyg.</abbr><expan>hygiene</expan></choice>
+         <choice><abbr>ind,</abbr><expan>indicativo</expan></choice>
+         <choice><abbr>infan.</abbr><expan>infantil</expan></choice>
+         <choice><abbr>inf.</abbr><expan>infinito</expan></choice>
+            <choice><abbr>ingl.</abbr><expan>inglez</expan></choice>
+            <choice><abbr>interj.</abbr><expan>interjeição</expan></choice>
+            <choice><abbr>intr.</abbr><expan>intransitivo</expan></choice>
+         <choice><abbr>impes.</abbr><expan>impessoal</expan></choice>
+               <choice><abbr>imp.</abbr><expan>imperfeito</expan></choice>
+               <choice><abbr>irr.</abbr><expan>irregular</expan></choice>
+               <choice><abbr>iron.</abbr><expan>ironico</expan></choice>
+                  <choice><abbr>jur.</abbr><expan>juridico</expan></choice>
+               <choice><abbr>lat.</abbr><expan>latino</expan></choice>
+                  <choice><abbr>leg.</abbr><expan>legislativo</expan></choice>
+                  <choice><abbr>loc.</abbr><expan>locução</expan></choice>
+                  <choice><abbr>m.</abbr><expan>masculino</expan></choice>
+                  <choice><abbr>math.</abbr><expan>mathematica</expan></choice>
+                     <choice><abbr>met.</abbr><expan>metallurgia</expan></choice>
+                     <choice><abbr>min.</abbr><expan>mineralogia</expan></choice>
+               <choice><abbr>neol.</abbr><expan>neologismo</expan></choice>
+                     <choice><abbr>n.</abbr><expan>nome</expan></choice>
+                     <choice><abbr>num.</abbr><expan>numero</expan></choice>
+                     <choice><abbr>opt.</abbr><expan>optica</expan></choice>
+                     <choice><abbr>orig.</abbr><expan>origem</expan></choice>
+                     <choice><abbr>p. p.</abbr><expan>participio passivo</expan></choice>
+                     <choice><abbr>p. pres.</abbr><expan>participio presente</expan></choice>
+                  <choice><abbr>parl.</abbr><expan>parlamentar</expan></choice>
+                  <choice><abbr>phil.</abbr><expan>philosophia</expan></choice>
+                  <choice><abbr>philol.</abbr><expan>philologia</expan></choice>
+                 
+            <choice><abbr>phon.</abbr><expan>phonetica</expan></choice>
+                  <choice><abbr>phr.</abbr><expan>phrase</expan></choice>
+                  <choice><abbr>phys.</abbr><expan>physica</expan></choice>
+                  <choice><abbr>pl.</abbr><expan>plural</expan></choice>
+                  <choice><abbr>poli.</abbr><expan>politico</expan></choice>
+                  <choice><abbr>port.</abbr><expan>portuguez</expan></choice>
+                  <choice><abbr>pref.</abbr><expan>prefixo</expan></choice>
+                  <choice><abbr>prep.</abbr><expan>preposição</expan></choice>
+                  <choice><abbr>pret.</abbr><expan>preterito</expan></choice>
+               <choice><abbr>pron.</abbr><expan>pronome</expan></choice>
+                  <choice><abbr>p. us.</abbr><expan>pouco usado</expan></choice>
+               <choice><abbr>rad.</abbr><expan>radical</expan></choice>
+            <choice><abbr>refl.</abbr><expan>reflexivo</expan></choice>
+                  <choice><abbr>rel.</abbr><expan>religioso</expan></choice>
+               <choice><abbr>rom.</abbr><expan>romano</expan></choice>
+            <choice><abbr>rust.</abbr><expan>rustico</expan></choice>
+            <choice><abbr>s.</abbr><expan>substantivo</expan></choice>
+            <choice><abbr>sing.</abbr><expan>singular</expan></choice>
+                  <choice><abbr>suff.</abbr><expan>suffixo</expan></choice>
+               <choice><abbr>sup.</abbr><expan>superlativo</expan></choice>
+                  <choice><abbr>s. loc.</abbr><expan>suo loco</expan></choice>
+            <choice><abbr>syn.</abbr><expan>synonymo</expan></choice>
+            <choice><abbr>synt.</abbr><expan>syntaxe</expan></choice>
+            <choice><abbr>t.</abbr><expan>termo</expan></choice>
+            <choice><abbr>tech.</abbr><expan>technologia</expan></choice>
+            <choice><abbr>theol.</abbr><expan>theologia</expan></choice>
+            <choice><abbr>tint.</abbr><expan>tinturaria</expan></choice>
+            <choice><abbr>tr.</abbr><expan>transitivo</expan></choice>
+            <choice><abbr>V.</abbr><expan>veja-se</expan></choice>
+            <choice><abbr>v.</abbr><expan>verbo</expan></choice>
+            <choice><abbr>v. pron.</abbr><expan>verbo pronominal</expan></choice>
+            <choice><abbr>vet.</abbr><expan>veterinaria</expan></choice>
+            <choice><abbr>zool.</abbr><expan>zoologia</expan></choice>
+         
+         </p>
+      </body>
+  </text>
+</TEI>
