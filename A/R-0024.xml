@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <entry>
+            <form>
+               <orth>Abalaustrado</orth>
+               <pron>a-ba-la-us-<q>trá</q>-du</pron>
+            </form>
+            <gramGrp>adj.</gramGrp>
+            <sense><def>rodeado, guarnecido de balaustres</def></sense>
+            <etym>F.<q>Abalaustrar</q><q>+ado.</q></etym>
+         </entry>
+        
+         <entry>
+             <form>
+                <orth>Abalaustramento</orth>  
+                <pron>a-ba-la-us-tra-<q>men</q>-tu</pron>
+             </form>
+            <gramGrp>s.m.</gramGrp>
+            <sense><def>acto ou operação de abalaustrar</def></sense>
+            <etym>F.<q>Abalaustrar</q><q>+ mento.</q></etym>
+            </entry>
+        
+        <entry>
+         <form>
+            <orth>Abalaustrar</orth>
+            <pron>a-ba-la-us-<q>trár</q></pron>  
+         </form>  
+           <gramGrp>v. fr.</gramGrp>
+           <sense><def>guarnecer de balaustres</def></sense>
+           <etym>F.<q>A +</q><q>balaustre</q><q>+ ar.</q></etym>
+        </entry>
+            
+         <entry>
+            <form>
+               <orth>Abalavel</orth>
+               <pron>a-ba-<q>lá</q>-vél</pron>  
+            </form>  
+            <gramGrp>adj.</gramGrp>
+            <sense><def>susceptivel de ser abalado</def></sense>
+            <etym>F.<q>Abalar +</q><q>vel.</q></etym>
+         </entry>
+            
+         <entry>
+            <form>
+               <orth>Abaldear</orth>
+               <pron>a-bál-de-<q>ádr</q></pron>  
+            </form>  
+            <gramGrp>v. tr.</gramGrp>
+            <sense><def>o mesmo que <q>baldear</q> </def></sense>
+            <etym>F.<q>A +</q><q>baldear.</q></etym>
+         </entry>
+ 
+         <entry>
+            <form>
+               <orth>Abalienação</orth>
+               <pron>a-ba-li-ze-na-<q>ssão</q></pron>  
+            </form>  
+            <gramGrp>s. f.</gramGrp> 
+            <usg type="dom">jur.</usg>
+            <usg type="time">rom.</usg>
+            <sense><def>transferencia de gados, terras ou escravos, a quem tinha o direito, de os possuir. </def></sense>
+            <etym>F.<q>Abalienar</q><q>+acão.</q></etym>
+         </entry>
+    
+         <entry>
+            <form>
+               <orth>Abalienar </orth>
+               <pron>a-ba-li-e-<q>nár</q></pron>  
+            </form>  
+            <gramGrp>v. tr.</gramGrp> 
+            <sense><def>transferir por abalienação. </def></sense>
+            <etym>F. lat.<q>Abalienare.</q></etym>
+         </entry>
+         
+         <entry>
+            <form>
+               <orth>Abalisadamente</orth>
+               <pron>a-ba-li-<q>zá</q>-da-<q>men</q>-te</pron>  
+            </form>  
+            <gramGrp>adv.</gramGrp> 
+            <sense><def>extremadamente, com distincção.</def></sense>
+            <etym>F.<q>Abalisado</q><q>+mente.</q></etym>
+         </entry>
+         
+         <entry>
+            <form>
+               <orth>Abalisado</orth>
+               <pron>a-ba-li-<q>zá</q>-da</pron>  
+            </form>  
+            <gramGrp>adj.</gramGrp> 
+            <sense><def>distincto, notavel: <cit><quote>Dando esperanças de sahir <q>abalisado</q> na virtude.</quote><bibl><author>M. Bernardes.</author></bibl></cit></def></sense>
+            <etym>F.<q>Abalisar</q><q>+ado.</q></etym>
+         </entry>
+         
+         <entry>
+            <form>
+               <orth>Abalisador</orth>
+               <pron>a-ba-li-za-<q>dór</q></pron>  
+            </form>  
+            <gramGrp>s. m.</gramGrp> 
+            <sense><def>o que abalisa, que põe balisas.</def></sense>
+            <etym>F.<q>Abalisar</q><q>+ or.</q></etym>
+         </entry>
+         
+         <entry>
+            <form>
+               <orth>Abalisar</orth>
+               <pron>a-ba-li-<q>zár</q></pron>  
+            </form>  
+            <gramGrp>v. tr. </gramGrp> 
+            <sense><def>demarcar com balisas: <cit><quote>No mesmo dia à tarde <q>abalisou</q> o sitio onde se havia fazer o forte.</quote><bibl><author>Dic. d'Ac.</author></bibl></cit></def></sense>
+            <sense><def> Determinar, assignar: <q>Abalisou</q> aos companheiros o que tinham a fazer.</def></sense>
+            <gramGrp>v. pr.</gramGrp>
+            <usg type= "style"> fig.</usg>
+            <sense><def> extremar-se, sobressahir, assignalar-se, tornar-se notavel; chegar á medida, é balisa: <cit><quote>D'elles o que mais se <q>abalisava</q>na batalha era um, que pela grandeza do corpo mostrava ser gigante</quote><bibl><author>Dic. d'Ac.</author></bibl></cit> Uma gente que com cerimonias e ritos particulares se <q>abalisavam</q> e dividiam dos outros.<bibl><author>Dic. d'Ac.</author></bibl></def></sense>
+            <etym>F.<q>A</q><q>+balisa </q><q>+ar.</q></etym>
+         </entry>
+            
+         <entry>
+            <form>
+               <orth>Abalistar</orth>
+               <pron>a-ba-lis-<q>tár</q></pron>  
+            </form>  
+            <gramGrp>v. tr.</gramGrp>
+            <usg type="ant">ant.</usg>
+            <sense><def>bater com tiros de balista (dizia-se em relação a fortalezas, muralhas, etc.)</def></sense>
+            <etym>E.<q>A</q><q>+balista</q><q>+ar.</q></etym>
+         </entry>
+         
+         <entry>
+            <form>
+               <orth>Abalo</orth>
+               <pron>a-<q>bá</q>-lu</pron>  
+            </form>  
+            <gramGrp>s. m.</gramGrp>
+            <sense><def>acção ou effeito de abalar; tremor: <cit><quote>Começa a mover-se a terra com uns abalos e sacudimentos tão impetuosos e tão apressados, que se não vêem maiores nas águas do mar.</quote><bibl><author>Dic. d'Ac.</author></bibl></cit></def></sense> 
+            <sense><def>Perturbação, desordem.</def></sense>
+            <sense><def>Impressão moral: Muitas vezes as coisas vistas nos olhos fazem mór <q>abalo</q> que as que o entendimento secretamente ensina. <bibl><author>Dic. d'Ac.</author></bibl></def></sense>  
+            <sense><def>Mudança (de opinião, de sentimento): O rei, posto que na crença não fizesse <q>abalo</q>, sempre mostrou grande satisfação das palavras do portuguez.</def></sense> 
+            <sense><def>Partida: Começou-se a entender na pref nação do <q>abalo</q>, que não tardou.<bibl><author>Dic. d'Ac.</author></bibl></def></sense>
+            <etym>F. contr. de <q>Abalar</q><q>+o.</q></etym>
+         </entry>
+            
+         <entry>
+            <form>
+               <orth>Abaloar</orth>
+               <pron>a-ba-lu-<q>ár</q></pron>  
+            </form>  
+            <gramGrp>v. tr.</gramGrp>
+            <sense><def>dar fórma de balão a.</def></sense>
+            <etym>F.<q>A</q><q>+balão</q><q>+ar.</q></etym>
+         </entry>
+         
+         <entry>
+            <form>
+               <orth>Abalofado</orth>
+               <pron>a-ba-lu-<q>fá</q>-du</pron>  
+            </form>  
+            <gramGrp>adj.</gramGrp>
+            <sense><def>um tanto balofo.</def></sense>
+            <etym>F.<q>Abalofar</q><q>+ado.</q></etym>
+         </entry>
+        
+         <entry>
+            <form>
+               <orth>Abalofar </orth>
+               <pron>a-ba-lô-<q>fár</q></pron>  
+            </form>  
+            <gramGrp>v. tr.</gramGrp>
+            <sense><def>fazer balofo, afofar:<q>Abalofou</q> o pão para lhe augmentar de volume.</def></sense>
+            <etym>F.<q>A</q><q>+balofo</q><q>+ar.</q></etym>
+         </entry>
+            
+         <entry>
+            <form>
+               <orth>Abalonado</orth>
+               <pron>a-ba-lu-<q>ná</q>-du</pron>  
+            </form>  
+            <gramGrp>adj.</gramGrp>
+            <sense><def>que tem fórma de balão</def></sense>
+            <etym>F.<q>A</q><q>+balão.</q></etym>
+         </entry>
+         
+         <entry>
+            <form>
+               <orth>Abaloso</orth>
+               <pron>a-ba-<q>ló</q>-zu</pron>  
+            </form>  
+            <gramGrp>adj.</gramGrp>
+            <usg type="lang">Bras.</usg>
+            <sense><def>que dá pouco commodo (fal. do cavallo).</def></sense>
+            <etym>F.<q>Abalar</q><q>+oso.</q></etym>
+         </entry>  
+          
+         <entry>
+            <form>
+               <orth>Abalrôa</orth>
+               <pron>a-bál-<q>rô</q>-a</pron>  
+            </form>  
+            <gramGrp>s. f.</gramGrp>
+            <sense><def>arpeu para abordagem; balrôa.</def></sense>
+            <etym>F.<q>A</q><q>+balrôa.</q></etym>
+         </entry>
+            
+         <entry>
+            <form>
+               <orth>Abalroacão</orth>
+               <pron>a-bál-rru-a-<q>ssão</q></pron>  
+            </form>  
+            <gramGrp>s. f.</gramGrp>
+            <sense><def>o mesmo que abalroamento. </def></sense>
+            <etym>F.<q>Abalroar</q><q>+ão.</q></etym>
+         </entry>
+         
+         <entry>
+            <form>
+               <orth>Abalroadelta</orth>
+               <pron>a-bál-rru-a-<q>dé</q>-la</pron>  
+            </form>  
+            <gramGrp>s. f.</gramGrp>
+            <sense><def>o mesmo que abalroamento. </def></sense>
+            <etym>F.<q>Abalroar</q><q>+mento.</q></etym>
+         </entry>
+      </body>
+  </text>
+</TEI>
