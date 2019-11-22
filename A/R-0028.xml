@@ -1,0 +1,375 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <entry>
+            <form>
+               <orth>Abdominanes</orth>
+               <pron>(ab'-dô-mi-nais)</pron>
+            </form>
+            <gramGrp>
+               <gram type="pos">s.</gram>
+               <gen>m.</gen>
+               <num>pl.</num></gramGrp>
+            <sense>
+               <def> peixes malacopterygios, em que as barbatanas ventraes são suspensas abaixo do
+                  abdomen, atraz das peitoraes. Esta ordem comprehende a maior parte dos peixes de
+                  agua doce. </def>
+            </sense>
+
+            <sense>
+               <etym>F. pl. de <q>abdominal</q>.</etym>
+            </sense>
+         </entry>
+         <entry>
+            <form>
+               <orth>Abdominal</orth>
+               <pron>(ab'-dó-mi-nál)</pron>
+            </form>
+            <gramGrp> adj.</gramGrp>
+            <sense>
+               <def> pertencente ou relativo ao abdomen </def>
+            </sense>
+
+            <sense>
+               <def>Cavidade abdominal, o mesmo que abdomen. </def>
+            </sense>
+
+            <sense>
+               <def>Cavidade abdominal, o mesmo que abdomen. </def>
+            </sense>
+
+            <sense><def>Costellas abdomínaes, os ultimos cinco ares de costellas, que tambem se
+                  chamam sternaes, alsas ou espurias.</def></sense>
+
+            <sense><etym>F. <q>Ablomen</q><q>+al</q>.</etym></sense>
+
+         </entry>
+
+         <entry>
+            <form><orth>Abdominoscopia</orth>
+               <pron> (ab'-dó-mi-nus-ku-pi-a)</pron></form>
+
+            <gramGrp>
+               <gram type="pos">a.</gram>
+               <gen>f.</gen>
+            </gramGrp>
+            <sense><usg type="domain">(med.)</usg>
+               <def>methodo de reconhecer o estado morbido do abdomen por meio da percussão.</def>
+            </sense>
+
+            <sense><etym> F. <q>Abdoment</q><q>+scopia</q>, do gr. <q>scopéin</q>,
+               ver.</etym></sense>
+         </entry>
+
+         <entry>
+            <form><orth>Abdominosecopico</orth>
+               <pron> (ab'-du-mi-nus-kó-pi-ku)</pron>
+            </form>
+            <gramGrp>
+               <gram type="pos">adj.</gram>
+            </gramGrp>
+            <sense><def>relativo a abdominoscopia. </def></sense>
+            <sense><etym>F. <q>Abdominoscopia</q><q>+ico</q></etym></sense>
+         </entry>
+
+         <entry>
+            <form><orth>Abdominoso</orth>
+               <pron> (ab'-dó-mi-nô-zu)</pron>
+            </form>
+            <gramGrp>
+               <gram type="pos">adj.</gram>
+            </gramGrp>
+            <sense><def>que tem o ventre volumoso. </def></sense>
+            <sense><def>barrigudo. </def></sense>
+            <sense><etym>F. <q>Abdomen</q><q>+oso</q></etym></sense>
+         </entry>
+
+         <entry>
+            <form><orth>Abducção</orth>
+               <pron>(ab'-du-ssão)</pron>
+            </form>
+            <gramGrp>
+               <gram type="pos">s.</gram>
+               <gen> f.</gen>
+            </gramGrp>
+            <sense><usg type="domain">(anat.)</usg>
+               <def>movimento que afasta um membro, ou uma parte qualquer, do plano medio que se
+                  suppõe dividir o corpo longitudinalmente em duas metades semelhantes ou
+                  symetricas.</def>
+            </sense>
+            <sense><etym>F. <lang>lat.</lang><q>Abductio</q>, acção de mover, de
+               afastar.</etym></sense>
+         </entry>
+
+         <entry>
+            <form><orth>Abducente</orth>
+               <pron> (ab'-du-ssen-te)</pron>
+            </form>
+            <gramGrp>
+               <gram type="pos">s.</gram>
+               <gen> m.</gen>
+            </gramGrp>
+            <sense> o mesmo que abductor.</sense>
+            <sense><etym>F. <lang>lat.</lang>
+                  <q>Abducens</q>.</etym></sense>
+         </entry>
+
+         <entry>
+            <form><orth>Abductivo</orth>
+               <pron>(ab'-du-ti-vu)</pron>
+            </form>
+            <gramGrp>
+               <gram type="pos">adj.</gram>
+            </gramGrp>
+            <sense><def>que serve para abduzir: que abduz ou se abduz. </def></sense>
+            <sense><etym>F.<lang>lat.</lang><q>Abductu</q><q>+ivo</q></etym></sense>
+         </entry>
+
+         <entry>
+            <form><orth>Abductor</orth>
+               <pron> (ab'-du-fór)</pron>
+            </form>
+            <gramGrp>
+               <gram type="pos">adj.</gram>
+            </gramGrp>
+            <sense><usg type="domain">(anat.)</usg>
+               <def>que produz abducção </def>
+            </sense>
+            <gramGrp>
+               <gram type="pos">s.</gram>
+               <gen>m.</gen>
+            </gramGrp>
+            <sense><def>nome generico dado aos musculos que produzem o movimento da abducção: O
+                  grande abductor da mão, o abductor do olho.<q> [Os museulos que lhes são oppostos
+                     denominam-se adductores.]</q></def>
+               <etym>F. <lang>lat. .</lang><q>Abductor</q></etym></sense>
+         </entry>
+
+         <entry>
+            <form><orth>Abduzir</orth>
+               <pron>(ab'-du-zir)</pron>
+            </form>
+            <gramGrp>
+               <gram type="pos">v. lr.</gram>
+            </gramGrp>
+            <sense><def>desviar, afastar </def></sense>
+            <sense><def>causar abducção. </def></sense>
+            <sense><etym>F. <lang>lat</lang><q>Abducere</q></etym></sense>
+         </entry>
+
+         <entry>
+            <form><orth>Abeatar-se</orth>
+               <pron> (a-bi-a-tár-sse)</pron>
+            </form>
+            <gramGrp>
+               <gram type="pos">v. pr.</gram>
+            </gramGrp>
+            <sense><def>fazer-se beato </def></sense>
+            <sense><etym>F. <q>A</q><q>+beato</q><q>+ar</q></etym></sense>
+         </entry>
+
+         <entry>
+            <form><orth>Abêbera</orth>
+               <pron>(a-bê-be-ra)</pron>
+            </form>
+            <gramGrp>
+               <gram type="pos">s.</gram>
+               <gen>f.</gen>
+            </gramGrp>
+            <sense><def>o mesmo que bêbera. </def></sense>
+            <sense><etym>F. <q>A</q><q>+bêbera</q></etym></sense>
+         </entry>
+
+         <entry>
+            <form><orth>Abeberado</orth>
+               <pron>(a-be-be-rá-du)</pron>
+            </form>
+            <gramGrp>
+               <gram type="pos">adj.</gram>
+            </gramGrp>
+            <sense><def>que tem bebido: Gado <mentioned>abeberado.</mentioned>
+               </def></sense>
+            <sense><def>Impregnado (de um liquido): À sopa já está <mentioned>abeberada.</mentioned>
+               </def></sense>
+            <sense><etym>F. <q>Abeber</q><q>+ado</q></etym></sense>
+         </entry>
+
+         <entry>
+            <form><orth>Abeberar</orth>
+               <pron>(a-be-be-rár )</pron>
+            </form>
+            <gramGrp>
+               <gram type="pos">v. tr.</gram>
+            </gramGrp>
+            <sense><def>dar de beber a, le- var a beber: <mentioned>Abeberou</mentioned> o gado na
+                  ribeira.</def></sense>
+            <sense><def> Embeber, ensopar, impregnar : <mentioned>Abeberou</mentioned> o pão no
+                  caldo durante meia hora. </def></sense>
+            <gramGrp>
+               <gram type="pos">v. intr.</gram>
+            </gramGrp>
+            <sense><def>embeber-se.</def></sense>
+            <sense><etym>F. <q>em</q><q>+beber</q><q>+ar</q></etym></sense>
+         </entry>
+
+         <entry>
+            <form><orth>Abêbra</orth>
+               <pron>(a-bé-bra)</pron>
+            </form>
+            <gramGrp>
+               <gram type="pos">s.</gram>
+               <gen>f.</gen>
+            </gramGrp>
+            <sense><usg type="domain">(pop.)</usg><def>o mesmo que abé- bera. </def>
+            </sense>
+            <sense><etym>F. corr. de <q>Abebera.</q></etym></sense>
+         </entry>
+
+         <entry>
+            <form><orth>Abecedario </orth>
+               <pron>(á-be-sse-dá-ri-u)</pron>
+            </form>
+            <gramGrp>
+               <gram type="pos">s.</gram>
+               <gen>m.</gen>
+            </gramGrp>
+            <sense><def>alphabeto, reunião de todas as lettras, collocadas pela ordem ge- ralmente
+                  adoptada. </def></sense>
+            <sense><def> Pequeno livro para o ensino dos rudimentos da leitura.</def></sense>
+            <sense><def> Qualquer systema de signaes estabelecido para representar as
+                  palavras:</def>
+               <cit type="example">
+                  <quote> Foi necessario inventar um novo abecedario de acções e acenos | para
+                     explicar os nomes mais geraes e precisos. </quote>
+                  <bibl>
+                     <author>(Bernardes.)</author>
+                  </bibl>
+               </cit>
+            </sense>
+            <gramGrp>
+               <gram type="pos">adj.</gram>
+            </gramGrp>
+            <sense><def>alphabetico:</def>
+               <cit type="example">
+                  <quote>As palavras que não estiverem em seu logar abecedario, um pouco mais acima
+                     ou abaixo se acharão. </quote>
+                  <bibl>
+                     <author>(Roboredo.)</author>
+                  </bibl>
+               </cit>
+            </sense>
+            <sense><etym>F. <q>abed</q><q>+ario</q></etym></sense>
+         </entry>
+
+         <entry>
+            <form><orth>Abechedo</orth>
+               <pron>(a-be-xê-du)</pron>
+            </form>
+            <gramGrp>
+               <gram type="pos">s.</gram>
+               <gen>m.</gen>
+            </gramGrp>
+            <sense><usg type="geo">(Tras-M)</usg><def>o mesmo que abíxeiro ou
+               avessédo.</def></sense>
+
+         </entry>
+
+         <entry>
+            <form><orth>Abechucho</orth>
+               <pron>(a-be-tru-xu)</pron>
+            </form>
+            <gramGrp>
+               <gram type="pos">s.</gram>
+               <gen>m.</gen>
+            </gramGrp>
+            <sense><usg type="geo">(Tras-M)</usg><def>pessoa encorpada e desageitada.</def></sense>
+
+         </entry>
+
+         <entry>
+            <form><orth>Abecoinha</orth>
+               <pron>(a-be-ku-i-nha)</pron>
+            </form>
+            <gramGrp>
+               <gram type="pos">s.</gram>
+               <gen>f.</gen>
+            </gramGrp>
+            <sense><usg>(prov.)</usg><def>o mesmo que abibe. </def></sense>
+
+         </entry>
+
+         <entry>
+            <form><orth>Abegão<add place="above">1</add></orth>
+               <pron>(a-be-ghão)</pron>
+            </form>
+            <gramGrp>
+               <gram type="pos">s.</gram>
+               <gen>m.</gen>
+            </gramGrp>
+            <sense><def>o que tem a cargo a abegoaria. </def></sense>
+            <sense><def>Feitor, aquelle a quem está commettida a administração de uma quinta ou
+                  herdade.</def></sense>
+            <sense><etym>F. <lang>gr.</lang><q>Boukaios,</q> guarda de bois.</etym></sense>
+         </entry>
+
+         <entry>
+            <form><orth>Abegão <add place="above">2</add></orth>
+               <pron>(a-be-ghão)</pron>
+            </form>
+            <gramGrp>
+               <gram type="pos">s.</gram>
+               <gen>m.</gen>
+            </gramGrp>
+            <sense><usg>(Minho)</usg><def>o mesmo que abelhão</def></sense>
+            <sense><etym>F. <lang>cast.</lang><q>Abejon</q></etym></sense>
+         </entry>
+
+         <entry>
+            <form><orth>Abegôa</orth>
+               <pron>(a-be-ghó-a)</pron>
+            </form>
+            <gramGrp>
+               <gram type="pos">s.</gram>
+               <gen>f.</gen>
+            </gramGrp>
+            <sense><def>mulher que faz as vêzes do abegão. </def></sense>
+            <sense><def>A mulher do abegão. </def></sense>
+            <sense><etym>F. forma feminina de <q>Abegão</q></etym></sense>
+         </entry>
+
+         <entry>
+            <form><orth>Abegoaria</orth>
+               <pron>(a-be-ghu-a-ri-a)</pron>
+            </form>
+            <gramGrp>
+               <gram type="pos">s.</gram>
+               <gen>f.</gen>
+            </gramGrp>
+            <sense><def>logar onde o abegão guarda os bois e as alfaias de lavoura ou onde se
+                  fabricam os instrumentos ruraes. </def></sense>
+            <sense><def>Estabelecimento dependente da camara municipal, onde se guarda o ani- mal
+               e o material empregado na limpeza da cidade, villa, etc.</def></sense>
+            <sense><etym>F. <q>Abegão</q><q>+aria</q></etym></sense>
+         </entry>
+
+         <p/>
+      </body>
+   </text>
+</TEI>
