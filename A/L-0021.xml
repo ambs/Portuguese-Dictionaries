@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
-	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+<?xml-stylesheet type="text/css" href="L-0021.css"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
    <teiHeader>
       <fileDesc>
@@ -44,19 +46,22 @@
                   portugueza aquella em que mais predomina. A aceumulação d'esta voz é de um bello
                   effeito onomatopico; imprime à phrase um ar festival, mui proprio para manifestar
                   sentimentos de enthusiasmo. Que optimo effeito produz a repetição d'esta voz nos
-                  versos porque começa a magna epopêa nacional: <cit>
-                     <quote>
+                  versos porque começa a magna epopêa nacional: <cit type="display">
+                  <quote>
+                    <lg>
                         <l>As armas e os barões assignalados,</l>
                         <l>Que da occidental praia lusitana,</l>
                         <l>Por mares nunca d'antes navegados,</l>
                         <l>Passaram ainda alem da Taprobana.</l>
+                    </lg>
                      </quote>
                      <bibl>
                         <author>L. de Camões</author>
                         <title>Lusiadas</title>
                      </bibl>
-                  </cit> No seguinte sublime trecho: <cit>
-                     <quote>
+                  </cit> No seguinte sublime trecho: <cit type="display">
+                  <quote>
+                    <lg>
                         <l>Pela ultima vez, co'a espada em punho</l>
                         <l>Rutilante na pugna se arremessa;</l>
                         <l>Seu braço é tempestade, a espada é raio!...</l>
@@ -64,9 +69,11 @@
                         <l>É a mão do Senhor! barreira ingente;</l>
                         <l>Basta, Guerreiro! Tua gloria é minha;</l>
                         <l>Tua força em mim está. Tens completado</l>
-                        <l>Tua augusta missão. És homem; — pára.</l></quote>
+                        <l>Tua augusta missão. És homem; — pára.</l>
+                    </lg>
+                      </quote>
                      <bibl>
-                        <author>D. J. G. de MAagalhães</author>
+                        <author>D. J. G. de Magalhães</author>
                         <title>Ode a Napoleão</title>
                      </bibl>
                   </cit> Não é só o grandioso da idéa que os torna um dos mais bellos trechos da

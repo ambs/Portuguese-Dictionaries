@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+    <?xml-stylesheet type="text/css" href="../CSS/abbrev.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <p>
+      
+         <choice>
+            <abbr>A. Ferreira</abbr>
+            <expan>Antonio Ferreira</expan>
+         </choice>   
+         
+         <choice>
+            <abbr>Aff. d'Albuq.</abbr>
+            <expan>Affonso d'Albuquerque</expan>
+         </choice>
+         
+         <choice>
+            <abbr>A. H. Leal</abbr>
+            <expan>o dr. Antonio Henriques Leal</expan>
+         </choice>
+         
+         <choice>
+            <abbr>Alb. Tell.</abbr> 
+            <expan>Alberto Telles</expan>
+         </choice>
+         
+         <choice>
+            <abbr>Alex. Herc.</abbr>
+            <expan>Alexandre Herculano</expan>
+         </choice>
+         
+         <choice>
+            <abbr>Andr. Caminha</abbr>
+            <expan>Andrade Caminha</expan>
+         </choice>
+         
+         <choice>
+            <abbr>Anth. do Quental</abbr>
+            <expan>Anthero do Quental</expan>
+         </choice>
+         
+         <choice>
+            <abbr>Araujo</abbr>
+            <expan>João Salgado de Araujo</expan>
+         </choice>
+         
+         <choice>
+            <abbr>Arr.</abbr>
+            <expan>Amador Arraes</expan>
+         </choice>
+         
+         <choice>
+            <abbr>Arte de furtar</abbr>
+            <expan>a obra d'este titulo que tem sido attribuida ao padre Antonio Vieira</expan>
+         </choice>
+         
+         <choice><abbr>Azur.</abbr><expan>Azurara</expan></choice>
+         
+         <choice><abbr>Barros</abbr><expan>João de Barros (historiador)</expan></choice>
+         
+         <choice><abbr>Bernardes</abbr><expan>o padre Manuel Bernardes</expan></choice>
+         
+         <choice><abbr>Bern. Rib.</abbr><expan>Bernardim Ribeiro</expan></choice>
+         
+         <choice><abbr>Boc.</abbr><expan>Bocage (o poeta)</expan></choice>
+         
+         <choice><abbr>Brito</abbr><expan>Fr. Bernardo de Brito</expan></choice>
+         
+         <choice><abbr>Brot.</abbr><expan>Brotero</expan></choice>
+         
+         <choice><abbr>Cam.</abbr><expan>Luiz de Camões</expan></choice>
+         
+         <choice><abbr>Camões</abbr><expan>Luiz de Camões</expan></choice>
+         
+         <choice><abbr>Camillo</abbr><expan>Camillo Castello Branco</expan></choice>
+         
+         <choice><abbr>Cardoso</abbr><expan>o padre Antonio Cardoso Borges de Figueiredo</expan></choice>
+         
+         <choice><abbr>Cart. do Jap.</abbr><expan>cartas do Japão e da India</expan></choice>
+         
+         <choice><abbr>Carvalho</abbr>
+            <expan>o padre Antonio Carvalho da Costa, auctor da Chorographia de Portugal</expan></choice>
+         
+         <choice><abbr>Castanh.</abbr><expan>Fernão Lopes de Castanheda</expan></choice>
+         
+         <choice><abbr>Castilho</abbr><expan>Antonio Feliciano de Castilho</expan></choice>
+         
+         <choice><abbr>Cath. (D.)</abbr><expan>a infanta D. Catharina</expan></choice>
+         
+        <choice><abbr>Ceita</abbr><expan>Fr. João de Ceita</expan></choice>
+         
+         <choice><abbr>Cod. adm.</abbr><expan>codigo administrativo</expan></choice>
+         
+        <choice><abbr>Cod. civ.</abbr><expan>codigo civil</expan></choice>
+         
+         <choice><abbr>Cod. comm.</abbr><expan>codigo commercial</expan></choice>
+         
+         <choice><abbr>Cod. de just. mil.</abbr><expan>codigo de justiça militar</expan></choice>
+         
+         <choice><abbr>Cod. pen.</abbr><expan>codigo penal</expan></choice>
+         
+         <choice><abbr>Cod, do proc. civ.</abbr><expan>codigo do processo civil</expan></choice>
+         
+         <choice><abbr>Comm.</abbr><expan>commentarios</expan></choice>
+         
+         <choice><abbr>Corte Real</abbr><expan>Jeronymo Corte Real</expan></choice>
+         
+         <choice><abbr>Corvo</abbr><expan>João d' Andrade Corvo</expan></choice>
+         
+         <choice><abbr>Couto</abbr><expan>Diogo do Couto</expan></choice>
+         
+         <choice><abbr>Dam. de Goes</abbr><expan>Damião de Goes</expan></choice>
+         
+         <choice><abbr>D. da Cruz</abbr><expan>Antonio Diniz da Cruz</expan></choice>
+         
+         <choice><abbr>Dic. d'Ac.</abbr><expan>exemplo citado no diccionario da Academia</expan></choice>
+         
+         <choice><abbr>Dic. de Moraes</abbr><expan>exemplo citado no diccionario de Moraes</expan></choice>
+         
+         <choice><abbr>Diogo Bern.</abbr><expan>Diogo Bernardes</expan></choice>
+         
+         <choice>
+            <abbr>D. Nunes de Leão</abbr>
+            <expan>Duarte Nunes de Leão</expan>
+         </choice>
+         
+         <choice><abbr>Eça</abbr><expan>Eça de Queiroz</expan></choice>
+         
+         <choice><abbr>Fern. Lopes</abbr><expan>Fernão Lopes</expan></choice>
+         
+         <choice><abbr>Fern. Mend.</abbr><expan>Fernão Mendes Pinto</expan></choice>
+         
+         <choice><abbr>Ferr. Vasc.</abbr><expan>Jorge Ferreira de Vasconcellos</expan></choice>
+         
+         <choice><abbr>Ferreira</abbr><expan>Antonio Ferreira</expan></choice>
+         
+         <choice><abbr>Fialho</abbr><expan>Fialho d'Almeida</expan></choice>
+            
+         <choice><abbr>Fil. Elys.</abbr>
+            <expan>Filinto Elysio (Francisso Manuel do Nascimento)</expan></choice>
+         
+         <choice><abbr>F. Lopes</abbr><expan>o chronista Fernão Lopes</expan></choice>
+         
+         <choice><abbr>F. M. Pinto</abbr>
+            <expan>Fernão Mendes Pinto</expan></choice>
+         
+         <choice><abbr>Franc. Man. (D.)</abbr><expan>D. Francisco Manuel de Mello</expan></choice>
+         
+         <choice>         
+            <abbr>Franc. Man. de Mello (D.)</abbr>
+            <expan>D. Francisco Manuel de Mello</expan>
+         </choice>         
+         
+         <choice><abbr>Fr. L. de Sousa</abbr><expan>Fr. Luiz de Sousa</expan></choice>
+         
+         <choice><abbr>Fr. Th. de Jes.</abbr><expan>Fr. Thomé de Jesus</expan></choice>
+            
+            
+            <choice><abbr>Fr. Franc. de S. Luiz</abbr><expan>Fr. Francisco de São Luiz</expan></choice>
+            
+            <choice><abbr>Garção</abbr> <expan>Pedro Correia Garção</expan></choice>
+            
+            <choice><abbr>Garrett</abbr> <expan>João Baptista da Silva Leitão d'Almeida Garrett</expan>
+            </choice>
+            <choice><abbr>G. de Rez</abbr> <expan>Garcia de Rezende</expan></choice>
+            
+            <choice><abbr>Gil Vic.</abbr> <expan>Gil Vicente</expan></choice>
+            <choice>
+            <abbr>Goes</abbr> <expan>Damião de Goes</expan>
+            </choice>
+            <choice><abbr>Gonç. Crespo</abbr> <expan>Gonçalves Crespo</expan>
+            </choice>
+            <choice><abbr>Gonç. Dias</abbr> <expan>Gonçalves Dias</expan>
+            </choice>
+            <choice><abbr>Gonz.</abbr> <expan>Gonzaga</expan>
+            </choice>
+            <choice><abbr>Gouveia</abbr> <expan>Fr. Antonio de Gouveia</expan>
+            </choice>
+            <choice><abbr>G. P. de Castro</abbr> <expan>Gabriel Pereira de Castro</expan>
+            </choice>
+            <choice><abbr>Guerreiro</abbr> <expan>o padre Fernão Guerreiro</expan>
+            </choice>
+            <choice><abbr>Herc.</abbr> <expan>Alexandre Herculano</expan>
+            </choice>
+            <choice><abbr>Herculano</abbr> <expan>Alexandre Herculano</expan>
+            </choice>
+            <choice><abbr>H. Leal</abbr> <expan>o dr. Henrique Leal</expan>
+            </choice>
+            <choice><abbr>H. Pinto</abbr> <expan>Heitor Pinto</expan>
+            </choice>
+            <choice><abbr>Heit. Pinto</abbr> <expan>Heitor Pinto</expan>
+            </choice>
+            <choice><abbr>In. d'Alc.</abbr> <expan>ineditos d'Alcobaça</expan>
+            </choice>
+            <choice><abbr>J. A. de Macedo</abbr> <expan>José Agostinho de Macedo</expan>
+            </choice>
+            <choice><abbr>J. d'Al.</abbr> <expan>José d'Alencar</expan>
+            </choice>
+            <choice><abbr>J. de Barros</abbr> <expan>João de Barros (o historiador)</expan>
+            </choice>
+            <choice><abbr>J. de Barros (dr.)</abbr> <expan>o doutor João de Barros</expan>
+            </choice>
+            <choice><abbr>J. de Deus</abbr> <expan>João de Deus</expan>
+            </choice>
+            <choice><abbr>Jer. Osor.</abbr> <expan>Jeronymo Osorio, bispo de Silves</expan>
+            </choice>
+            <choice><abbr>J. Fr. de Andrade</abbr> <expan>Jacintho Freire de Andrade</expan>
+            </choice>
+            <choice><abbr>J. F. Lisboa</abbr> <expan>João Francisco Lisboa</expan>
+            </choice>
+            <choice><abbr>J. Fr. Lisboa</abbr> <expan>João Francisco Lisboa</expan>
+            </choice>
+            <choice><abbr>Jorge Ferreira</abbr> <expan>Jorge Ferreira de Vasconcellos</expan>
+            </choice>
+            <choice><abbr>Lapa</abbr> <expan>João Ignacio Ferreira Lapa</expan>
+            </choice>
+            <choice><abbr>Lat. Coelho</abbr> <expan>José Maria Latino Coelho</expan>
+            </choice>
+            <choice><abbr>Lobo</abbr> <expan>Francisco Rodrigues Lobo</expan>
+            </choice>
+            <choice><abbr>L. de Sousa (Fr.)</abbr> <expan>Frei Luiz de Sousa</expan>
+            </choice>
+            <choice><abbr>Man. Bern.</abbr> <expan>padre Manuel Bernardes</expan>
+            </choice>
+            <choice><abbr>M. Bern.</abbr> <expan>padre Mannel Bernardes</expan>
+            </choice>
+            <choice><abbr>M. Leal</abbr> <expan>Mendes Leal</expan>
+            </choice>
+            <choice><abbr>Ord.</abbr> <expan>Ordenações</expan>
+            </choice>
+            <choice><abbr>Osorio</abbr> <expan>Jeronymo Osorio</expan>
+            </choice>
+            <choice><abbr>Pant. d'Aveiro</abbr> <expan>Pantaleão d'Aveiro</expan>
+            </choice>
+            <choice><abbr>Per. da Cunha</abbr> <expan>Antonio Pereira da Cunha</expan>
+            </choice>
+            <choice><abbr>Pinto Pereira</abbr> <expan>Antonio Pinto Pereira</expan>
+            </choice>
+            <choice><abbr>P. Man. Bern.</abbr> <expan>padre Manuel Bernardes</expan>
+            </choice>
+            
+           <choice> <abbr>R. da Silva</abbr> <expan>Rebello da Silva (Luiz Augusto)</expan>
+           </choice> 
+           <choice> <abbr>Reb. da Silva</abbr> <expan>Rebello da Silva (Luiz Augusto)</expan>
+           </choice> 
+           <choice> <abbr>Sá de Mir.</abbr> <expan>Sá de Miranda</expan>
+           </choice> 
+           <choice> <abbr>Serr.</abbr> <expan>Jeronymo Freire Serrão</expan>
+           </choice> 
+           <choice> <abbr>Silva Ferrão</abbr> <expan>o doutor Francisco Antonio da Silva Ferrão</expan>
+           </choice> 
+           <choice> <abbr>Silv. da Motta</abbr> <expan>Ignacio Francisco Silveira da Motta</expan>
+           </choice> 
+           <choice> <abbr>Sim. Machado</abbr> <expan>Simão Machado</expan>
+           </choice> 
+           <choice> <abbr>Sim. Vasc.</abbr> <expan>Simão de Vasconcellos</expan>
+           </choice> 
+           <choice> <abbr>Sousa</abbr> <expan>Fr. Luiz de Sousa</expan>
+           </choice> 
+           <choice> <abbr>Tell.</abbr><expan> padre Balthasar Telles</expan>
+           </choice> 
+           <choice> <abbr>Th. Braga</abbr> <expan>Theophilo Braga</expan>
+           </choice> 
+           <choice> <abbr>Th. de Carvalho</abbr> <expan>Thomaz de Carvalho</expan>
+           </choice> 
+           <choice> <abbr>Th. Ribeiro</abbr> <expan>Thomaz Ribeiro</expan>
+           </choice> 
+           <choice> <abbr>Th. de Jesus</abbr> <expan>Fr. Thomé de Jesus</expan>
+           </choice> 
+           <choice> <abbr>Trist. da Cunha</abbr> <expan>Tristão da Cunha</expan>
+           </choice> 
+           <choice> <abbr>Ulyss.</abbr> <expan>Ullysséa</expan>
+           </choice> 
+           <choice> <abbr>V. do arc.</abbr> <expan>Vida do arcebispo, por Fr. Luiz de Sousa</expan>
+           </choice> 
+            <choice><abbr>Vieira</abbr> <expan>o padre Antonio Vieira</expan>
+            </choice>
+            
+            <choice>
+               <abbr>Villas Boas</abbr>
+               <expan>Antonio de Villas Boas e Sampaio</expan>
+            </choice>
+         </p>
+      </body>
+  </text>
+</TEI>

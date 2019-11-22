@@ -1,0 +1,22 @@
+
+teiHeader { 
+    display: none;
+}
+
+body {
+    margin: 50px;
+    display: block;
+}
+
+abbr {
+    font-style: italic;
+    color: #000099;
+    padding-right: 10px;
+}
+
+choice {
+    display: block;
+    margin-bottom: 10px;
+}
+
+
