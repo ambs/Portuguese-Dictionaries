@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         
+            
+            <entry>
+               
+               <form>
+                  <orth>Abandalhado</orth> 
+                  <pron>o-ban-da-lhá-du</pron>
+               </form>
+               
+               <gramGrp>
+                  <pos>adj</pos>
+               </gramGrp>
+               
+               <sense>
+                  <def>que tem
+            qualidades ou maneiras de bandalho
+                     <quote>É um rapaz mui-
+                        to abandalhado. </quote></def>
+               </sense>
+               
+               
+               <sense>
+                  <def>Proprio de bandalho; ridieulamente
+            garrido: Um casaco muito abandalhado.</def>
+               </sense> || F. Abanda-
+            lharado.</entry>
+         
+         <entry>
+            <form>
+               <orth>Abandalhar</orth> 
+               <pron>(a-ban-da-lhar)</pron>
+            
+            </form>
+            v. fr. tornar banda-
+            lho: Foram as más companhias que o abandalharam.
+            
+            
+         </entry>
+         
+         
+            | —, v. pr. dar-se ao desprezo, ridienlarizar-se : Aban-
+            alhou-se não só no vestuario, mas com o tracto de
+            essoas devassas com quem habitualmente convivia. ||
+            
+            . A+bandalho+ar.
+            
+            Abandar! (a-ban-dár), v. fr. (prov.) reunir em
+            bando. || — se, v. pr. o mesmo que abandear-se. || F.
+            At+bandotar. :
+            
+            Abandar? (a-ban-dár), v. tr. pór de banda; sepa-
+            rar como quinhão. || Pór bandas em. || F. A+bandatar.
+            
+            Abandear (a-ban-de-ár), v. tr. o mesmo que ban-
+            dear. || F. A4-bandear.
+            
+            Abandelrado (a-ban-dei-rá-du), adj. o mesmo que
+            embandeirado. || F. Abandeirar+ado.
+            
+            Abandeirar (a-ban-dei-rár), v. (r. o mesmo que
+            embandeirar. || F. A-HWhandeirapar.
+            
+            Abandejar (a-ban-de-jár), v. tr. dispor em fórma
+            de bandeja: Abandejou a lamina de prata. || (À ric.)
+            Limpar [diz-se do trigo e dos mais cereaes, quando se
+            emprega a bandeja, para lhes separar a palha ou quaes-
+            que outros corpos mais leves que o grão . || F. at--ban-
+            
+            eja+ar.
+            
+            Abandoar-se (a-ban-du-áúr-sse), v. pr. juntar-se
+            em bando: Às aves de arribação abandoam-se quando
+            emigram. || F. A+-bandot-ur.
+            
+            Abandonadamente (a-ban-du-nú-da-men-te),
+            adv. desamparadamente. || F. Abandonado mente.
+            
+            Abandonado (a-ban-du-ná-du), adj. desamparado:
+            Os expostos e os menores abandonados, cujos paes não
+            forem conhecidos. (Cod. civ., art. 284.) Se o pae ou
+            mãe do menor fallecerem insolventes, o menor será
+            tido por abandonado. (Idem, art. 283.) || F. Abandonar
+            +ado.
+            
+            Abandonamento (a-ban-du-na-men-tu), s mo
+            mesmo que abandono. || F. Abandonart-mento.
+            
+            Abandonar (a-ban-du-nár) v. tr. renunciar a, de-
+            sistir de : Abandonou a herança. || Deixar escapar ; lar-
+            gar: O cavalleiro abandonou as redeas. || Retirar-se de:
+            À tripulação abandonou o navio. || Deixar de todo ; des-
+            prezar : Abandonou os estudos. || Deixar só ; sem soceor-
+            ro, sem auxilio ou cuidados de qualquer especie : Aban-
+            donou os filhos. Os medicos abandonaram o doente. ||
+            —, v. pr. dar-se ao desprezo, não se importar comsigo.
+            |) Entregar-se : Abandonar-se a todos os vicios. || F.
+            Abandono-tar. S
+            
+            Abandonatario (a-ban-du-na-fá-ri-u), s. m. pes-
+            soa que adquiriu direitos ou coisas abandonadas por
+            outrem. || F. Abandonar-+-ario.
+            
+            Abandonavel (a-ban-du-náú-vél), adj. que merece
+            ser abandonado. || F. Abandonar-|vek
+            
+            Abondono (a-ban-dôó-nu), s. m. acção ou effeito de
+            abandonar. || (Jur.) Renuncia criminosa ; desamparo to-
+            tal ; Abandono de emprego. (Cod. Pen., art. 308.) Ex-
+            posição e abandono dos infantes. (Cod. Pen., art. 345.)
+            || Cessão (de um direito) : Abandono da herança. || Na-
+            turalidade, desaffectação elegante: Mas que adoravel
+            defeito! (refere-se a uma senhora que não apurava com
+            o ferro o oúdado natural dos cabellost. Que deliciosas
+            imagens que excita de abandono — passe o gallicismo
+            — de confiança, ete. (Garrett, Viag., t. 1, cap. 12.) ||
+            —, loc. adv. ao abandono : sem auxilio, nem protecção;
+            sem tratamento. || F. lat. abandonum.
+            
+            Abancenga (a-ba-ne-en-gha), s. f. (Bras) a lin-
+            gua guarani ou tupi do sul.
+            
+            Abanheenga (a-ba-nhe-en-gha), s. f. o mesmo que
+            abaneenga.
+            
+            Abanga fa-ban-aho, s. f. nome genérico da bana-
+            neira (n'alguns povos da America do Sul). || O mesmo
+            que bango.
+            
+            Abanicar (a-ba-ni-kár), v. fr. abanar com leque ;
+            v. íntr. (taur.) mover o capote de um lado para o ou-
+            tro. || —se, v. pr. abanar-se com leque. || F. Abanico-Far.
+            
+            Abanico (a-ba-ni-ku), s. m. dim. abaninho, abaro
+            pequeno, leque. || (Antiq.) Adorno de vestuario. [Con-
+            </p>
+      </body>
+  </text>
+</TEI>
