@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+            <entry>
+               <form>
+                  <orth>Abafar</orth>
+                  <pron>a-ba-<q>fár</q></pron>
+               </form> 
+               <gramGrp>s. m.</gramGrp> 
+               <sense><def>nome de certo peixe.</def></sense>
+            </entry>
+            
+            <entry>
+               <form>
+                  <orth>Abafarete</orth>
+                  <pron>a-ba-fa-<q>ré</q>-te</pron>
+               </form>
+               <gramGrp>s. m.</gramGrp> 
+               <usg type="dom">gêr. parlam.</usg>
+               <sense><def> discussão terminada abruptamente mediante uma moção de confiança aào governo; requerimento feito para considerar a materia sufficientemente discutida. </def></sense>
+               <etym>F. <q>Aba-far<q>+ete</q></q></etym>
+            </entry>
+         
+         <entry>
+            <form>
+               <orth>Abafas </orth>
+               <pron>a-<q>bá</q>-fas</pron>
+            </form>
+            <gramGrp>s. f. pl</gramGrp> 
+            <usg type="time">ant.</usg>
+            <sense><def>ameaças vãs, bravatas: <cit><quote>Com a qual resposta cobraram grande esforço, começando-se de soltar em muitas <q>abafas</q>.</quote><bibl><author>Dic. d'Ac</author></bibl></cit></def></sense>
+            <etym>F. contr. <q>Abafar</q></etym>
+         </entry>
+            
+            <entry>
+               <form>
+                  <orth>Abafeira</orth>
+                  <pron>a-ba-<q>féi</q>-ra</pron>
+               </form>
+               <gramGrp>s. f.</gramGrp> 
+               <sense><def>paul; charco.</def></sense>
+               <etym>F. <q>Aba-far<q>+eira</q></q></etym>
+            </entry>
+            
+         <entry>
+            <form> 
+               <orth>Abafo</orth>
+               <pron>a-<q>bá</q>-fu</pron>
+            </form>
+            <gramGrp>s. m.</gramGrp> 
+            <sense><def>abafamento, acção ou effeito de abafar: Os muitos <q>abafos</q> prejudicam a saude.</def></sense>
+            <usg type="style">Fig.</usg>
+            <sense><def> Carinho, cuidado, affecto: Nada chega ao <q>abafo</q> materno.</def></sense>
+            <sense><def>O logar onde alguma cousa se abafa para se conservar quente ou adquirir maior calor.</def></sense>
+            <etym>F. contr. <q>Abafar<q>+o</q></q></etym>
+         </entry>
+            
+            <entry>
+               <form>
+                  <orth>Abagoar</orth>
+                  <pron>a-ba-<q>ghuar</q></pron>
+               </form>
+               <gramGrp>v. tr.</gramGrp> 
+               <usg type="geo">Minho</usg>
+               <sense><def>desengran-zar; desenfiar.</def></sense>
+              <etym> F. <q>A+<q>bago</q>+ar</q>.</etym>
+            </entry>
+            
+         <entry>
+            <form>
+               <orth>Abagum</orth>
+               <pron>a-ba-<q>ghun</q></pron>
+            </form>
+            <gramGrp>s. m.</gramGrp> 
+            <sense><def>certa ave dos trópicos.</def></sense>
+         </entry>
+            
+            <entry>
+               <form>
+                  <orth>Abahuladamente</orth>
+                  <pron>a-ba-u-<q>lá</q>-da-<q>men</q>-te)</pron>
+               </form>
+               <gramGrp> adv.</gramGrp> 
+               <sense><def>de fórma abahulada.</def></sense>
+               <etym>F. <q><q>Abahulado</q>+<q>mente</q></q></etym>
+            </entry>
+            
+            <entry>
+               <form>
+                  <orth>Abahulado</orth>
+                  <pron>a-bá-n-<q>lá</q>-du</pron>
+               </form>
+               <gramGrp>adj.</gramGrp> 
+               <sense><def>convexo: Costas abahuladas ; tampa abahulada.</def></sense> 
+               <etym>F. <q>Abahular+<q>ado</q></q></etym>
+            </entry>
+            
+         <entry>
+               <form>
+                  <orth>Abahulador</orth>
+                  <pron>a-ba-u-la-dór</pron>
+               </form>
+               <gramGrp>adj.</gramGrp>
+            <gramGrp>s.</gramGrp> 
+            <sense><def>que abahula</def></sense>
+            <etym>F. Abahular+tor.</etym>
+            </entry>
+            
+         <entry>
+            <form>
+               <orth>Abahular</orth>
+               <pron>a-bá-u-<q>lár</q></pron>
+            </form>
+            <gramGrp>v. tr.</gramGrp> 
+            <sense><def>dar uma fórma convexa semelhante à das tampas dos bahus.</def></sense> 
+            <etym>F. <q>A+<q>bahu</q>+<q>l</q>+<q>ar</q></q></etym>
+         </entry>
+            
+            
+         <entry>
+            <form>
+               <orth>Abainha </orth>
+               <pron>a-ba-<q>í</q>-nha</pron>
+            </form>
+            <gramGrp>s. f.</gramGrp>
+            <sense><def>o mesmo que bainha.</def></sense>
+            <etym>F. A+<q>baínha</q>.</etym>
+         </entry>
+            
+            <entry>
+               <form>
+                  <orth>Abainhado</orth>
+                  <pron>a-ba-i-<q>nhá</q>-du</pron>
+               </form>
+               <gramGrp>adj.</gramGrp>
+               <sense><def>o mesmo que embainhado.</def></sense> 
+               <etym>F. <q>Abainhar</q>+ado.</etym>
+            </entry>
+            
+            <entry>
+               <form>
+                  <orth>Abainhar</orth>
+                  <pron>a-ba-i-<q>nhár</q></pron>
+               </form>
+               <gramGrp>v. tr.</gramGrp> 
+               <sense><def>f. antiq. de embainhar.</def></sense> 
+               <etym>F. A+<q>bainha</q>+ar</etym>
+            </entry>
+            
+            <entry>
+               <form>
+                  <orth>Abaionetado</orth>
+                  <pron>a-bái-u-ne-tá-du</pron>
+               </form>
+               <gramGrp>adj.</gramGrp> 
+               <sense><def>traspassado ou ferido com baioneta.</def></sense> 
+               <etym>F. Abatonetar+ado.</etym>
+            </entry>
+         
+            <entry>
+               <form>
+                  <orth>Abaionetar</orth>
+                  <pron>a-bái-u-ne-fár</pron>
+               </form> 
+               <gramGrp>v. dr.</gramGrp> 
+               <sense><def>ferir com baioneta. </def></sense>
+               <etym>F. A+baionetaar.</etym>
+            </entry>
+           
+            
+            <entry>
+               <form>
+                  <orth>Abairrado</orth>
+                  <pron>(a-bái-rrá-du)</pron>
+               </form>
+               <gramGrp>adj.
+               </gramGrp> 
+               <sense><def>dividido em bairros.</def></sense>
+               <etym>F. Abairrar+ado.</etym>
+            </entry>
+            
+            <entry>
+               <form>
+                  <orth>Abairramento</orth>
+                  <pron>a-bái-rra-men-tu</pron>
+               </form>
+               <gramGrp>s. m.</gramGrp> 
+               <sense><def>acto de dividir por bairros; divisão por bairros.</def></sense> 
+               <etym>F. Abairrar+mento.</etym>
+            </entry>
+            
+            <entry>
+               <form>
+                  <orth>Abairrar</orth>
+                  <pron>a-bái-rrár</pron>
+               </form>
+               <gramGrp>v. tr.</gramGrp> 
+               <sense><def>dividir em bairros, ou por bairros, classificar.</def></sense>
+               <etym>F. A+ bairrotar.</etym>
+            </entry>
+         
+         <entry>
+            <form>
+               <orth>Abaiucar</orth>
+               <pron>a-ba-i-u-kár</pron>
+            </form>
+            <gramGrp>v. fr.</gramGrp> 
+            <sense><def>dar aspecto de baiuca a.</def></sense>
+            <etym>F. A+ baiucatar.</etym>
+         </entry>
+            
+         <entry>
+            <form>
+               <orth>Abaixa</orth>
+               <pron>a-bdi-xa</pron>
+            </form>
+            <gramGrp>s.</gramGrp> 
+            <sense><def>espécie de fisga para pescar lampreias.</def></sense>
+            <etym>Contr. Abaixar.</etym>
+         </entry>
+            
+            <entry>
+               <form>
+                  <orth>Abaixadela</orth>
+                  <pron>a-bái-xa-dé-la</pron>
+               </form>
+               <gramGrp>s. f.</gramGrp> 
+               <sense><def>o mesmo que abaixradura.</def></sense> 
+               <etym>F. Abairart+ela.</etym>
+            </entry>
+            
+            <entry>
+               <form>
+                  <orth>Abaixadura</orth> 
+                  <pron>a-bái-xa-du-ra</pron>
+               </form>
+               <gramGrp>s. f.</gramGrp> 
+               <sense><def>o mesmo que abaixamento.</def></sense> 
+               <etym>F. Abaixar+ura.</etym>
+            </entry>
+            
+            <entry>
+               <form>
+                  <orth>Abaixador</orth>
+                  <pron>(a-bái-xa-dór)</pron>
+               </form>
+               <gramGrp>s. m. </gramGrp>
+               <sense><def>o que faz descer. O cordão abaixador das cortinas. (Este termo é antonymo de elevador.)</def></sense> 
+               <etym>F. Abaixar-tor.</etym>
+            </entry>
+            
+            <entry>
+               <form>
+                  <orth>Abaixamento</orth>
+                  <pron>a-bái-xa-mén-tu</pron>
+               </form>
+               <gramGrp>s. m.</gramGrp> 
+               <sense><def>acção ou effeito de abaixar.</def></sense> 
+               <sense><def>(Alg.) Abaixamento das equações, reducção de uma equação a outra de um grau inferior.</def></sense>
+               <sense><def>(Fig.) Humilhação, abatimento. </def></sense>
+               <etym>F. Abaixart+-mento.</etym>
+            </entry>
+           
+      </body>
+  </text>
+</TEI>
