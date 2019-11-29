@@ -157,9 +157,9 @@
                <gen>m.</gen>
             </gramGrp>
             <sense><def>nome generico dado aos musculos que produzem o movimento da abducção: O
-                  grande abductor da mão, o abductor do olho.<q> [Os museulos que lhes são oppostos
-                     denominam-se adductores.]</q></def>
-               <etym>F. <lang>lat. .</lang><q>Abductor</q></etym></sense>
+                  grande abductor da mão, o abductor do olho. <note> [Os musculos que lhes são oppostos
+                     denominam-se adductores.]</note></def>
+               <etym>F. <lang>lat.</lang><q>Abductor</q></etym></sense>
          </entry>
 
          <entry>
@@ -315,7 +315,7 @@
 
          </entry>
 
-         <entry>
+         <entry n="1">
             <form><orth>Abegão<add place="above">1</add></orth>
                <pron>(a-be-ghão)</pron>
             </form>
@@ -329,7 +329,7 @@
             <sense><etym>F. <lang>gr.</lang><q>Boukaios,</q> guarda de bois.</etym></sense>
          </entry>
 
-         <entry>
+         <entry n="2">
             <form><orth>Abegão <add place="above">2</add></orth>
                <pron>(a-be-ghão)</pron>
             </form>
@@ -337,7 +337,7 @@
                <gram type="pos">s.</gram>
                <gen>m.</gen>
             </gramGrp>
-            <sense><usg>(Minho)</usg><def>o mesmo que abelhão</def></sense>
+            <sense><usg type="geo">Minho</usg><def>o mesmo que abelhão</def></sense>
             <sense><etym>F. <lang>cast.</lang><q>Abejon</q></etym></sense>
          </entry>
 
