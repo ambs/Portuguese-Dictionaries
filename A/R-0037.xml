@@ -2,6 +2,7 @@
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-stylesheet type="text/css" href="../../Snizhana.css"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
       <fileDesc>
@@ -24,8 +25,10 @@
                <pron>ab'-ssôl-vi-<q>ssão</q></pron>
             </form>
             <gramGrp>s. f.</gramGrp>
-            <sense><lbl>jur. </lbl><def>acção ou effeito de absolver: <cit><quote>O juiz pronunciou a <q>absolvição</q> do réu.</quote></cit></def></sense>
-            <sense><lbl>Theol. </lbl><def>A <q>absolvição</q> ecclesiastica divide-se em <q>sacramental</q>, que é a remissão dos peccados feita pelos sacerdotes no sacramento da penitencia, em nome de Jesus Christo; e em <q>absolvição</q> de censuras, que é das penas com que a Egreja castiga certos peccados.</def></sense>
+            <usg type="dom">jur. </usg>
+            <sense><def>acção ou effeito de absolver: <cit><quote>O juiz pronunciou a <q>absolvição</q> do réu.</quote></cit></def></sense>
+            <usg type="dom">Theol. </usg>
+            <sense><def>A <q>absolvição</q> ecclesiastica divide-se em <q>sacramental</q>, que é a remissão dos peccados feita pelos sacerdotes no sacramento da penitencia, em nome de Jesus Christo; e em <q>absolvição</q> de censuras, que é das penas com que a Egreja castiga certos peccados.</def></sense>
             <sense><def> Tambem se diz dos incensamentos e aspersões de agua benta que se fazem sobre 03 corpos no acto de se enterrarem, ou sobre a representação de um morto durante o officio que se celebra pelo repouso da sua alma.</def></sense>
             <etym>F. <q>Absolver+ão.</q></etym>
          </entry>
@@ -66,8 +69,9 @@
             <sense><def>acção ou effeito de absorver.</def></sense>
             <sense><def>Em physica, é a penetração de um corpo solido ou liquido por um fluido, sem que nem um nem outro dos dois corpos mude de natareza.</def></sense>
             <sense><def>Em chimica, é a desapparição de um liquido ao contacto de um solido, on de um gaz ao contacto de um solido ou de um liquido, quer haja mistura, quer combinação.</def></sense>
-            <sense><lbl>Physiol. </lbl><def>À serie dê actos pelos quaes materias exteriores penetram na substancia dos tecidos.</def></sense>
-            <etym>F. <lang>lat. </lang><q>Absorptio</q></etym>
+            <usg type="dom">Physiol. </usg>
+            <sense><def>À serie dê actos pelos quaes materias exteriores penetram na substancia dos tecidos.</def></sense>
+            <etym>F. <lang>lat. </lang><q>Absorptio.</q></etym>
          </entry>
          <entry>
             <form>
@@ -146,8 +150,10 @@
             <gramGrp>adj.</gramGrp>
             <sense><def>que absorve.</def></sense>
             <gramGrp>s. m.</gramGrp>
-            <sense><lbl>pharm. </lbl><def>substancia que tem a propriedade de absorver os acidos no estomago: <cit><quote>À magnesia é um <q>absorvente.</q></quote></cit></def></sense>
-            <sense><lbl>Meteor. </lbl><def>Substancia que tem a propriedade de absorver a humidade da atmosphera: <cit><quote>O potassio é um <q>absorvente.</q></quote></cit></def></sense>
+            <usg type="dom">pharm. </usg>
+            <sense><def>substancia que tem a propriedade de absorver os acidos no estomago: <cit><quote>À magnesia é um <q>absorvente.</q></quote></cit></def></sense>
+            <usg type="dom">Meteor. </usg>
+            <sense><def>Substancia que tem a propriedade de absorver a humidade da atmosphera: <cit><quote>O potassio é um <q>absorvente.</q></quote></cit></def></sense>
             <etym>F. <q>Absorver+ente.</q></etym>
          </entry>
          <entry>
@@ -157,12 +163,11 @@
             </form>
             <gramGrp>v. tr.</gramGrp>
             <sense><def>embeber, sorver: <cit><quote>A esponja <q>absorve</q> os liquidos.</quote></cit></def></sense>
-            <sense><def>embeber, sorver.</def></sense>
             <sense><def>Consumir, esgotar, fazer desapparecer: <cit><quote>As demandas <q>absorveram</q> toda à sua fortuna.</quote></cit></def></sense>
             <sense><def>Concentrar, applicar ou occenpar inteiramente o espirito: <cit><quote><q>Absorveu</q> toda a sua attenção no estudo da philosophia.</quote></cit></def></sense>
             <gramGrp>v. pr.</gramGrp>
             <sense><def>concentrar-se, applicar-se: <cit><quote><q>Absorveu-se</q> todo no estudo.</quote></cit></def></sense>
-            <usg>Flex.</usg> <xr>V. <ref>Abastecer</ref></xr>
+            <usg>Flex.</usg> <xr>V. <ref>Abastecer.</ref></xr>
             <note>Part. regul. <q>absorvido;</q> irreg. <q>absorto.</q></note>
             <etym>F. <lang>lat. </lang><q>Absorbere.</q></etym>
          </entry>
@@ -191,7 +196,7 @@
             </form>
             <gramGrp>s. m.</gramGrp>
             <sense><def>recipiente de agua para a mangueira (nas bombas de incendio).</def></sense>
-            <etym>F. contr. <q>Absorver</q></etym>
+            <etym>F. contr. <q>Absorver.</q></etym>
          </entry>
          <entry>
             <form>
@@ -200,7 +205,7 @@
             </form>
             <gramGrp>s. f.</gramGrp>
             <sense><def>qualidade ou caracter de abstemio.</def></sense>
-            <etym>F. <q>Abstemio</q></etym>
+            <etym>F. <q>Abstemio.</q></etym>
          </entry>
          <entry>
             <form>
