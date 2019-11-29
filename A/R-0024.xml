@@ -2,6 +2,7 @@
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
 	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-stylesheet type="text/css" href="../NG.css"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
       <fileDesc>
@@ -43,7 +44,7 @@
             <orth>Abalaustrar</orth>
             <pron>a-ba-la-us-<q>trár</q></pron>  
          </form>  
-           <gramGrp>v. fr.</gramGrp>
+           <gramGrp>v. tr.</gramGrp>
            <sense><def>guarnecer de balaustres</def></sense>
            <etym>F.<q>A +</q><q>balaustre</q><q>+ ar.</q></etym>
         </entry>
@@ -106,7 +107,7 @@
                <pron>a-ba-li-<q>zá</q>-da</pron>  
             </form>  
             <gramGrp>adj.</gramGrp> 
-            <sense><def>distincto, notavel: <cit><quote>Dando esperanças de sahir <q>abalisado</q> na virtude.</quote><bibl><author>M. Bernardes.</author></bibl></cit></def></sense>
+            <sense><def>distincto, notavel: <cit><quote>Dando esperanças de sahir <q>abalisado</q> na virtude.</quote> <bibl><author>M. Bernardes.</author></bibl></cit></def></sense>
             <etym>F.<q>Abalisar</q><q>+ado.</q></etym>
          </entry>
          
@@ -126,11 +127,11 @@
                <pron>a-ba-li-<q>zár</q></pron>  
             </form>  
             <gramGrp>v. tr. </gramGrp> 
-            <sense><def>demarcar com balisas: <cit><quote>No mesmo dia à tarde <q>abalisou</q> o sitio onde se havia fazer o forte.</quote><bibl><author>Dic. d'Ac.</author></bibl></cit></def></sense>
+            <sense><def>demarcar com balisas: <cit><quote>No mesmo dia à tarde <q>abalisou</q> o sitio onde se havia fazer o forte.</quote> <bibl><author>Dic. d'Ac.</author></bibl></cit></def></sense>
             <sense><def> Determinar, assignar: <q>Abalisou</q> aos companheiros o que tinham a fazer.</def></sense>
             <gramGrp>v. pr.</gramGrp>
             <usg type= "style"> fig.</usg>
-            <sense><def> extremar-se, sobressahir, assignalar-se, tornar-se notavel; chegar á medida, é balisa: <cit><quote>D'elles o que mais se <q>abalisava</q>na batalha era um, que pela grandeza do corpo mostrava ser gigante</quote><bibl><author>Dic. d'Ac.</author></bibl></cit> Uma gente que com cerimonias e ritos particulares se <q>abalisavam</q> e dividiam dos outros.<bibl><author>Dic. d'Ac.</author></bibl></def></sense>
+            <sense><def> extremar-se, sobressahir, assignalar-se, tornar-se notavel; chegar á medida, á balisa: <cit><quote>D'elles o que mais se <q>abalisava</q>na batalha era um, que pela grandeza do corpo mostrava ser gigante.</quote> <bibl><author>Dic. d'Ac.</author></bibl></cit> Uma gente que com cerimonias e ritos particulares se <q>abalisavam</q> e dividiam dos outros. <bibl><author>Dic. d'Ac.</author></bibl></def></sense>
             <etym>F.<q>A</q><q>+balisa </q><q>+ar.</q></etym>
          </entry>
             
@@ -140,7 +141,7 @@
                <pron>a-ba-lis-<q>tár</q></pron>  
             </form>  
             <gramGrp>v. tr.</gramGrp>
-            <usg type="ant">ant.</usg>
+            <usg type="register">ant.</usg>
             <sense><def>bater com tiros de balista (dizia-se em relação a fortalezas, muralhas, etc.)</def></sense>
             <etym>E.<q>A</q><q>+balista</q><q>+ar.</q></etym>
          </entry>
@@ -151,11 +152,11 @@
                <pron>a-<q>bá</q>-lu</pron>  
             </form>  
             <gramGrp>s. m.</gramGrp>
-            <sense><def>acção ou effeito de abalar; tremor: <cit><quote>Começa a mover-se a terra com uns abalos e sacudimentos tão impetuosos e tão apressados, que se não vêem maiores nas águas do mar.</quote><bibl><author>Dic. d'Ac.</author></bibl></cit></def></sense> 
+            <sense><def>acção ou effeito de abalar; tremor: <cit><quote>Começa a mover-se a terra com uns abalos e sacudimentos tão impetuosos e tão apressados, que se não vêem maiores nas águas do mar.</quote> <bibl><author>Dic. d'Ac.</author></bibl></cit></def></sense> 
             <sense><def>Perturbação, desordem.</def></sense>
             <sense><def>Impressão moral: Muitas vezes as coisas vistas nos olhos fazem mór <q>abalo</q> que as que o entendimento secretamente ensina. <bibl><author>Dic. d'Ac.</author></bibl></def></sense>  
             <sense><def>Mudança (de opinião, de sentimento): O rei, posto que na crença não fizesse <q>abalo</q>, sempre mostrou grande satisfação das palavras do portuguez.</def></sense> 
-            <sense><def>Partida: Começou-se a entender na pref nação do <q>abalo</q>, que não tardou.<bibl><author>Dic. d'Ac.</author></bibl></def></sense>
+            <sense><def>Partida: Começou-se a entender na preparação do <q>abalo</q>, que não tardou. <bibl><author>Dic. d'Ac.</author></bibl></def></sense>
             <etym>F. contr. de <q>Abalar</q><q>+o.</q></etym>
          </entry>
             
