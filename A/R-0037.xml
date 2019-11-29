@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <entry>
+            <form>
+               <orth>Absolvição</orth>
+               <pron>ab'-ssôl-vi-<q>ssão</q></pron>
+            </form>
+            <gramGrp>s. f.</gramGrp>
+            <sense><lbl>jur. </lbl><def>acção ou effeito de absolver: <cit><quote>O juiz pronunciou a <q>absolvição</q> do réu.</quote></cit></def></sense>
+            <sense><lbl>Theol. </lbl><def>A <q>absolvição</q> ecclesiastica divide-se em <q>sacramental</q>, que é a remissão dos peccados feita pelos sacerdotes no sacramento da penitencia, em nome de Jesus Christo; e em <q>absolvição</q> de censuras, que é das penas com que a Egreja castiga certos peccados.</def></sense>
+            <sense><def> Tambem se diz dos incensamentos e aspersões de agua benta que se fazem sobre 03 corpos no acto de se enterrarem, ou sobre a representação de um morto durante o officio que se celebra pelo repouso da sua alma.</def></sense>
+            <etym>F. <q>Absolver+ão.</q></etym>
+         </entry>
+         <entry>
+            <form>
+               <orth>Absolvido</orth>
+               <pron>ab'-ssól-<q>vi-</q>du</pron>
+            </form>
+            <gramGrp>adj.</gramGrp>
+            <sense><def>que foi julgado innocente ou relevado da pena, que foi perdoado.</def></sense>
+            <etym>F. <q>Absolver+ido.</q></etym>
+         </entry>
+         <entry>
+            <form>
+               <orth>Absolvimento</orth>
+               <pron>ab'-ssól-vi-<q>mén-</q>tu</pron>
+            </form>
+            <gramGrp>s. m.</gramGrp>
+            <sense><def>o mesmo que absolvição.</def></sense>
+            <etym>F. <q>Absolver+mento.</q></etym>
+         </entry>
+         <entry>
+            <form>
+               <orth>Absono</orth>
+               <pron><q>ab'-</q>ssu-nu</pron>
+            </form>
+            <gramGrp>adj.</gramGrp>
+            <sense><lbl>ant. </lbl><def>o mesmo que dissonante.</def></sense>
+            <sense><lbl>Fig. </lbl><def> Que se não corforma, contrario: <cit><quote>Duas opiniões <q>absonas; </q></quote></cit><cit><quote>doutrinas <q>absonas</q> da verdadeira philosophia</quote></cit></def></sense>
+            <etym>F. <lang>lat. </lang><q>Absonus.</q></etym> 
+         </entry>
+         <entry>
+            <form>
+               <orth>Absorpção</orth>
+               <pron>ab-ssór-<q>ssão</q></pron>
+            </form>
+            <gramGrp>s. f.</gramGrp>
+            <sense><def>acção ou effeito de absorver.</def></sense>
+            <sense><def>Em physica, é a penetração de um corpo solido ou liquido por um fluido, sem que nem um nem outro dos dois corpos mude de natareza.</def></sense>
+            <sense><def>Em chimica, é a desapparição de um liquido ao contacto de um solido, on de um gaz ao contacto de um solido ou de um liquido, quer haja mistura, quer combinação.</def></sense>
+            <sense><lbl>Physiol. </lbl><def>À serie dê actos pelos quaes materias exteriores penetram na substancia dos tecidos.</def></sense>
+            <etym>F. <lang>lat. </lang><q>Absorptio</q></etym>
+         </entry>
+         <entry>
+            <form>
+               <orth>Absorpciometria</orth>
+               <pron>ab'-ssór-pssi-u-me-<q>tri-</q>a</pron>
+            </form>
+            <gramGrp>s. f.</gramGrp>
+            <sense><def>determinação dos coeflicientes de absorpção.</def></sense>
+            <etym>F. <lang>lat. </lang><q>Absortio</q>+<lang>greg. </lang><q>metron.</q></etym>   
+         </entry>
+         <entry>
+            <form>
+               <orth> Absorpciométrico</orth>
+               <pron>ab'-ssôr-pssi-u-<q>mé-</q>tri-ku</pron>
+            </form>
+            <gramGrp>adj.</gramGrp>
+            <sense><def>relativo á absorpciometria.</def></sense>
+            <etym>F. <q>Absorpciometria+ico.</q></etym>
+         </entry>
+         <entry>
+            <form>
+               <orth>Absorto</orth>
+               <pron>ab'-<q>ssôr-</q>tu</pron>
+            </form>
+            <gramGrp>adj.</gramGrp>
+            <sense><def>o mesmo que absorvido,extasiado, enlevado: <cit><quote><q>Absorto</q> na contemplação de tantas grandezas.</quote></cit></def></sense>
+            <sense><def>Distrahido: <cit><quote>Estava tão <q>absorto</q> que me não ouviu entrar.</quote></cit></def></sense>
+            <gramGrp>s. m.</gramGrp>
+            <sense><def>extasi, enlevação, enlevo.</def></sense>
+            <etym>F. <lang>lat. </lang><q>Absorptus.</q></etym>
+         </entry>
+         <entry>
+            <form>
+               <orth>Absorvedoiro</orth>
+               <pron>ab-ssôr-ve-<q>dôi-</q>ru</pron>
+            </form>
+            <gramGrp>s. m.</gramGrp>
+            <sense><def>var. orth. da pal. <ref><q>sorvedoiro.</q></ref></def></sense>
+            <etym>F. <q>Absorver+oiro.</q></etym>
+         </entry>
+         <entry>
+            <form>
+               <orth>Absorvedor</orth>
+               <pron>ab-ssór-ve-<q>dôr</q></pron>
+            </form>
+            <gramGrp>adj.</gramGrp>
+            <sense><def>que absorve, absorto.</def></sense>
+            <gramGrp>s. m.</gramGrp>
+            <sense><def>o que absorve, absorvente.</def></sense>
+            <etym>F. <q>Absorver+or.</q></etym>
+         </entry>
+         <entry>
+            <form>
+               <orth>Absorvedouro</orth>
+               <pron>ab-ssôr-ve-<q>dô-</q>ru</pron>
+            </form>
+            <gramGrp>s. m.</gramGrp>
+            <sense><def>o logar em que alguma coisa é absorvida.</def></sense>
+            <sense><def>Sorvedouro.</def></sense>
+            <etym>F. <q>Absorver+ouro.</q></etym>
+         </entry>
+         <entry>
+            <form>
+               <orth>Absorvencia</orth>
+               <pron>ab-ssôr-<q>ven-</q>ssi-a</pron>
+            </form>
+            <gramGrp>s. f.</gramGrp>
+            <sense><def>o mesmo que absorpção, o acto eu faculdade de absorver.</def></sense>
+            <etym>F. <q>Absorrer+encia.</q></etym>
+         </entry>
+         <entry>
+            <form>
+               <orth>Absorvente</orth>
+               <pron>ab'-ssôr-<q>ven-</q>te</pron>
+            </form>
+            <gramGrp>adj.</gramGrp>
+            <sense><def>que absorve.</def></sense>
+            <gramGrp>s. m.</gramGrp>
+            <sense><lbl>pharm. </lbl><def>substancia que tem a propriedade de absorver os acidos no estomago: <cit><quote>À magnesia é um <q>absorvente.</q></quote></cit></def></sense>
+            <sense><lbl>Meteor. </lbl><def>Substancia que tem a propriedade de absorver a humidade da atmosphera: <cit><quote>O potassio é um <q>absorvente.</q></quote></cit></def></sense>
+            <etym>F. <q>Absorver+ente.</q></etym>
+         </entry>
+         <entry>
+            <form>
+               <orth>Absorver</orth>
+               <pron>ab'-ssôr<q>vér</q></pron>
+            </form>
+            <gramGrp>v. tr.</gramGrp>
+            <sense><def>embeber, sorver: <cit><quote>A esponja <q>absorve</q> os liquidos.</quote></cit></def></sense>
+            <sense><def>embeber, sorver.</def></sense>
+            <sense><def>Consumir, esgotar, fazer desapparecer: <cit><quote>As demandas <q>absorveram</q> toda à sua fortuna.</quote></cit></def></sense>
+            <sense><def>Concentrar, applicar ou occenpar inteiramente o espirito: <cit><quote><q>Absorveu</q> toda a sua attenção no estudo da philosophia.</quote></cit></def></sense>
+            <gramGrp>v. pr.</gramGrp>
+            <sense><def>concentrar-se, applicar-se: <cit><quote><q>Absorveu-se</q> todo no estudo.</quote></cit></def></sense>
+            <usg>Flex.</usg> <xr>V. <ref>Abastecer</ref></xr>
+            <note>Part. regul. <q>absorvido;</q> irreg. <q>absorto.</q></note>
+            <etym>F. <lang>lat. </lang><q>Absorbere.</q></etym>
+         </entry>
+         <entry>
+            <form>
+               <orth>Absorvimento</orth>
+               <pron>ab-ssôr-vi-<q>mên-</q>tu</pron>
+            </form>
+            <gramGrp>s. m.</gramGrp>
+            <sense><def>O mesmo que absorpção.</def></sense>
+            <etym>F. <q>Absorver+mento.</q></etym>
+         </entry>
+         <entry>
+            <form>
+               <orth>Absorvivel</orth>
+               <pron>ab-ssôr-<q>vi-</q>vél</pron>
+            </form>
+            <gramGrp>adj.</gramGrp>
+            <sense><def>que póde ser absorvido.</def></sense>
+            <etym>F. <q>Absorver+vel.</q></etym>
+         </entry>
+         <entry>
+            <form>
+               <orth>Absorvo</orth>
+               <pron>ab-<q>ssôr-</q>vu</pron>
+            </form>
+            <gramGrp>s. m.</gramGrp>
+            <sense><def>recipiente de agua para a mangueira (nas bombas de incendio).</def></sense>
+            <etym>F. contr. <q>Absorver</q></etym>
+         </entry>
+         <entry>
+            <form>
+               <orth>Abstemia</orth>
+               <pron>abs'-<q>té-</q>mi-a</pron>
+            </form>
+            <gramGrp>s. f.</gramGrp>
+            <sense><def>qualidade ou caracter de abstemio.</def></sense>
+            <etym>F. <q>Abstemio</q></etym>
+         </entry>
+         <entry>
+            <form>
+               <orth>Abstemio</orth>
+               <pron>abs'-<q>té-</q>mi-u</pron>
+            </form>
+            <gramGrp>s. m.</gramGrp>
+            <sense><def>nome com que se designam as pessoas que se abstêem de beber vinho ou bebem muito pouco, quer por systema, quer por natural aversão a esta bebida.</def></sense>
+            <etym>F. <lang>lat. </lang><q>Abstemíus.</q></etym>
+         </entry>
+      </body>
+  </text>
+</TEI>
