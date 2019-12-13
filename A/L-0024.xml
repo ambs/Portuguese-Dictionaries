@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-stylesheet type="text/css" href="J%C3%BAJulio_Oliveira.css"?>
+<?xml-stylesheet type="text/css" href="J%C3%BAJulio_Oliveira.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Title</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Publication Information</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Information about the source</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+<text>
+    <body>
+        <entry>
+            <form>
+                <orth>Abaixante </orth>
+                <pron>(a-bai-tran-te)</pron>
+            </form>
+            <gramGrp> s. m.</gramGrp> 
+            <sense><def>o que abaixa, abaixador: À muita offerta é o grande abairante dos preços.</def></sense> 
+            <etym>F. Abairxar-tante.</etym> 
+        </entry>
+
+        <entry>
+            <form>
+                <orth>Abaixar </orth>
+                <pron>(a-bái-rar)</pron>
+            </form>
+            <gramGrp> nv. tr. </gramGrp> 
+            <sense><def>fazer descer: <quote> Abaixar um estore. Abairou o véu para encobrir o rosto.</quote></def></sense> 
+            <sense><def>Fazer pender : <quote>Abaixar a cabeça.</quote></def></sense>
+            <sense><def>Mover para baixo; inclinar: <quote>Abaixar a lança.</quote> </def></sense>
+            <sense><def>Abaixar os olhos, olhar para baixo. Abaixar a cabeça, comprimentar cerimoniosamente. </def></sense>
+            <sense><def>Abaixar a cabeça, resignar-se.</def> </sense>
+            <sense><def>Abaixar a cabeça a alguem, reconhecer-lhe superioridade.</def> </sense>
+            <sense><def>Tornar baixo ou mais baixo; diminuir na altura: <quote>Abaixou o muro meio metro.</quote></def></sense>
+            <sense><def>Pór em logar mais baixo:<quote> Abaixou o tecto á casa.</quote> </def></sense>
+            <sense><def> Diminuir, reduzir: <quote>Abaixar o preço do pão. Abaixar os salarios.</quote> </def></sense>
+            <sense><def> Abaixar a voz, falar ou cantar n'um tom menos elevado. </def></sense>
+            <sense><def> Abater, moderar</def></sense>
+            <sense><gramGrp> v. gr.</gramGrp><def> abaixar a soberba, a ousadia:<cit><quote>Abaixando-lhe a tamida ousadia.</quote> <bibl><author>(Dic. d'Ãe.)</author></bibl></cit></def></sense>
+            <sense><def> Enfraquecer, entibiar: <cit><quote>Se al clerigos quizerem abairar a fé dos christãos. </quote><bibl><title>Ord. Aff. 3, 15 e 42.</title></bibl></cit> </def></sense>
+            <sense><def>Deprimir, humilhar, aviltar:<cit><quote>Os vicios nos abaíxam, a virtude nos levanta.</quote><bibl> <author>(Leitão de Andrade, Miscel. Dial. 18, pag. 564.)</author></bibl></cit> </def></sense>
+            <sense><gramGrp> v. tnir.</gramGrp> <def> abaiTar a temperatura, arrefecer (diz-se translaticiamente,
+        porque o mercurio ou o alcool vaixam no interior do thermometro quando o ambiente esfria). </def></sense>
+            <sense><gramGrp> v. pr.</gramGrp><def>  humilhar-se (em bom ou mau sentido):<quote> Abaixar-se perante
+as determinações do Altissimo. Abairou-se ignobilmente às exigencias dos contrarios.</quote></def></sense>
+            <etym>F. A+-bairotar.</etym>
+        </entry>
+        <entry>
+            <form>
+                <orth>Abaixo</orth>
+            </form>
+                <gramGrp>A adv.</gramGrp>
+                <sense><def>em logar menos elevado ; inferiormente:<quote> O cordeiro estava bebendo mais abaixo ue o lobo.</quote></def></sense>
+                <sense><def>Abaixo de, menos elevado que: <cit><quote>À ermida 1cava um pouco abaixo da mesma villa.</quote><bibl><author> (Dice. d'Ac.)</author></bibl></cit></def></sense>
+                <sense><def>De telhas abaixo, o que é do dominio do homem:<quote> Os reis só governam de telhas abaixo.</quote></def> </sense>
+                <sense><def>Deitar abaixo, deitar por terra, arrasar.</def></sense>
+                <sense><def>Cahir abaixo, por terra:<cit><quote> Manuel Rodrigues... tinha cahido abairo com a furia e impeto da polvora.</quote><bibl><author>(Dic. d'Ae.)</author></bibl></cit></def></sense> 
+                <sense><def>Vir abaixo, descer : <quote>O creado veto abaixo para receber a carta.</quote></def></sense> 
+                <sense><def>Vir abaixo, cahir, desabar:<quote> Com o temporal veio a casa abaixo.</quote> </def></sense>
+            <usg type="register">Fig.</usg>
+                <sense><def>Vir abaixo, extinguir-se:<quote> Todas aquellas vaiosas ostentações vieram abaixo.</quote></def></sense>
+                <sense><def>Em categoria inferior:<quote> O cargo de administrador de concelho está abaixo do de governador civil.</quote><cit><quote> Abairo de Deus está todo o creado,</quote><bibl> <author> (Die.d'Ae.)</author></bibl></cit></def> </sense>
+                <sense><def>Logo abaixo, em categoria immediatamente inferior:<quote> O Eapiha está logo abaixo do major. </quote></def></sense> 
+                <sense><def>Descensionalmente : <cit><quote>E pela costa abaixo o mar abrimos.</quote> <bibl><author>(Dic. d'Ac.)</author></bibl></cit></def></sense>
+                <sense>O barco 1a Tejo abaixo. <usg type="register">1) Inter]</usg>. grito de reprovação, cujo sentido varia segundo a intenção de quem o profere: Abaixo o orador! Abaixo a tyrannia!</sense> 
+            <etym>F. Abaixo.</etym>
+</entry>
+    <entry>
+        <form>
+            <orth>Abajoujamento</orth> 
+            <pron>(a-ba-jó-ja-men-tu)</pron>
+        </form>
+        <gramGrp>s. m. </gramGrp>
+        <sense><def>acto de
+abajonjar-se.</def></sense>
+        <etym>F. SAbajosnjar-+ mento.</etym>
+    </entry>
+        
+    <entry>
+        <form>
+            <orth>Abajonjar-se</orth>
+            <pron>(a-ba-jó-jár-sse)</pron>
+        </form>
+            <gramGrp>v. pr. </gramGrp>
+            <sense><def>tornar-se bajoujo.</def></sense>
+        <etym>F. A+-bajoujotar.</etym>
+    </entry>
+    <entry>
+        <form>
+            <orth>Abaju!</orth>
+            <pron>(a-bá-ju)</pron> 
+        </form>
+        <gramGrp>s. m.</gramGrp> 
+            <sense><def>quebra-luz; pantalha.</def></sense>
+            <etym>F.fr. abat-jour.</etym>
+    </entry>
+
+<entry>
+    <form>
+        <orth>Abaju?</orth> 
+        <pron>(a-bá-ju)</pron>
+     </form>
+     <gramGrp>s. m.</gramGrp> 
+    <sense><def>certa raça mestiça do Brasil.</def></sense>  
+</entry>
+
+<entry>
+    <form>
+        <orth>Abalada </orth>
+        <pron>(a-ba-láú-da)</pron>
+    </form>
+    <gramGrp>s. f.</gramGrp>
+    <sense><def>acção ou effeito de abalar.</def></sense>
+    <sense><def>das na Direcção que toma a caça : <quote>Seguiu a aba-
+lada das perdizes.</quote></def></sense>
+    <etym>F. Abilar+ada.</etym>
+</entry>
+        
+<entry>
+    <form>
+        <orth>Abalado</orth>
+        <pron>(a-ba-lá-du)</pron>
+     </form>
+    <gramGrp>adj.</gramGrp> 
+    <sense><def>mal seguro: Tem os dentes abalados.</def></sense> 
+    <usg type="register">Fig.</usg>
+    <sense><def>Commovido:<quote> Acheio muito abalado com a noticia da morte da rainha.</quote></def></sense>
+    <sense><def>Levado:<quote> Abalado a mudar de vida.</quote></def></sense>
+    <etym>F. Abulartado.</etym>
+</entry>
+        <entry>
+    <form>
+        <orth>Abalador</orth> 
+        <pron>(a-ba-la-dór)</pron>
+    </form>
+    <gramGrp>adj. e s. m.</gramGrp>
+    <sense><def>que abala. </def></sense>
+    <etym>F. Abalar+or.</etym>
+</entry>
+
+<entry>
+    <form>
+        <orth>Abaladura</orth>
+        <pron>(a-ba-la-du-ra)</pron>
+    </form>
+    <gramGrp>s. f. </gramGrp>
+    <sense><def>acto de abalar. </def></sense>
+    <etym>F. Abalar+ura.</etym>
+</entry>
+        
+<entry>
+    <form>
+        <orth>Abalamento</orth>
+        <pron>(a-ba-la-men-tu)</pron>
+    </form>
+    <gramGrp>s. m.</gramGrp>
+    <sense><def>acção ou effeito de abalar, abalo.</def></sense>
+    <etym>F. Abalart+mento.</etym>
+</entry>
+        
+<entry>
+    <form>
+        <orth>Apatançemento</orth>
+        <pron>ja-balan-ssa mento</pron>
+     </form>
+    <gramGrp> s. m.</gramGrp>
+    <sense><def>acto
+de abalançar. </def></sense>
+    <etym>F. Abalancar-+mento.</etym>
+</entry>
+        
+<entry>
+    <form>
+        <orth>Abalancar</orth>
+        <pron>SR Aa</pron> 
+    </form>
+    <gramGrp>v. tr.</gramGrp> 
+    <sense><def>pesar (com balança.)</def></sense>
+    <sense><def>Balancear, balançar dar balanço a:<quote>Abalancar as suas contas.</quote> </def></sense>
+    <usg type="register">Fig.</usg>
+    <sense><def>Impellir, arrojar:<quote> O amor da patria o abalançou a tão arriscada empreza.</quote></def></sense>
+    <sense><gramGrp>v. inir.</gramGrp> <def>mover-se para um e outro lado:<quote> À nau jogava e abalançava muito.</quote></def></sense>
+    <sense><gramGrp>v. pr.</gramGrp><def>arrojar-se, atrever-se:<quote> Os mais esforçados sao sempre os que no maior perigo
+primeiro se abalancam. Abalançou-se à escrever contra o rei.</quote></def></sense>
+    <etym>A+balancatar.</etym>
+</entry>
+        
+<entry>
+    <form>
+        <orth>Abalar</orth>
+        <pron>(a-ba-ldr)</pron>
+    </form>
+    <gramGrp>v. fr.</gramGrp>
+    <sense><def>mover um pouco (diz-se das coisas que estão fixas ou que são muito pesadas:</def></sense>
+</entry>
+        </body>
+    </text>
+</TEI>
