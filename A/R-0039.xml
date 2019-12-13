@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+<?xml-stylesheet type="text/css" href="R-0039.css"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Title</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Publication Information</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Information about the source</p>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            
+            <!-- Lo 
+19 AÇACALADAMENTE
+
+
+
+mo de perversidades. || Inferno : Aos maus lançava no
+abysmo da terra, logar chamado inferno, habitação dos
+diabos. (Barros.) || F, b. lat, Abysmus. -->
+            
+            <entry>
+            <!-- Abysmaoso (a-bis-mô-zu), adj. em que ha abysmo;
+            cercado de abysmos. || F. Abysmar-toso. -->
+                <form>
+                    <orth>Abysmoso</orth>
+                    <pron>a-bis-<q>mô</q>-zu</pron>
+                </form>
+                <gramGrp>adj.</gramGrp>
+                <sense>
+                    <def>em que ha abysmo; cercado de abysmos.</def>
+                </sense>
+                <etym>F.<q>Abysmar+oso.</q></etym>
+            </entry>
+            <entry>
+                <!-- Abyssal (a-bi-ssál), adj. relativo ao abysmo; que
+                vive nas profundezas. || F. greg. Abyssos. -->
+                <form>
+                    <orth>Abyssal</orth>
+                    <pron>a-bi-<q>ssál</q></pron>
+                </form>
+                <gramGrp>adj.</gramGrp>
+                <sense>
+                    <def>relativo ao abysmo; que vive nas profundezas.</def>
+                </sense>
+                <etym>F. greg.<q>Abyssos.</q></etym>
+            </entry>
+            <entry>
+                <!-- Abysnso (a-bi-ssu), s. m. o mesmo que abysmo. -->
+                <form>
+                    <orth>Abysnso</orth>
+                    <pron>a-<q>bi</q>-ssu</pron>
+                </form>
+                <gramGrp>s. m.</gramGrp>
+                <sense>
+                    <def>o mesmo que abysmo.</def>
+                </sense>
+            </entry>
+            <entry>
+                <!-- Aca (á-ka), s. m. (Minas Geraes) fedor, mau cheiro. -->
+                <form>
+                    <orth>Aca</orth>
+                    <pron><q>á</q>-ka</pron>
+                </form>
+                <gramGrp>s. m.</gramGrp>
+                <sense>
+                    <usg type="geo">Minas Geraes</usg> <!-- colocar usg aqui? -->
+                    <def>fedor, mau cheiro.</def>
+                </sense>
+            </entry>
+            <entry n="1">
+                <!-- ...aça^1 (á-ssa), suff. s. f. V. em Aço. -->
+                <form>
+                    <orth>...aça</orth>
+                    <pron><q>á</q>-ssa</pron>
+                </form>
+                <gramGrp>suff. s. f.</gramGrp>
+                <xr>V. em <q>Aço.</q></xr>
+            </entry>
+            <entry n="2">
+                <!-- Aça^2 s. f. e adj. (Bras.) homem ou animal albino. -->
+                <form>
+                    <orth>Aça</orth>
+                </form>
+                <gramGrp>s. f. e adj.</gramGrp> <!-- 1 ou 2 gramGrp? -->
+                <sense>
+                    <usg type="geo"><abbr>Bras.</abbr></usg> <!-- colocar usg aqui? e com ou sem parêntises? -->
+                    <def>homem ou animal albino.</def>
+                </sense>
+            </entry>
+            <entry>
+                <!-- Acabaçado (a-ka-ba-ssá-do), adj. que tem fórma
+                ou sabor de cabaça. || F, Acabaçar+ado. -->
+                <form>
+                    <orth>Acabaçado</orth>
+                    <pron>a-ka-ba-<q>ssá</q>-du</pron>
+                </form>
+                <gramGrp>adj.</gramGrp>
+                <sense>
+                    <def>que tem fórma ou sabor de cabaça.</def>
+                </sense>
+                <etym>F.<q>Acabaçar+ado.</q></etym>
+            </entry>
+            <entry>
+                <!-- Acabaçar (a-ka-ba-ssár), v. tr. dar a fórma de ca-
+                baça a. || F. A+cabaça+ar. -->
+                <form>
+                    <orth>Acabaçar</orth>
+                    <pron>a-ka-ba-<q>ssár</q></pron>
+                </form>
+                <gramGrp>v. tr.</gramGrp>
+                <sense>
+                    <def>dar a fórma de cabaça a.</def>
+                </sense>
+                <etym>F.<q>A+cabaça+ar.</q></etym>
+            </entry>
+            <entry>
+               <!-- Acabadamente (a-ka-bá-da-mén-te), adv. perfei-
+                tamente, completamente, inteiramente. || F. Acabado-+-
+                mente. -->
+                <form>
+                    <orth>Acabadamente</orth>
+                    <pron>a-ka-<q>bá</q>-da-<q>mên</q>-te</pron>
+                </form>
+                <gramGrp>adv.</gramGrp>
+                <sense>
+                    <def>perfeitamente, completamente, inteiramente.</def>
+                </sense>
+                <etym>F.<q>Acabado</q>+<q>mente.</q></etym>
+            </entry>
+            <entry>
+                <!-- Acabadiço (a-ka-ba-dí-ssu), adj. (pop.) doentio,
+                enfermiço ; acannaveado. || F. Acabar+iço. -->
+                <form>
+                    <orth>Acabadiço</orth>
+                    <pron>a-ka-ba-<q>dí</q>-ssu</pron>
+                </form>
+                <gramGrp>adj.</gramGrp>
+                <sense>
+                    <usg type="dom">pop.</usg> <!-- acrescentar abbr? -->
+                    <def>doentio, enfermiço; acannaveado.</def>
+                </sense>
+                <etym>F.<q>Acabar+iço.</q></etym>
+            </entry>
+            <entry>
+                <!-- Acabadote (a-ka-ba-dó-te), adj. (fam.) um tanto
+                acabado ; avelhentado. || F. Acabar+ote. -->
+                <form>
+                    <orth>Acabadote</orth>
+                    <pron>a-ka-ba-<q>dó</q>-te</pron>
+                </form>
+                <gramGrp>adj.</gramGrp>
+                <sense>
+                    <usg type="dom">fam.</usg> <!-- acrescentar abbr? -->
+                    <def>um tanto acabado; avelhentado.</def>
+                </sense>
+                <etym>F.<q>Acabar+ote.</q></etym>
+            </entry>
+            <entry>
+                <!-- Acabado (a-ka-/bá/-du), adj. completo, perfeito: A
+                casa está /acabada/. O quadro está muito bem /acabado/.
+                || (Fig.) Envelhecido, gasto, arruinado, usado : Pedro
+                está /acabado/. || —, subst. remate, acabamento : Aquella
+                esculptura é de um formoso /acabado/. || F. /Acabar+
+                ado/. -->
+                <form>
+                    <orth>Acabado</orth>
+                    <pron>a-ka-<q>bá</q>-du</pron>
+                </form>
+                <gramGrp>adj.</gramGrp>
+                <sense>
+                    <def>completo, perfeito: A casa está <emph>acabada</emph>.
+                    <!-- etiquetar como exemplo? -->
+                        O quadro está muito bem <emph>acabado</emph>.</def>
+                </sense>
+                <sense>
+                    <usg type="style">Fig.</usg>
+                    <def>Envelhecido, gasto, arruinado, usado: Pedro está <q>acabado</q>.</def>
+                </sense>
+                <gramGrp>subst.</gramGrp>
+                <sense>
+                    <def>remate, acabamento: Aquella esculptura é de um formoso <q>acabado.</q></def>                  
+                </sense>
+                <etym>F.<q>Acabar+ado.</q></etym>
+            </entry>
+            <entry>
+                <!-- Acabador (a-ka-ba-/dôr/), s. m. o que acaba. || F.
+/Acabar+or/. -->
+                <form>
+                    <orth>Acabador</orth>
+                    <pron>a-ka-ba-<q>dôr</q></pron>
+                </form>
+                <gramGrp>s. m.</gramGrp>
+                <sense>
+                    <def>o que acaba.</def>
+                </sense>
+                <etym>F.<q>Acabar+or.</q></etym>
+            </entry>
+            <entry>
+               <!-- Acabamento (a-ka-ba-/mên/-tu), s. m. acção ou ef-
+                feito de acabar, conclusão. || Perfeição, aperfeiçoamen-
+                to. || Morte : Toda a communidade assistiu ao seu /aca-
+                bamento/. || F. /Acabar+mento/. -->
+                <form>
+                    <orth>Acabamento</orth>
+                    <pron>a-ka-ba-<q>mên</q>-tu</pron>
+                </form>
+                <gramGrp>s. m.</gramGrp>
+                <sense>
+                    <def>acção ou effeito de acabar, conclusão.</def>
+                </sense>
+                <sense>
+                    <def>Perfeição, aperfeiçoamento.</def>
+                </sense>
+                <sense>
+                    <def>Morte: Toda a communidade assistiu ao seu <q>acabamento</q></def>
+                </sense>
+                <etym>Acabar+mento</etym>
+            </entry>
+                <!-- Acabanado (a-ka-ba-/ná/-du), adj. que tem a fór-
+                ma de cabana. Diz-se do toiro que tem os chifres pou-
+                co afastados entre si. || F. Acabanar+ado. -->
+        </body>
+    </text>
+</TEI>
+
+<!--
+
+Acabanar (a-ka-ba-ndr) v. tr. dar fórma de caba-
+na a. || F. A-tFceabana-+ar.
+
+Acnboclado (n-ka-bn-klád-du), adjf. que. é de ori-
+gem ou de raça de caboclo. lj F. Acaboclar-+ado.
+
+Acahboclar-se (a-ka-bu-klár-sse), v. pr. (Bras.) tor-
+nar as córes ou os modos de caboclo ; atrigueirar-se. ||
+F. Atcaboclot+ar,.
+
+Acabaunte (a-ka-bán-te), s. m. o que acaba. jllF.
+Acabart+-ante.
+
+Acubar (a-ka-bár), v. fr. terminar, concluir, fina-
+lisar, completar, perfazer, levar ao cabo : Já acabou o
+quadro em que trabalhava. || Acabar com alguma coisa,
+pôr-lhe termo: Acabou com todas as transacções que
+tinha com a França. || Acabar comsigo, resolver-se, de-
+terminar-se finalmente a alguma cousa, || Acabar com
+alguem que faça alguma coisa, resolvel-o, persuadil-o
+a fazel-a. || —, v. inir. terminar-se, ter fim : Aqui aca-
+ba o mar. || 4cabar bem, morrer tranquillo. || —,+. pr.
+ter fim : Acabou-se o bom tempo. || F. Ateabotar.
+
+Acabellado (a-ka-be-lá-du) adj. que cria cabello.
+|| (Ant) Côr amarellada, similhante so louro escuro.
+|| F. Acabellar-tado,
+
+Acabeliar (a-ka-be-lár), v. íintr, crear cabello, o
+mesmo que encabelilar: A chaga fechou ao quinto dia,
+e passados mezes acabellou. || F. At-cabello+-ar.
+
+Acabramar (a-ka-bra-már), o». tr. ligar com cor-
+da o chifre ao pé do (boi) para que este se torne inof-
+fensivo. || F. r. Cabra ?-4.ar.
+
+Acabramo (a-ka-brá-mu), s. m. pela propria para
+acabramar, || F. contr. Acabramar.
+
+Acabrunhado (a-ka-bru-nhád-do), adf. opprimido,
+atormentado, quebrantado. || F. Acabrunhar+ado.
+
+Acabrunhar (a-ka-bru-nhdr), v. tr. opprimir, bu-
+milhar, entristecer, afiligir: As injustiças acabrunham
+o homem. || —, tv. pr. desanimar, abater-se : Com qual-
+quer coisa se acabrunha.
+
+Acncá (a-ka-ld), s. m. (Bras.) especie de bolo de
+farinha de milho e arroz.
+
+Açacal (a-ssa-kdl), s. m. (ant.) agnadeiro, homem
+que se occupa em carretar agua. || Applicava-se tam-
+bem aos animaes: Bois de carga que serviam de aca- .
+caes. (J. de Barros.) || F. arab. Assaca, part. do v. sacá,
+dar de beber.
+
+Acacaladamente (a-ssa-ka-lád-da-men-te), ado.
+polidamente, com brilho, lustre. || F. Acacalado-tmente. -->
