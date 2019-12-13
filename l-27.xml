@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-stylesheet type="text/css" href="r27css.css"?>
+<?xml-stylesheet type="text/css" href="dic.css"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <entry>
+         <form><orth>Abastar </orth><pron>(a-bas-<q>tar</q>)</pron></form>, <gramGrp>vn. tr.</gramGrp> <sense><def>prover do que é bas-
+         tante, do necessario ; abastecer: Abastou a aldeia de pão
+         e a praça de polvora. </def></sense>|| —,<gramGrp> v. intr.</gramGrp><sense><def>  f. antiq. de bastar.</def></sense>
+         =,<gramGrp> v. pr.</gramGrp> <sense><def>abastou-se de vinho para um anno </def></sense>|| <gram>F. A +
+         basto + ar.</gram>
+         </entry>
+         
+         
+         <entry>
+         <form><orth>Abastardado</orth> <pron>(a-bas-tar-dá-du)</pron></form>,<gramGrp> adf.</gramGrp><sense><def> degenerado
+         por bastardia.</def></sense> || <gram>F. Abastardar-ado</gram>.
+         </entry>
+         
+         
+         <entry>
+         <form><orth>Abastardamento</orth> <pron>(a-bas-tar-da-<q>men</q>-tu)</pron></form>, <gramGrp>s. m.</gramGrp> <sense><def>acto
+         ou facto de abastardar.</def></sense> || <gram>F. Abastardar+mento</gram>.
+         </entry>
+         
+         <entry>
+         <form><orth>Abastardar</orth> <pron>(a-bas-tar-<q>dár</q>)</pron></form>,<gramGrp> v. tr</gramGrp>. <sense><def>fazer degenerar:
+         Abastardou os goivos dobrados semeando-os juntamente
+         com outros singelos.</def></sense> ||<sense><def> Corromper, alterar em relação ao
+         typo primitivo pela mistura de algum elemento estra-
+         nho : Abastardava a lingua patria mesclando-lhe termos
+         formados contra o genio da lingua.</def></sense> || <gram>F. A + bastardo + ar</gram>. 
+         </entry>   
+       
+       
+         <entry>
+         <form><orth>Abastardear </orth><pron>(a-bas-tar-de-<q>ár</q>)</pron></form>, <gramGrp>v. tr.</gramGrp> <sense><def>o mesmo que
+         abastardar.</def></sense> || <gram>F. A + bastardo + ear</gram>.
+         </entry>
+         
+         
+         <entry>
+         <form><orth>Abastecedor</orth> <pron>(a-bas-te-sse-<q>dôr</q>)</pron></form>, <gramGrp>adj.</gramGrp> e <gramGrp>s. m.</gramGrp> <sense><def>que
+         abastece.</def></sense> || <gram>F. Abastecer + or</gram>.
+         </entry>
+         
+         
+         <entry>
+         <form><orth>Abastecer</orth> <pron>(a-bas-te-<q>ssêr</q> )</pron></form>, <gramGrp>v. tr.</gramGrp> <sense><def>abastar (significa
+         particalamaente abastar, prover gradualmente).</def></sense> || <gram>Flex.
+         Nas linguagens da 2.º e 3.º pess. do sing. e 3.º do pl.
+         do pres. do indicat. e 2.º do sing. do imperat. muda
+         ara agudo o accento tonico, que nas outras é circumflexo. abastéces, abastéce, abastécem, abastéce. || F. A + 
+         basto + ecer</gram>.
+         </entry>
+         
+         
+         <entry>
+         <form><orth>Abastecido</orth> <pron>(a-bas-te-<q>ssi</q>-du)</pron></form>, <gramGrp>adj.</gramGrp> <sense><def>cheio, farto, bem
+         provido.</def></sense> || <gram>F. Abastecer + ido.</gram>
+         </entry>
+         
+         
+         <entry>
+         <form><orth>Abastecimento</orth> <pron>(a-bas-te-ssi-<q>men</q>-tu)</pron></form>,<gramGrp> s. m.</gramGrp> <sense><def>pro-
+         vimento ; acção ou effeito de abastecer</def></sense>. || <gram>F. Abastecer + mento</gram>.
+         </entry>
+         
+         
+        <entry> 
+         <form><orth>Abastimento</orth> <pron>(a-bas-ti-<q>men</q>-tu)</pron></form>, <gramGrp>8. m.</gramGrp> (Tras-M.)
+         <sense><def>execução ; aviamento. </def></sense>|| <gram>F. r. Abastecer</gram>.
+        </entry>
+         
+         
+         <entry>
+         <form><orth>Abasto</orth> <pron>(a-<q>bás</q>-tu)</pron></form>, <gramGrp>s. m.</gramGrp> (ant.)) <sense><def>acção ou effeito de
+         abastar; o mesmo que abastança, fartura.</def></sense> || <gram>F. contr.
+         de Abastar + o</gram>.
+         </entry>
+         
+         
+         <entry>
+         <form><orth>Abastosamente</orth> <pron>(a-bas-<q>tó</q>-sa-men-te)</pron></form>, <gramGrp>adv.</gramGrp> <sense><def>com
+         abastança on abundancia.</def></sense> ||<gram> F. Abastoso + mente</gram>.
+         </entry>
+         
+         
+         <entry>
+         <form><orth>Abastoso</orth> <pron>(a-bas-<q>tô</q>-zu)</pron></form>,<gramGrp> adj.</gramGrp> <sense><def>abastado, cheio de abas-
+         to ; farto.</def></sense> || <gram>F. Abasto + oso</gram>.
+         </entry>
+         
+         
+         <entry>
+         <form><orth>Abatatado</orth> <pron>(a-ba-ta-<q>tá</q>-du)</pron></form>, <gramGrp>adj.</gramGrp> <sense><def>que tem fórma de
+         batata ; grosso e largo.</def></sense> || <gram>Abatatar + ado</gram>.
+         </entry>
+         
+         
+        <entry>
+        <form><orth>Abatatar </orth><pron>(a-ba-ta-<q>tár</q>)</pron></form>, <gramGrp>v. Ir.</gramGrp><sense><def> dar fórma de batata
+         à; tornar grosso e largo.</def></sense> || <gram>F. A + batata + ar</gram>.
+         </entry>        
+         
+         
+         <entry>
+         <form><orth>Abate</orth> <pron>(a-<q>bá</q>-te)</pron></form>, <gramGrp>s. m.</gramGrp> <sense><def>abatimento de preço, de valor,
+         de conta.</def></sense> || <gram>F. contr. de Abater + e</gram>.
+         </entry>
+         
+         
+         <entry>
+         <form><orth>Abatedor </orth><pron>(a-ba-te-dôr)</pron></form>, <gramGrp>s. m.</gramGrp> <sense><def>o que abate, o que di-
+         minnue, [yibatedor de gado, o mesmo que magaréfe.</def></sense> |
+         (Fig) <sense><def>O que deprime o merecimento de alguem.</def></sense> ||<gram> F.
+         Abater + or</gram>.
+         </entry>
+         
+      </body>
+  </text>
+</TEI>
