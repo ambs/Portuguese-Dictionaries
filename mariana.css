@@ -1,0 +1,107 @@
+orth {
+    font: 30px bold; 
+    color: #C24641;
+}
+
+TEI {
+    display: block;
+    margin: 100px 100px 100px;
+    background-image: url("paper.jpg");
+    background-position: center;
+}
+
+teiHeader {
+    display: none;
+}
+
+entry {
+    display: block;
+    margin-bottom: 20px;
+}
+
+pron {
+    color: #C48189;
+}
+
+quote:before, quote:after {
+    content: "'";
+}
+
+q, quote { 
+    font-style: italic;
+}
+
+pron q:before { /* This is applied to all q and quote */
+    content: "'";
+}
+
+form {
+    display: block;
+}
+
+sense {
+    margin-bottom: 10px;
+    display: block;
+}
+
+
+ref:hover {
+color:#C47451;
+}
+
+body {
+font: 18px timesnewroman;
+word-spacing: 1px;
+text-align: justify;
+display: block;
+background-image: linear-gradient(to right, #FEFCFF, #FFF5EE);
+border: 5px dotted #954535;
+padding: 15px;
+background-clip: padding-box;
+}
+
+
+gramGrp {
+    font-style: italic;
+    background-color: #FBF6D9;   
+}
+
+date {
+color: #342D7E;
+text-shadow: 2px 2px #98AFC7;
+}
+
+bibl {
+    font-style: italic;
+}
+
+author {
+    font-style: normal;
+
+}
+
+author:hover {
+color: #342D7E;
+text-shadow: 2px 2px #98AFC7;
+}
+
+bibl:hover {
+color: #342D7E;
+text-shadow: 2px 2px #98AFC7;
+}
+
+ref {
+display: block;
+}
+
+abbr {
+font-style: italic;
+}
+
+xr {
+text-decoration: underline;
+}
+
+ref type{
+text-decoration: underline;
+}
