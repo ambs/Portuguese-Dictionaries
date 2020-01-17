@@ -1,167 +1,170 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="L-0028(1).css"?>
+<text>
 <body>
 <entry> 
     <form><orth>Abbadengo</orth> 
-        <pron>a-ba-den-ghu</pron></form>  
-    <gramGrp>adj.</gramGrp> <sense><def>que pertence a
+        <pron>a-ba-<q>den</q>-ghu</pron></form>  
+    <gramGrp>adjectivo</gramGrp> <sense><def>que pertence a
     abbade ; territorio <q>abbadengo</q>, o que pertence ao senho-
-    rio ou jurisdicção do abbade.</def></sense>  
-    <gramGrp>s. m.</gramGrp> 
+    rio ou jurisção do abbade.</def></sense>  
+    <gramGrp>substantivo masculino</gramGrp> 
    <sense><def> os bens que pertencem ao abbade ou à sna jurisdieção.</def></sense>  
-    <etym>F. <q>Abbade</q>+<q>engo</q>, pela mesma razão que se diz <q>realengo</q>, <q>solarengo</q></etym>
+    <etym><q>Abbade</q>+<q>engo</q>, pela mesma razão que se diz <q>realengo</q>, <q>solarengo</q></etym>
 </entry>
     <entry>
-        <form><orth>Abbadesco</orth> <pron>a-ba-dés-ku</pron></form>
-        <gramGrp>adj.</gramGrp>
+        <form><orth>Abbadesco</orth> <pron>a-ba-<q>dés</q>-ku</pron></form>
+        <gramGrp>adjectivo</gramGrp>
         <sense><def>proprio de abbade.</def></sense>
-       <etym>F. <q>Abbade</q>+<q>esco</q>.</etym>
+       <etym><q>Abbade</q>+<q>esco</q>.</etym>
     </entry>
     <entry>
-    <form><orth>Abbadessa</orth> <pron>a-ba-dê-ssa</pron></form>
-        <gramGrp>s. f.</gramGrp> 
-        <sense><def>prelada, superiora de algum convento ou communidade religiosa</def></sense>
-        <etym>F. lat.ecel. <q>Abbatissa.</q></etym>
+    <form><orth>Abbadessa</orth> <pron>a-ba-<q>dê</q>-ssa</pron></form>
+        <gramGrp>substantivo feminino</gramGrp> 
+        <sense><def>prelada, superiora de algum convento ou communidade religiosa.</def></sense>
+        <etym><lang>Latino </lang> eclesiástico <q>Abbatissa.</q></etym>
     </entry>
     <entry>
-        <form><orth>Abbadessado</orth> <pron>a-ba-de-ssá-du</pron></form>
-        <gramGrp>s. m. </gramGrp>
+        <form><orth>Abbadessado</orth> <pron>a-ba-de-<q>ssá</q>-du</pron></form>
+        <gramGrp>substantivo masculino </gramGrp>
         <sense><def>é o mesmo
         termo que <q>abbadado</q>, com applicação à dignidade de
         abbadessa.</def></sense> 
        <sense><def> O tempo que dura o cargo de abbadessa.</def></sense>
         <sense><def>O acto da sua eleição e celebração. </def></sense> 
-        <etym>F. <q>Abbadessa</q>+<q>ado</q>.</etym>
+        <etym><q>Abbadessa</q>+<q>ado</q>.</etym>
     </entry>
     <entry>
-        <form><orth>Abbadia</orth> <pron>a-ba-di-a</pron></form> 
-        <gramGrp>s. f.</gramGrp> 
+        <form><orth>Abbadia</orth> <pron>a-ba-<q>di</q>-a</pron></form> 
+        <gramGrp>substantivo feminino</gramGrp> 
         <sense><def>mosteiro a que preside um abbade ou abbadessa.</def></sense> 
     <sense><def>Dignidade abbacal, governo ou regimen do abbade ; bens pertencentes ao mosteiro
     ou egreja abbacial; egreja parochial que tinha um cura privativo.</def></sense>  
-        <etym>F. <q>Abbade</q>+<q>ia</q>.</etym>
+        <etym><q>Abbade</q>+<q>ia</q>.</etym>
     </entry>
     <entry>
-        <form><orth>Abbadiado</orth> <pron>a-ba-di-á-du</pron></form> 
-        <gramGrp>s. m. </gramGrp>
+        <form><orth>Abbadiado</orth> <pron>a-ba-di-<q>á</q>-du</pron></form> 
+        <gramGrp>substantivo masculino </gramGrp>
        <sense><def> o mesmo que abbadado.</def></sense>  
-        <etym>F. <q>Abbadia</q>+<q>ado</q>.</etym>
+        <etym><q>Abbadia</q>+<q>ado</q>.</etym>
     </entry>
     <entry>
-        <q><orth>Abbatina</orth> <pron>a-ba-tí-na</pron> </q>
-        <gramGrp>s. f.</gramGrp> 
+        <q><orth>Abbatina</orth> <pron>a-ba-<q>tí</q>-na</pron> </q>
+        <gramGrp>substantivo feminino</gramGrp> 
         <sense><def>vestido talar dos abbades. Hoje diz-se batina, e applica-se ao vestido talar de
     qualquer padre, e aos dos estudantes de algumas escolas.</def></sense> 
-    <etym>F. fem. do adj. » <q>abbatino</q>, pertencente a ubbade
-    (vestimenta <q>abbatina</q>).</etym></entry>
+    <etym>fem. do adjectivo <q>abbatino</q>, pertencente a ubbade
+    vestimenta <q>abbatina</q>.</etym></entry>
     <entry>
-        <form><orth>Abe</orth> <pron>á-bê-ssè</pron> </form> 
-        <gramGrp>s. m.</gramGrp> 
+        <form><orth>Abe</orth> <pron>á-bê-<q>ssè</q></pron> </form> 
+        <gramGrp>substantivo masculino</gramGrp> 
         <sense><def>abecedario.</def></sense> 
-        <sense><def>(Fig.) As primeiras noções de qualquer sciencia ou arte: À arithmetica é o <q>ABC</q> das mathematicas.</def></sense>  
-    <sense><def>(Fam.) Não conhecer o <q>ABC</q>, não saber nada.</def></sense>  
+        <sense><def><usg type="style">Figurado </usg> As primeiras noções de qualquer sciencia ou arte: À arithmetica é o <q>ABC</q> das mathematicas.</def></sense>  
+    <sense><def><usg>Familiar </usg> Não conhecer o <q>ABC</q>, não saber nada.</def></sense>  
     <sense><def>Carta do <q>ABC</q>, cartilha, livrinho para aprender os primeiros elementos da leitura.</def></sense>
     </entry>
    <entry>
-       <form> <orth>Abeedario</orth> <pron>a-be-sse-dá-ri-u</pron></form> 
-    <gramGrp>s. m.</gramGrp> 
+       <form> <orth>Abeedario</orth> <pron>a-be-sse-<q>dá</q>-ri-u</pron></form> 
+    <gramGrp>substantivo masculino</gramGrp> 
     <sense><def>o mesmo que <q>abecedario</q>.</def></sense>
    </entry>
     <entry>
-        <form><orth>Abeeder</orth> <pron>(ab-sse-dér)</pron></form>
-        <gramGrp>v. intr.</gramGrp> 
-        <sense><def>terminar por abcesso</def></sense>.
-        <etym>F. lat. <q>abcedere</q></etym>.
+        <form><orth>Abeeder</orth> <pron>ab-sse-<q>dér</q></pron></form>
+        <gramGrp>verbo intransitivo</gramGrp> 
+        <sense><def>terminar por abcesso.</def></sense>
+        <etym><lang>Latino </lang>  <q>abcedere</q></etym>.
     </entry>
     <entry>
-        <form><orth>Abcesso</orth> <pron>(ab'-ssé-ssu)</pron> </form>
-        <gramGrp>s. m.</gramGrp> 
-        <sense><def><usg type="dom">med.</usg> aceumulação de
-        pus em uma cavidade accidental, enja formação é devida à produção d'esse liquido nos tecidos</def></sense>.  
+        <form><orth>Abcesso</orth> <pron>ab'-<q>ssé</q>-ssu</pron> </form>
+        <gramGrp>substantivo masculino</gramGrp> 
+        <sense><def><usg type="dom">Medicina </usg> aceumulação de
+        pus em uma cavidade accidental, enja formação é devida à produção d'esse liquido nos tecidos.</def></sense>  
         <sense><def>Tambem
-        vulgarmente se chama abcesso ao pus aceumulado em cavidades naturaes</def></sense>.  
-        <etym>F. lat. <q>Abscessus</q> do v. <q>abscedere</q>, afastar-se.</etym>
+        vulgarmente se chama abcesso ao pus aceumulado em cavidades naturaes.</def></sense>  
+        <etym><lang>Latino </lang>  <q>Abscessus</q> do verbo <q>abscedere</q>, afastar-se.</etym>
     </entry>
     <entry>
-       <form> <orth>Abd</orth> <pron>(á-b'-d')</pron> </form>
-        <gramGrp>s. m.</gramGrp> 
+       <form> <orth>Abd</orth> <pron><q>á</q>-b'-d'</pron> </form>
+        <gramGrp>substantivo masculino</gramGrp> 
         <sense><def>palavra arabe que significa servidor; entra na composição de muitos nomes orientaes:</def>
         <example><q>Abd-Alláh</q>, servidor de Deus. <q>Abd-el-Kader</q>, servidor de Deus poderoso</example>.</sense>
     </entry>
     <entry>
-        <form><orth>Abdalláh</orth> <pron>(áb'-da-lá)</pron></form> 
-        <gramGrp>s. m.</gramGrp> 
-        <sense><def>nome que os persas dão aos religiosos</def></sense>.  
-        <etym>F. <q>Abd</q>, servidor, <q>Alláh</q>, Deus</etym>.
+        <form><orth>Abdalláh</orth> <pron>áb'-da-<q>lá</q></pron></form> 
+        <gramGrp>substantivo masculino</gramGrp> 
+        <sense><def>nome que os persas dão aos religiosos.</def></sense>  
+        <etym><q>Abd</q>, servidor, <q>Alláh</q>, Deus.</etym>
     </entry>
     <entry>
-        <form><orth>Abdicação</orth> <pron>(ab'-di-ka-ssão)</pron></form> 
-        <gramGrp>s. f.</gramGrp> 
-        <sense><def>acção e efíeito de abdicar, renunciação</def></sense>.  
-        <etym>F. <q>Abdicart</q>+<q>ão</q></etym>.
+        <form><orth>Abdicação</orth> <pron>ab'-di-ka-<q>ssão</q></pron></form> 
+        <gramGrp>substantivo feminino</gramGrp> 
+        <sense><def>acção e efíeito de abdicar, renunciação.</def></sense>  
+        <etym><q>Abdicart</q>+<q>ão</q></etym>.
     </entry>
     <entry>
-        <form><orth>Abdicador</orth> <pron>(ab'-di-cka-dôr)</pron></form> 
-        <gramGrp>s. m.</gramGrp> 
-        <sense><def>o que abdica</def></sense>.
-        <etym>F. <q>Abdicar</q>+<q>or</q></etym>.
+        <form><orth>Abdicador</orth> <pron>ab'-di-cka-<q>dôr</q></pron></form> 
+        <gramGrp>substantivo masculino</gramGrp> 
+        <sense><def>o que abdica.</def></sense>
+        <etym><q>Abdicar</q>+<q>or</q>.</etym>
     </entry>
     <entry>
-        <form><orth>Abdicante</orth> <pron>(ab'-di-kan-te)</pron></form> 
-        <gramGrp>adj.</gramGrp> 
-        <sense><def>o mesmo que <q>abdicador</q></def></sense>.  
-        <etym>F. <q>Abdicar</q>+<q>ante</q></etym>.
+        <form><orth>Abdicante</orth> <pron>ab'-di-<q>kan</q>-te</pron></form> 
+        <gramGrp>adjectivo</gramGrp> 
+        <sense><def>o mesmo que <q>abdicador</q></def>.</sense>  
+        <etym><q>Abdicar</q>+<q>ante</q>.</etym>
     </entry>
     <entry>
-        <form><orth>Abdicar</orth> <pron>(ab'-di-kár)</pron></form>
-        <gramGrp>v. tr.</gramGrp> 
+        <form><orth>Abdicar</orth> <pron>ab'-di-<q>kár</q></pron></form>
+        <gramGrp>verbo transitivo</gramGrp> 
         <sense><def>renunciar (diz-se de alguma dignidade ou dominio, e particularmente da
         anctoridade soberana)</def>: <cit><quote>Por que não <q>abdicou</q> a mages-
-        tade ? por que não deixou de ser rainha?</quote> <bibl><title>(Dic. d'Àc.)</title></bibl></cit></sense>
-        <sense><def>Desistir de; Tolerar o despotismo é <q>abdicar</q> a propria dignidade</def></sense>.  
-        <gramGrp>v. íntr.</gramGrp> 
-        <sense><def>renunciar ao poder soberano</def>: <example>D. Pedro IV <q>abdícou</q> por duas vezes</example></sense>. 
+        tade ? por que não deixou de ser rainha?</quote> <bibl><title>Diccionario da Academia</title></bibl></cit></sense>
+        <sense><def>desistir de; tolerar o despotismo é <q>abdicar</q> a propria dignidade.</def></sense>  
+        <gramGrp>verbo intransitivo</gramGrp> 
+        <sense><def>renunciar ao poder soberano</def>: <example>D. Pedro IV <q>abdícou</q> por duas vezes.</example></sense> 
         <sense><def><q>Abdicar</q> de
         alguma coisa ou <q>abdicar</q> de si alguma coisa, renunciar
         a elia</def>: <cit><quote>Convem que se tenham por suspeitosos de si
-        mesmos, <q>abdicando</q> de si o sentenciar preocupa tamento</quote>
-        <bibl><title>(Dic. d'Ace.)</title></bibl></cit></sense> 
-        <gramGrp>v. pron.</gramGrp> 
+        mesmos, <q>abdicando</q> de si o sentenciar preocupa tamento.</quote>
+        <bibl><title>Diccionario da Academia</title></bibl></cit></sense> 
+        <gramGrp>verbo pronominal</gramGrp> 
         <sense><def><q>abdicar-se</q> de alguma coisa,
-        renunciar a ella</def>: <cit>S<quote>upposto que nunca os Weiaeines se
-        <q>abdicassem</q> do seu exercicio</quote>. <bibl><title>(Dic. d'Ac.</title></bibl>)</cit></sense>  
-        <etym>F. lat. <q>Abdicare</q></etym>.
+        renunciar a ella</def>: <cit><quote>Supposto que nunca os Weiaeines se
+        <q>abdicassem</q> do seu exercicio</quote>. <bibl><title>Diccionario da Academia</title></bibl></cit></sense>  
+        <etym><lang>Latino </lang>  <q>Abdicare</q></etym>.
     </entry>
     <entry>
-        <form><orth>Abdicatario</orth> <pron>(ab'-di-ka-tá-ri-u)</pron></form> 
-        <gramGrp>adj.</gramGrp> 
-        <sense><def>o mesmo que <xr>abdicador</xr></def></sense>.  
-        <etym>F. <q>Abdicar</q>+<q>ario</q></etym>.
+        <form><orth>Abdicatario</orth> <pron>ab'-di-ka-<q>tá</q>-ri-u</pron></form> 
+        <gramGrp>adjectivo</gramGrp> 
+        <sense><def>o mesmo que <xr>abdicador</xr></def>.</sense>  
+        <etym><q>Abdicar</q>+<q>ario</q></etym>.
     </entry>
     <entry>
-        <form><orth>Abdicativo</orth> <pron>(ab'-di-ka-ti-vu)</pron> </form>
-        <gramGrp>adj.</gramGrp> 
+        <form><orth>Abdicativo</orth> <pron>ab'-di-ka-<q>ti</q>-vu</pron> </form>
+        <gramGrp>adjectivo</gramGrp> 
         <sense><def>relativo a abdicação ; que envolve abdicação.</def></sense> 
-        <etym>F. <q>Abdicar+ivo</q></etym>.
+        <etym><q>Abdicar+ivo</q></etym>.
     </entry>
     <entry>
-        <form><orth>Abdicavel</orth> <pron>(ab'-di-ká-vél</pron>)</form> 
-        <gramGrp>adj.</gramGrp> 
+        <form><orth>Abdicavel</orth> <pron>ab'-di-<q>ká</q>-vél</pron></form> 
+        <gramGrp>adjectivo</gramGrp> 
         <sense><def>susceptivel de ser
         abdicado, que deve ser abdicado</def>.</sense> 
-        <etym>F. <q>Abdicar</q>+<q>avel</q>.</etym>
+        <etym><q>Abdicar</q>+<q>avel</q>.</etym>
     </entry>
     <entry>
-        <form><orth>Abdomen</orth> <pron>(ab'-dó-mê-ne)</pron></form> 
-        <gramGrp>s. m.</gramGrp> 
-        <sense><def><usg type="dom">anat.</usg> a grande cavidade
+        <form><orth>Abdomen</orth> <pron>ab'-<q>dó</q>-mê-ne</pron></form> 
+        <gramGrp>substantivo masculino</gramGrp> 
+        <sense><def><usg type="dom">Anatomia </usg> a grande cavidade
         splanchnica que forma a metade inferior do
         tronco, e aloja a maior parte dos orgãos digestivos e
         genito-urinarios; ventre.</def> </sense>
         <sense><def>À parte posterior dos insectos e outros animaes articulados</def>: 
         <cit><quote>As abelhas operarias estão segregando d'entre os anneis que lhes formam o
-        <q>abdomen</q>, laminas finissimas de cêra.</quote> <bibl><author>(And. Corvo.)</author></bibl></cit> </sense>
-        <etym>F. lat. <q>Abdomen</q></etym>.
+        <q>abdomen</q>, laminas finissimas de cêra.</quote> <bibl><author>And. Corvo.</author></bibl></cit> </sense>
+        <etym><lang>Latino </lang>  <q>Abdomen</q></etym>
     </entry>
 </body>
+        </text>
 
 

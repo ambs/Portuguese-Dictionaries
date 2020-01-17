@@ -1,0 +1,62 @@
+
+orth {
+    font-weight: bold;
+    color: rgb(150, 0, 0);
+}
+
+text {
+    display: block;
+    margin: 20px;
+}
+
+entry {
+    display: block;
+    margin-bottom: 20px;
+}
+
+pron {
+    font-style: italic;
+    color: rgb(0, 150, 0);
+}
+
+quote:before, quote:after {
+    content: '"';
+}
+
+q, quote { 
+    font-style: italic;
+}
+
+pron q:before {
+    content: "'";
+}
+
+gramGrp {
+    font-weight: bold;
+}
+
+form {
+    display: block;
+}
+
+sense {
+    margin-bottom: 5px;
+    display: block;
+}
+
+etym {
+    background-color: yellow;
+    padding: 3px;
+    display: inline-block;
+    border-color: orange;
+    border-width: 5px;
+    border-style: dashed;
+}
+
+xr {
+    text-decoration: underline;
+}
+xr:hover {
+    color: pink;
+}
+
