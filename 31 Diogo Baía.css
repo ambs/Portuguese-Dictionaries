@@ -1,0 +1,36 @@
+pron
+              { 
+              font-size:80%; 
+              margin:0.5em; 
+              font-family: Verdana; 
+              display:block; 
+              } 
+orth { 
+              display:block;  
+              border: 1px solid silver; 
+              margin:0.5em;  
+              padding:0.5em;  
+              background-color:whitesmoke; 
+              } 
+title { 
+      display:block; 
+      font-weight:bolder; 
+      text-align:center; 
+      font-size:30px; 
+      background-color: green; 
+      color: white; 
+  
+      } 
+pron, orth { 
+                                 display:block; 
+                                 text-align:center; 
+                                 } 
+gramGrp { 
+       color:green
+       } 
+def { 
+       color:brown 
+       } 
+etym { 
+       color:blue
+       } 
