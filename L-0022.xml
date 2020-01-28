@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-stylesheet type="text/css" href="mariana.css" title="mariana.css" alternate="no"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <entry>
+            <form>
+               <orth>A</orth>
+               <pron>à</pron>
+            </form>
+            <gramGrp><q>pref. </q>  </gramGrp>
+            <sense n="1">
+               <usg type="lang">tem tres procedencias: portuguez, greg. e lat.</usg> </sense>
+            <sense n="2"><usg type="style">O pref. port. <q>a</q> é de duas naturezas, de signif. e de euph.</usg></sense> 
+               <sense n="3"><usg style="style">Pref. <q>a</q> de signif. </usg><def>junta-se a verbos e a adjectivos para exprimir o uso, o emprego, a fórma, a imitação: <ref>abaetar-se, adamar-se, afrancezar-se, ajanotar-se, abaetado, adamado, ajanotado, afidalgado, amouriscado, abatatado.</ref></def></sense>
+            <sense n="4"><def>Uma idéa augmentativa, extensiva ou intensiva: <ref>assoada (prolongação de som), adoçar, (tornar mais doce), assonílhar, afamar, abrazar, afervorar, apavorar, atroar.</ref></def></sense>
+            <sense n="5"><def>Junto a certos verbos denota uma idéa de destinação, de tendencia para um certo fim, o exercicio da actividade n'um certo sentido, ao contrario dos seus simples, que significam a plenitude da acção sem dependencia alguma: <ref>chegar, achegar; cercar, acercar; juntar, ajuntar; baixar, abaixar.</ref></def></sense>
+            <sense n="6"><def>Este pref. empregava-se antigamente com muitos verbos em que hoje se usa a prep. <q>em</q>:<ref>afeitar, enfeitar; abainhar, embainhar.</ref></def></sense>
+            <sense n="7"><usg style="gram">Pref. euph. </usg><def> emprega-se com verbos e nomes começados por consoantes para tornar mais facil a sua articulação: <ref>acypreste, alampada, abobada, ametade, alevantar, em vez de eypreste, lampada, etc. </ref></def></sense>
+            <sense n="8"><usg style="lang">Pref. lat.</usg> <def>correspondendo ao pref. lat. <abbr>ab, (vid. s. loc.)</abbr>, <ref>amentar, anormal, aspecto.</ref></def></sense>
+            <sense n="9"> <usg type="gram">Pref. gr. privativo</usg>, <def>significa ausencia (este pref. quando se lhe segue vogal muda para <q>an</q>): <ref>acephalo, aphonia, amnistia, anonymo.</ref></def></sense>
+         </entry>
+         <entry>
+            <form>
+               <orth>A</orth>
+               <pron>a</pron>
+            </form>
+            <gramGrp><usg style="gram">suff. subs. contr.</usg></gramGrp>
+            <sense n="1"><def>significa o mesmo que <q>mento</q> ou <q>ão</q>: <ref>Paga, pagamento; aberta, abertura ; revenda, revendicação.</ref> Este suffixo é sempre a contracção de uma desinencia verbal. </def><xr type="see"> V. o suff.<q> O e E. </q></xr></sense>
+         </entry>
+         <entry>
+            <form>
+            <orth>A</orth>
+            <pron>a</pron>
+            </form>
+            <gramGrp> flexão <pos value="noun">subs.</pos> e <pos value="adjective">adj.</pos></gramGrp>
+            <sense n="1"><def> com que se forma o genero fem. na lingua portugueza. N'esta parte a grammatica moderna tem grande vantagem sobre a antiga. Muitos nomes que nos primeiros periodos da lingua eram invariaveis, hoje admittem flexão feminina: <ref>O portuguez, a portuguez; o hespanhol, a hespanhol; o servidor, a servidor, o sabedor, a sabedor; o senhor, a senhor: hoje diz-se, a portugueza, a hespanhola, </ref>etc.
+            </def> <xr type="see"> V. <q>Genero.</q></xr></sense>
+            <sense n="2"><usg type="gram">Flex. verb.</usg><def>representa as linguagens da 3.º pess. do sing. do pres. do ind. da 1.º conj. e do imperat., e da 1.º e 3.º pess. do sing. do pres. do subj. da 2.º e 3.º conj.</def></sense>
+         </entry>
+         <entry>
+            <form>
+               <orth>Á</orth>
+               <pron>á</pron>
+            </form>
+            <gramGrp> <pos value="article"> art.</pos></gramGrp>
+            <sense n="1"><def>contracto, formado da prep. <q>a</q> e do art. <q>á</q>. Antes da introducção dos accentos representava-se esta contracção escrevendo dois <q>aa</q>.</def> <xr type="see">V. supra.</xr></sense>
+         </entry>
+     <entry>
+        <form>
+           <orth>AA</orth>
+           <pron>ás</pron>
+        </form>
+        <gramGrp> 
+           <pos value="noun">s.</pos> <gen value="masculine">m.</gen> <number value="plural">pl.</number>de a:</gramGrp> 
+        <sense n="1"><def> Os <q>aa</q> goticos são mais elevados que os romanos. Quando o plural é formado de um pequeno numero, costuma-se repetir o numero d'elles: <ref>Aos tres <q>AAA</q> com que Jeremias se escusava de ser propheta das gentes, respondia Deus com Africa, Ásia e America.</ref> <bibl><author><surname>(Vieira.)</surname></author></bibl></def></sense>
+     </entry>
+         <entry>
+            <form>
+               <orth>Aa</orth>
+            </form>
+            <sense n="1"><def>Formula usada em receitas medicas e quer dizer: <ref><q>partes eguaes de cada coisa</q>; o mesmo que <q>ana.</q></ref></def></sense>
+         </entry>
+         <entry>
+            <form>
+               <orth>Aal</orth>
+               <pron>a-ál</pron>
+            </form>
+            <gramGrp><pos value="noun">s.</pos> <gen value="masculine">m.</gen></gramGrp>
+            <sense n="1"><def>arvore da fam. das therebinthaceas.</def></sense></entry>
+            <entry>
+            <form>
+               <orth>Aanlénio</orth>
+               <pron>a-a-lé-ni-o</pron>
+            </form>
+             <gramGrp> <pos value="adjective">adj.</pos> e <pos value="noun">s.</pos> <gen value="masculine">m.</gen> </gramGrp><usg type="dom">(geol).</usg>
+               <sense n="1"><def>Diz-se de certo terreno predominante em Aalen</def> <usg type="geo">(Allemanha)</usg>.</sense>
+            </entry>
+         <entry>
+            <form>
+               <orth>Ab</orth>
+               <pron>ab'</pron>
+            </form>
+            <gramGrp><pos value="prefix">pref.</pos> <usg type="lang">lat.</usg> </gramGrp>
+            <sense n="1">
+              <def>(toma ás vezes a fórma de <q>abs</q>, <q>au</q>, ou só <q>a</q>. V. <q>A</q> pref. lat., correspondendo às prep. <q>de</q>, <q>por</q>); significa separação, afastamento, extracção, privação, falta; abdicar, absolver, abjurar, absterger, antigos davam differentes usos. <ref>Vae tomar a espada sobre o <q>ábaco</q> e não a acha.</ref><bibl><author><surname>(Garrett.)</surname></author></bibl></def></sense>
+            <sense n="2"><def>Mesa coberta de uma camada tenue de areia para ensinar os primeiros delineamentos da escripta.</def></sense>
+            <sense n="3">
+               <usg type="dom">Arith.</usg>
+               <def> Contador mechanico empregado nas escolas primarias para ensinar as quatro operações fundamentaes da amthmetica.</def>
+            </sense>
+            <sense n="4">
+               <usg type="dom"> Archit.</usg>
+               <def> Parte superior do capitel de uma columna sobre que assenta a architrave; na edade media era geralmente quadrado e com mais ou menos ornatos.</def></sense>
+            <etym type="lang">F. lat. <q>Abacus.</q></etym>
+         </entry>
+      </body>
+  </text>
+</TEI>
