@@ -1,0 +1,511 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-stylesheet type="text/css" href="R-0025.css"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <entry>
+            <form>
+               <orth>Abandalhado</orth>
+               <pron>a-ban-da-lhá-du</pron>
+            </form>
+            <etym>Abandalhar+ado</etym>
+            <gramGrp>
+               <pos>adj.</pos>
+            </gramGrp>
+            <sense n="1">
+               <def>Que tem qualidades ou maneiras de bandalho <quote>É um rapaz muito
+                     abandalhado</quote></def>
+            </sense>
+            <sense n="2">
+               <def>Proprio de bandalho</def>
+            </sense>
+            <sense n="3">
+               <def>Ridiculamente garrido <quote>Um casaco muito abandalhado</quote></def></sense>
+         </entry>
+
+
+         <entry>
+            <form>
+               <orth>Abandalhar</orth>
+               <pron>a-ban-da-lhar</pron>
+            </form>
+            <etym>Abandalho+ar</etym>
+            <gramGrp>
+               <pos>v.</pos>
+               <subc>tr.</subc>
+            </gramGrp>
+            <sense n="1">
+               <def>Tornar bandalho <quote>Foram as más companhias que o abandalharam</quote></def>
+            </sense>
+            <gramGrp>
+               <pos>v. </pos>
+               <subc>pr. </subc>
+            </gramGrp>
+            <sense n="2">
+               <def>Dar-se ao desprezo, ridicularizar-se <quote>Abandalhou-se não só no vestuario,
+                     mas com o tracto de pessoas devassas com quem habitualmente
+                  convivia</quote></def>
+            </sense>
+         </entry>
+
+
+         <entry n="1">
+            <form>
+               <orth>Abandar</orth>
+               <pron>a-ban-dár</pron>
+            </form>
+            <etym>A+bando+ar</etym>
+            <gramGrp>
+               <pos>v. </pos>
+               <subc>tr.</subc>
+            </gramGrp>
+            <sense n="1">
+               <usg type="register">prov.</usg>
+               <def>Reunir em bando</def>
+            </sense>
+            <re>
+               <form><orth>Abandar-se</orth></form>
+               <gramGrp>
+                  <pos>v.</pos>
+                  <subc>pr.</subc>
+               </gramGrp>
+               <sense n="2">
+                  <def>O mesmo que abandear-se</def></sense>
+            </re>
+         </entry>
+
+
+         <entry n="2">
+            <form>
+               <orth>Abandar</orth>
+               <pron>a-ban-dár</pron>
+            </form>
+            <etym>A+banda+ar</etym>
+            <gramGrp>
+               <pos>v.</pos>
+               <subc>tr.</subc>
+            </gramGrp>
+            <sense n="1">
+               <def>Pôr de banda</def>
+            </sense>
+            <sense n="2">
+               <def>Separar como quinhão</def>
+            </sense>
+            <sense n="3">
+               <def>Pôr bandas em</def>
+            </sense>
+         </entry>
+
+
+         <entry>
+            <form>
+               <orth>Abandear</orth>
+               <pron>a-ban-de-ár</pron>
+            </form>
+            <etym>Aban+dear</etym>
+            <gramGrp>
+               <pos>v.</pos>
+               <subc>tr.</subc>
+            </gramGrp>
+            <sense>
+               <def>O mesmo que bandear</def>
+            </sense>
+         </entry>
+
+
+         <entry>
+            <form>
+               <orth>Abandeirado</orth>
+               <pron>a-ban-dei-rá-du</pron>
+            </form>
+            <etym>Abandeirar+ado</etym>
+            <gramGrp>
+               <pos>adj.</pos>
+            </gramGrp>
+            <sense>
+               <def>O mesmo que embandeirado</def>
+            </sense>
+         </entry>
+
+
+         <entry>
+            <form>
+               <orth>Abandeirar</orth>
+               <subc>a-ban-dei-rár</subc>
+            </form>
+            <etym>A+bandeira+ar</etym>
+            <gramGrp>
+               <pos>v.</pos>
+               <subc>tr.</subc>
+            </gramGrp>
+            <sense>
+               <def>O mesmo que embandeirar</def>
+            </sense>
+         </entry>
+
+
+         <entry>
+            <form>
+               <orth>Abandejar</orth>
+               <pron>a-ban-de-jar</pron>
+            </form>
+            <etym>A+ban+deja+ar</etym>
+            <gramGrp>
+               <pos>v.</pos>
+               <subc>tr.</subc>
+            </gramGrp>
+            <sense n="1">
+               <def>Dispor em forma de bandeja <quote>Abandejou a lamina de prata</quote></def>
+            </sense>
+            <sense n="2">
+               <usg type="domain">Agric.</usg>
+               <def>Limpar [diz-se do trigo e dos mais cereaes, quando se emprega a bandeja, para
+                  lhes separar a palha ou quaesquer outros corpos mais leves que o grão]</def>
+            </sense>
+         </entry>
+
+
+         <entry>
+            <form>
+               <orth>Abandoar-se</orth>
+               <pron>a-ban-du-ár-sse</pron>
+            </form>
+            <etym>Abandoar</etym>
+            <gramGrp>
+               <pos>v.</pos>
+               <subc>pr.</subc>
+            </gramGrp>
+            <sense>
+               <def>Juntar-se em bando <quote>As aves de arribação abandoam-se quando
+                     emigram</quote></def>
+            </sense>
+         </entry>
+
+
+         <entry>
+            <form>
+               <orth>Abandonadamente</orth>
+               <pron>a-ban-du-nú-da-men-te</pron>
+            </form>
+            <etym>Abandonado+mente</etym>
+            <gramGrp>
+               <pos>adv.</pos>
+            </gramGrp>
+            <sense>
+               <def>Desamparadamente</def>
+            </sense>
+         </entry>
+
+
+         <entry>
+            <form>
+               <orth>Abandonado</orth>
+               <pron>a-ban-du-ná-du</pron>
+            </form>
+            <etym>Abandonar+ado</etym>
+            <gramGrp>
+               <pos>adj.</pos>
+            </gramGrp>
+            <sense>
+               <def>Desamparado</def>
+               <cit type="example">
+                  <quote>Os expostos e os menores abandonados, cujos paes não forem
+                     conhecidos</quote>
+                  <bibl><author>Cod. civ., art. 284.</author></bibl>
+               </cit>
+               <cit type="example">
+                  <quote>Se o pae ou mãe do menor fallecerem insolventes, o menor será tido por
+                     abandonado</quote>
+                  <bibl><author>Idem, art. 283.</author></bibl>
+               </cit>
+            </sense>
+         </entry>
+
+
+         <entry>
+            <form>
+               <orth>Abandonamento</orth>
+               <pron>a-ban-du-na-men-tu</pron>
+            </form>
+            <etym>Abandonar+mento</etym>
+            <gramGrp>
+               <pos>s.</pos>
+               <gen>m.</gen>
+            </gramGrp>
+            <sense>
+               <def>O mesmo que abandono</def>
+            </sense>
+         </entry>
+
+
+         <entry>
+            <form>
+               <orth>Abandonar</orth>
+               <pron>a-ban-du-nár</pron>
+            </form>
+            <etym>Abandono+ar</etym>
+            <gramGrp>
+               <pos>v.</pos>
+               <subc>tr.</subc>
+            </gramGrp>
+
+            <sense n="1">
+               <def>Renunciar a, desistir de <quote>Abandonou a herança</quote></def>
+            </sense>
+            <sense n="2">
+               <def>Deixar escapar; largar <quote>O cavalleiro abandonou as redeas</quote></def>
+            </sense>
+            <sense n="3">
+               <def>Retirar-se de <quote>A tripulação abandonou o navio</quote></def>
+            </sense>
+            <sense n="4">
+               <def>Deixar de todo; desprezar <quote>Abandonou os estudos</quote></def>
+            </sense>
+            <sense n="5">
+               <def>Deixar só; sem soccorro, sem auxilio ou cuidados de qualquer especie
+                     <quote>Abandonou os filhos.</quote>
+                  <quote>Os medicos abandonaram o doente</quote></def>
+            </sense>
+            <gramGrp>
+               <pos>v.</pos>
+               <subc>pr.</subc>
+            </gramGrp>
+            <sense n="6">
+               <def>Dar-se ao desprezo, não se importar comsigo. Entregar-se <quote> Abandonar-se a
+                     todos os vicios</quote></def>
+            </sense>
+         </entry>
+
+
+         <entry>
+            <form>
+               <orth>Abandonatario</orth>
+               <pron>a-ban-du-na-tá-ri-u</pron>
+            </form>
+            <etym>Abandonar+ario</etym>
+            <gramGrp>
+               <pos>s.</pos>
+               <gen>m.</gen>
+            </gramGrp>
+            <sense>
+               <def>Pessoa que adquiriu direitos ou coisas abandonadas por outrem</def>
+            </sense>
+         </entry>
+
+
+         <entry>
+            <form>
+               <orth>Abandonavel</orth>
+               <pron>a-ban-du-ná-vél</pron>
+            </form>
+            <etym>Abandonar+vel</etym>
+            <gramGrp>
+               <pos>adj.</pos>
+            </gramGrp>
+            <sense>
+               <def>Que merece ser abandonado</def>
+            </sense>
+         </entry>
+
+
+         <entry>
+            <form>
+               <orth>Abondono</orth>
+               <pron>a-ban-dô-nu</pron>
+            </form>
+            <etym><lang>lat.</lang> abandonum</etym>
+            <gramGrp>
+               <pos>s.</pos>
+               <gen>m.</gen>
+            </gramGrp>
+            <sense n="1">
+               <def>Acção ou effeito de abandonar</def>
+            </sense>
+            <sense n="2">
+               <usg>Jur.</usg>
+               <def>Renuncia criminosa; desamparo total</def>
+               <cit>
+                  <quote>Abandono de emprego</quote>
+                  <bibl><title>Cod. Pen., art. 308.</title></bibl>
+               </cit>
+            </sense>
+            <sense n="3">
+               <cit>
+                  <quote>Exposição e abandono dos infantes</quote>
+                  <bibl><title>Cod. Pen., art. 345.</title></bibl>
+               </cit>
+            </sense>
+            <sense n="4">
+               <def>Cessão (de um direito) <quote>Abandono da herança</quote></def>
+            </sense>
+            <sense n="5">
+               <def>Naturalidade, desaffectação elegante</def>
+               <cit type="example">
+                  <quote>Mas que adoravel defeito! (refere-se a uma senhora que não apurava com o
+                     ferro o ondado natural dos cabellos. Que deliciosas imagens que excita de
+                     abandono — passe o gallicismo — de confiança, etc.</quote>
+                  <bibl><author>Garrett</author><title>Viag., t. 1, cap. 12.</title></bibl>
+               </cit>
+            </sense>
+            <gramGrp>
+               <pos>loc.</pos>
+               <subc>adv.</subc>
+            </gramGrp>
+            <sense n="6">
+               <def>Ao abandono, sem auxilio, nem protecção; sem tratamento</def>
+            </sense>
+         </entry>
+
+
+         <entry>
+            <form>
+               <orth>Abaneenga</orth>
+               <pron>a-ba-ne-en-gha</pron>
+            </form>
+            <gramGrp>
+               <pos>s.</pos>
+               <subc>f.</subc>
+            </gramGrp>
+            <sense>
+               <usg type="lang">Bras.</usg>
+               <def>A lingua guarani ou tupi do sul</def>
+            </sense>
+         </entry>
+
+
+         <entry>
+            <form>
+               <orth>Abaneenga</orth>
+               <pron>a-ba-ne-en-gha</pron>
+            </form>
+            <gramGrp>
+               <pos>s.</pos>
+               <gen>f.</gen>
+            </gramGrp>
+            <sense>
+               <def>O mesmo que abaneenga</def>
+            </sense>
+         </entry>
+
+
+         <entry>
+            <form>
+               <orth>Abanga</orth>
+               <pron>a-ban-gha</pron>
+            </form>
+            <gramGrp>
+               <pos>s.</pos>
+               <subc>f.</subc>
+            </gramGrp>
+            <sense n="1">
+               <def>Nome genérico da bananeira (n'alguns povos da America do Sul)</def>
+            </sense>
+            <sense n="2">
+               <def>O mesmo que bango</def>
+            </sense>
+         </entry>
+
+
+         <entry>
+            <form>
+               <orth>Abanicar</orth>
+               <pron>(a-ba-ni-kár)</pron>
+            </form>
+            <gramGrp>
+               <pos>v.</pos>
+               <subc>tr.</subc>
+            </gramGrp>
+            <etym>Abanico+Far.</etym>
+            <sense n="1">
+               <def>Abanar com leque</def>
+            </sense>
+            <gramGrp>
+               <pos>v.</pos>
+               <subc>intr.</subc>
+            </gramGrp>
+            <sense n="2">
+               <usg type="register">taur.</usg>
+               <def>Mover o capote de um lado para o outro</def>
+            </sense>
+            <re>
+               <form><orth>Abanicar-se</orth></form>
+               <gramGrp>
+                  <pos>v.</pos>
+                  <subc>pr.</subc>
+               </gramGrp>
+               <etym>Abanico+ar</etym>
+               <sense n="3">
+                  <def>Abanar-se com leque</def>
+               </sense>
+            </re>
+         </entry>
+
+
+         <entry>
+            <form>
+               <orth>Abanico</orth>
+               <pron>a-ba-ni-ku</pron>
+            </form>
+            <gramGrp>
+               <pos>s.</pos>
+               <gen>m.</gen>
+            </gramGrp>
+            <sense n="1">
+               <def>Dim. abaninho, abano pequeno, leque</def>
+            </sense>
+            <sense n="2">
+               <usg type="register">Antiq.</usg>
+               <def>Adorno de vestuario</def>
+            </sense>
+         </entry>
+
+
+         <entry>
+            <form>
+               <orth>Abanico</orth>
+               <pron>a-ba-ni-ku</pron>
+            </form>
+            <etym>Abanoptico</etym>
+            <gramGrp>
+               <pos>s.</pos>
+               <gen>m.</gen>
+            </gramGrp>
+            <sense n="1">
+               <def>Abaninho, abaro pequeno, leque</def>
+            </sense>
+            <sense n="2">
+               <usg type="register">Antiq.</usg>
+               <def>Adorno de vestuario. [Consistia n'umas rendas dispostas em torno do pescoço e
+                  dos punhos, usadas pelas damas do paço, e pelas senhoras no dia do seu casamento]
+               </def>
+            </sense>
+            <gramGrp>
+               <number>pl.</number>
+            </gramGrp>
+            <sense n="3">
+               <def>Ditos agudos e galantes para ornar o estylo</def>
+            </sense>
+         </entry>
+
+
+         <p/>
+      </body>
+   </text>
+</TEI>
