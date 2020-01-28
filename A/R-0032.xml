@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
+<?xml-stylesheet type="text/css" href="R-0032.css"?>
+
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Page 32 Right</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <body>
+         <entry n="3"> 
+            <form><orth>Abôiar</orth> <pron>(a-bôi-úr)</pron></form>, <gramGrp>v. íntr.</gramGrp> <sense><usg type="geo">(Minho)</usg> <def>trabalhar com
+               bois;</def></sense> <sense><def>falar ou cantar aos bois.</def></sense> || <gram>F. A+boitar.</gram>
+         </entry>
+         <entry> 
+            <form><orth>Aboio</orth> <pron>(a-bói-u)</pron></form>, <gramGrp>s. <gen value="masculine">m.</gen></gramGrp> <sense><usg type="geo">(Bras. de Minas)</usg> <def>o canto do
+               vaqueiro (na faina da lavra).</def></sense> || <gram>F. Contr. de Aboiar.</gram>
+         </entry>
+         <entry> 
+            <form><orth>Aboiz</orth> <pron>(a-bu-is)</pron></form>, <gramGrp>s. <gen value="masculine">m.</gen></gramGrp> <sense><def>o mesmo que boiz.</def></sense>
+         </entry>
+         <entry> 
+            <form><orth>Abojar</orth> <pron>(a-bu-jar)</pron></form>, <gramGrp>v. tr.</gramGrp> <sense><def>metter no bojo.</def></sense> || <gram>F. A+
+               bojo+ar.</gram>
+         </entry>
+         <entry> 
+            <form><orth>Abolachado</orth> <pron>(a-bu-la-xá-du)</pron></form>, <gramGrp>adj.</gramGrp> <sense><def>que tem fórma 
+            de bolacha.</def></sense> || <gram>F. Abolachar+ado.</gram>
+         </entry>
+         <entry> 
+            <form><orth>Abolachar</orth> <pron>(a-bu-la-xár)</pron></form>, <gramGrp>v. tr.</gramGrp> <sense><def>dar fórma de bolacha.</def></sense>
+            || <gram>F. A+bolacha+ar.</gram>
+         </entry>
+         <entry n="1"> 
+            <form><orth>Abolar</orth> <pron>(a-bu-lár)</pron></form>, <gramGrp>v. tr.</gramGrp> <sense><def>reduzir a forma de bola:
+               <ref>Abolou o barro e cobriu-o com um panno molhado.</ref></def></sense> || <gram>F. A+bola+ar.</gram>
+         </entry>
+         <entry n="2"> 
+            <form><orth>Abolar</orth> <pron>(a-bu-lár)</pron></form>, <gramGrp>v. tr.</gramGrp> <sense><def>reduzir a forma de bolo;
+               amolgar: <ref>Com tamanha pancada, que lhe abolou o 
+                  elmo. (Dic. d'Ac.)</ref></def></sense> || <gram>F. A+bolo+ar.</gram>
+         </entry>
+         <entry> 
+            <form><orth>Aboleimado</orth> <pron>(a-bu-lei-má-du)</pron></form>, <gramGrp>adj.</gramGrp> <sense><usg>(fam.)</usg> <def>
+               atoleimado.</def></sense> || <gram>F. do radical bola.</gram>
+         </entry>
+         <entry> 
+            <form><orth>Aboleirar</orth> <pron>(a-bu-lei-rár)</pron></form>, <gramGrp>v. tr.</gramGrp> <sense><usg type="geo">(Minho)</usg> <def>o mesmo
+               que rebolar.</def></sense> || <gram>F. A+r. bola.</gram>
+         </entry>
+         <entry> 
+            <form><orth>Aboletamento</orth> <pron>(a-bu-le-ta-men-tu)</pron></form>, <gramGrp>s. <gen value="masculine">m.</gen></gramGrp> <sense><def>acção ou
+               effeito de aboletar.</def></sense> || <gram>F. Aboletar+mento.</gram>
+         </entry>
+         <entry> 
+            <form><orth>Aboletar</orth> <pron>(a-bu-le-tár)</pron></form>, <gramGrp>v. tr.</gramGrp> <sense><usg>(milit.)</usg> <def>prover de 
+               boletos, dar boletos a;</def></sense> <sense><def>alojar, aquartelar por casas 
+                  particulares: <ref>O capitão aboletou os soldados nas principaes 
+                     casas da villa.</ref></def></sense> || <gram>F. A+boleto+ar.</gram>
+         </entry>
+         <entry> 
+            <form><orth>Abolição</orth> <pron>(a-bu-li-ssão)</pron></form>, <gramGrp>s. <gen value="feminine">f.</gen></gramGrp> <sense><def>acto ou effeito de 
+               abolir.</def></sense> || <gram>F. Abolir+ão</gram>
+         </entry>  
+         <entry> 
+            <form><orth>Abolicionismo</orth> <pron>(a-bu-li-ssi-u-nís-mu)</pron></form>, <gramGrp>s. <gen value="masculine">m.</gen></gramGrp> <sense><def>
+               systema dos que patrocinam a abolição da escravatura.</def></sense> || 
+            <gram>F. r. lat. Abolitio+ismo.</gram>
+         </entry> 
+         <entry> 
+            <form><orth>Abolicionista</orth> <pron>(a-bu-li-ssi-u-nís-ta)</pron></form>, <gramGrp>s. <gen value="masculine">m.</gen></gramGrp> <sense><def>partidario 
+               da abolição da escravatura.</def></sense> || <gram>F. Abolição+ista.</gram>
+         </entry>
+         <entry> 
+            <form><orth>Abolido</orth> <pron>(a-bu-li-du)</pron></form>, <gramGrp>adj.</gramGrp> <sense><def>revogado, que foi 
+               supprimido: <ref>Lei abolida;</ref> <ref>officio abólido.</ref></def></sense> || <gram>F. Abolir+ido.</gram>
+         </entry>   
+         <entry> 
+            <form><orth>Abolimento</orth> <pron>(a-bu-li-men-tu)</pron></form>, <gramGrp>s. <gen value="masculine">m.</gen></gramGrp> <sense><def>o mesmo que
+               abolição.</def></sense> || <gram>F. Abolir+mento.</gram>
+         </entry>
+         <entry> 
+            <form><orth>Abolinar</orth> <pron>(a-bu-li-nár)</pron></form>, <gramGrp>v. intr.</gramGrp> <sense><def>ir pela bolina.</def></sense> || <gram>F. 
+               A+bolina+ar.</gram>
+         </entry>
+         <entry> 
+            <form><orth>Abolir</orth> <pron>(a-bu-lir)</pron></form>, <gramGrp>v. tr.</gramGrp> <sense n="1"><def>pôr fóra do uso;</def></sense> <sense n="2"><def>annullar,
+               supprimir <usg>(applica-se particularmente aos costumes, ás
+                  instituições, ás leis)</usg>: <ref>D. Pedro V aboliu de facto a
+                     pena de morte.</ref></def></sense> || <sense n="3"><usg type="gram">(Flex.)</usg> <def>Este v. é defectivo. Não se
+                        usa nas linguagens das tres pessoas do singular e 3.º
+                        do pl. do pres. do ind., nem no sing. do imp., nem no
+                        pres. do subj.</def></sense> || <gram>F. lat. Abolere.</gram>
+         </entry>
+         <entry> 
+            <form><orth>Abolorecer</orth> <pron>(a-bu-ló-re-ssér)</pron></form>, <gramGrp>v. intr.</gramGrp> <sense n="1"><def>crear bolor.</def></sense>
+                || <sense n="2"><def>Flex. V. Abastecer</def></sense> || <gram>F. A+bolor+ecer.</gram>
+         </entry> 
+         <entry> 
+            <form><orth>Abolorecimento</orth> <pron>(a-bu-lu-re-ssi-men-tu)</pron></form>, <gramGrp>s. <gen value="masculine">m.</gen></gramGrp> 
+            <sense n="1"><def>acto de abolorecer.</def></sense> <sense n="2"><def>bolor</def></sense> || <gram>F. Abolorecer+mento.</gram>
+         </entry> 
+         <entry> 
+            <form><orth>Abolsar</orth> <pron>(a-bol-ssár)</pron></form>, <gramGrp>v. intr.</gramGrp> <sense><def>ter ou tomar a fórma
+               de bolsa.</def></sense> || <gram>F. A+bolsa+ar.</gram>
+         </entry> 
+         <entry> 
+            <form><orth>Abómaso</orth> <pron>(a-bó-ma-su)</pron></form>, <gramGrp>s. <gen value="masculine">m.</gen></gramGrp> <sense><def>o quarto estomago
+               dos ruminantes.</def></sense> || <gram>F. Ab (lat.)+omasum.</gram>
+         </entry> 
+         <entry> 
+            <form><orth>Abombado</orth> <pron>(a-bon-bá-du)</pron></form>, <gramGrp>adj.</gramGrp> <sense><usg>(Bras.)</usg> <def>cançado,
+               esfalfado, arquejante.</def></sense> || <gram>F. Abombar+ado.</gram>
+         </entry> 
+         <entry> 
+            <form><orth>Abombar</orth> <pron>(a-bon-bár)</pron></form>, <gramGrp>v. intr.</gramGrp> <sense><def>ficar o cavallo 
+               incapaz de continuar a jornada por effeito do calor <usg>(Bras.)</usg></def></sense>
+         </entry> 
+         <entry> 
+            <form><orth>Abominação</orth> <pron>(a-bu-mi-na-ssão)</pron></form>, <gramGrp>s. <gen value="feminine">f.</gen></gramGrp> <sense><def>acto ou 
+               effeito de abominar;</def></sense> <sense><def>coisa, acção execravel: <ref>Foram 
+                  em romaria á sua abomínação de Meca. (Dic. d'Ac.)</ref></def></sense> 
+            || <gram>F. Abominar+ão</gram>
+         </entry>
+         <entry> 
+            <form><orth>Abominador</orth> <pron>(a-bu-mi-na-dor)</pron></form>, <gramGrp>s. <gen value="masculine">m.</gen></gramGrp> <sense><def>o que 
+               abomina, detesta.</def></sense> || <gram>F. Abominar+or.</gram>
+         </entry> 
+         <entry> 
+            <form><orth>Abominando</orth> <pron>(a-bu-mi-nan-du)</pron></form>, <gramGrp>adj.</gramGrp> <sense><usg>(poet)</usg> <def>o 
+               mesmo que abominoso.</def></sense> || <gram>F. lat. Abominandus.</gram>
+         </entry> 
+         <entry> 
+            <form><orth>Abominar</orth> <pron>(a-bu-mi-nár)</pron></form>, <gramGrp>v. tr.</gramGrp> <sense><def>ter em horror.</def></sense> || 
+            <sense><def>Detestar.</def></sense> || <gram>F. lat. Abominari.</gram>
+         </entry> 
+         <entry> 
+            <form><orth>Abominavel</orth> <pron>(a-bu-mi-ná-vel)</pron></form>, <gramGrp>adj.</gramGrp> <sense><def>detestavel, que
+               merece ser abominado.</def></sense> || <gram>F. Abominar+vel.</gram>
+         </entry> 
+         <entry> 
+            <form><orth>Abominio</orth> <pron>(a-bu-mí-ni-u)</pron></form>, <gramGrp>s. <gen value="masculine">m.</gen></gramGrp> <sense><def>o mesmo que 
+               abominação.</def></sense> || <gram>F. r. Abominar</gram>
+         </entry> 
+         <entry> 
+            <form><orth>Abominoso</orth> <pron>(a-bu-mi-no-zu)</pron></form>, <gramGrp>adj.</gramGrp> <sense n="1"><def>que contém 
+               abominação;</def></sense><sense n="2"><def>execrando: <ref>Foi um procedimento abominoso.</ref></def></sense>
+            || <gram>F. Abominação+oso.</gram>
+         </entry> 
+         <entry> 
+            <form><orth>Abonação</orth> <pron>(a-bu-na-ssão)</pron></form>, <gramGrp>s. <gen value="feminine">f.</gen></gramGrp> <sense n="1"><def>acto ou effeito de 
+               abonar;</def></sense> <sense n="2"><def>garantia: <ref>Os seus actos constituem mais que
+                  sufficiente abonação do seu procedimento futuro.</ref></def></sense> || 
+            <sense n="3"><usg>(Jurid.)</usg> <def>O acto pelo qual uma ou mais pessoas se 
+               responsabilisam pela solvabilidade do fiador. <ref>(Cod. civ.,
+                  artigo 827.º)</ref></def></sense> || <sense n="4"><def>Fiança: <ref>O fiador assignou a abonação no</ref></def></sense>
+         </entry>
+       </body>
+   </text>
+</TEI>
+         
+         
+         
+         
+         
