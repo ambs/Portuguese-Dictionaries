@@ -1,0 +1,75 @@
+sense + sense:before {
+    content: "||";
+}
+
+body {
+    margin-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 600px;
+    display: block;
+    font: 16px sans-serif;
+    line-height: 1.5;
+}
+
+teiHeader {
+    display: none;
+}
+
+orth {
+	font-weight: bold; 
+	font-size: 28px;
+	letter-spacing: 1px;
+	display: block;
+}
+pron:before { content: "(" }
+pron:after { content: ")" }
+pron { display: block; }
+pron q { text-decoration: underline; }
+
+cit[type="display"] {
+    display: block;
+}
+
+entry {
+    display: block;
+    text-align: justify;
+    margin-bottom: 20px;
+}
+
+gramGrp{
+	font-weight: lighter;
+	font-variant: small-caps;
+	display: block-inline;
+}
+
+q, ref, emph {
+    font-style: italic;
+}
+
+usg { 
+	font-variant: small-caps;
+}
+
+usg:before { content: "(" }
+usg:after { content: ")" }
+
+lg {
+    display: block;
+    margin-left: 20px;
+}
+
+l { display: block; }
+
+etym {	display: block; }
+etym:after { content: "." }
+etym q { letter-spacing: 1px; }
+
+quote { border-bottom: dashed 1px rgba(0,0,0,.6) }
+
+bibl:before { content: "(" }
+bibl:after { content: ")" }
+
+bibl author { font-style: italic; }
+
+author + title:before { content: "—"; }

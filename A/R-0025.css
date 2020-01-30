@@ -1,0 +1,150 @@
+sense {
+    margin-bottom: 5px;
+    display:block;
+}
+
+form {
+    
+    display:block;
+}
+
+
+
+entry {
+	background-color: LavenderBlush;
+	display: block;
+	padding: 15px;
+	font-family: sans-serif;
+	border: 2px solid LavenderBlush;
+    border-radius: 20px;
+
+}
+
+
+
+etym {
+
+	display: none;
+
+
+}
+
+def:after {
+
+	content: ".";
+
+}
+
+
+
+quote {
+    font-style:italic;
+      font-size: 15px;
+      color: dimgrey;
+}
+
+bibl {
+    font-style:italic;
+      font-size: 15px;
+      color: dimgrey;
+}
+
+
+bibl:before {
+    content: "(";
+}
+
+bibl:after {
+    content: ").";
+}
+
+title { 
+
+        font-style:italic;
+}
+
+
+orth {
+    font-weight:bold;
+    color: Black;
+}
+
+
+pron {
+
+    color: deeppink;
+}
+
+
+TEI {
+    display: block;
+    margin: 20px   
+}
+
+
+teiHeader {
+    display: none;
+}
+
+entry {
+    
+    display: block;
+    margin-bottom: 50px;
+}
+
+
+gramGrp {
+font-style:italic;
+
+}
+
+
+etym {
+color: dimgrey;
+}
+
+
+
+
+sense::before {
+  content: attr(n);
+}
+
+
+usg:after {
+content: "]"
+}
+
+usg:before {
+content: "["
+}
+
+usg {
+  font-size: 15px;
+      color:dimgrey;
+}
+
+
+
+title {
+    font-style:italic;
+}
+
+
+
+gramGrp {
+padding-top: 10px;
+  padding-right: 10px;
+  padding-bottom: 10px;
+  padding-left: 10px;
+}
+
+sense {
+padding-top: 10px;
+  padding-right: 10px;
+  padding-bottom: 10px;
+  padding-left: 10px;
+}
+
+
+
