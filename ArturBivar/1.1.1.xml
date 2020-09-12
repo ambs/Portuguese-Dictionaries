@@ -1,0 +1,383 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         <entry>
+            <form><orth>Actual</orth></form>
+            <gramGrp>adj.</gramGrp>
+            <sense>
+               <def>que existe presentemente</def>
+               <ref>653</ref>
+            </sense>
+         </entry>
+         
+         <entry>
+            <form><orth>Aparente</orth></form>
+            <gramGrp>adj.</gramGrp>
+            <sense>
+               <def>que só existe na aparência</def>
+            </sense>
+         </entry>
+         
+         <entry>
+            <form><orth>Autogéneo</orth></form>
+            <sense><def>que só existe por si</def></sense>
+         </entry>
+         
+         <entry>
+            <form><orth>Coexistência</orth><pron>co-e</pron></form>
+            <gramGrp>s. f.</gramGrp>
+            <sense><def>existência simultãnea</def></sense>
+            
+            <re>
+               <xr><ref>coexistente</ref></xr><gramGrp>adj.</gramGrp>
+            </re>
+            
+            <re>
+               <xr><ref>coexistir</ref></xr> <gramGrp>v. i.</gramGrp>
+            </re>
+         </entry>
+         
+         <entry>
+         <form>
+            <orth>Coisa</orth>
+            <orth>Cousa</orth>
+         </form>
+            <gramGrp>s. f.</gramGrp>
+            <sense><def>o que existe ou pode existir</def></sense>
+         </entry>
+         
+         <entry>
+            <form><orth>Compatível</orth></form>
+            <gramGrp>adj.</gramGrp>
+            <sense><def>que pode coexistir</def></sense>
+         </entry>
+         
+         <entry>
+            <form><orth>Concorrer</orth></form>
+            <gramGrp>v. t.</gramGrp>
+            <sense><def>existir ao mesmo tempo</def></sense>
+         </entry>
+         
+         <entry>
+            <form><orth>Consistência</orth></form>
+            <gramGrp>s. f.</gramGrp>
+            <sense><def>estado do que subsiste com maior ou menor firmeza</def></sense>
+            <re><xr><ref>consistente</ref></xr><gramGrp>adj.</gramGrp></re>
+            <re><xr><ref>consistir</ref></xr><gramGrp>v. t.</gramGrp></re>
+         </entry>
+         
+         <entry>
+            <form><orth>Dar-se</orth></form>
+            <sense>
+               <def><quote type="example">dão-se frequentes encontros</quote></def>
+            </sense>
+         </entry>
+         
+         <entry>
+            <form><orth>Destino</orth></form>
+            <gramGrp>s. m.</gramGrp>
+            <sense>
+               <def><quote type="example">estudar um destino</quote></def>
+            </sense>
+         </entry>
+         
+         <entry>
+            <form><orth>Dia</orth></form>
+            <gramGrp>s. m.</gramGrp>
+            <sense><def>existência</def></sense>
+         </entry>
+         
+         
+         <entry>
+            <form><orth>Durar</orth></form>
+            <gramGrp>v. i.</gramGrp>
+            <sense><def>existir</def></sense>
+         </entry>
+         
+         <entry>
+            <form><orth>Efectivo</orth></form>
+            <gramGrp>s. m.</gramGrp>
+            <sense><def>o que existe</def></sense>
+            <re>
+               <xr><ref>efectividade</ref></xr>
+               <gramGrp>s. f.</gramGrp>
+            </re>
+         </entry>
+         
+         <entry>
+            <form><orth>Encontrar-se</orth></form>
+            <gramGrp>v. p.</gramGrp>
+            <sense>
+               <def><quote type="example">encontram-se pessoas 
+                  desprovidas de bom senso</quote></def>
+            </sense>
+         </entry>
+         
+         <entry>
+            <form><orth>Ente</orth></form>
+            <gramGrp>s. m.</gramGrp>
+            <sense><def>o que pode existir</def></sense>
+         </entry>
+         
+         <entry>
+            <form><orth>Entidade</orth></form>
+            <gramGrp>s. f.</gramGrp>
+            <sense><def>o que constitui a existência de uma coisa; existência
+            considerada independentemente do objecto: <q>quimeras</q>, <q>visões sem entidade</q></def></sense>
+         </entry>
+         
+         <entry>
+            <form><orth>Essência</orth></form>
+            <gramGrp>s. f.</gramGrp>
+            <sense>
+               <def>existência no que ela tem de mais constitucional</def>
+            </sense>
+         </entry>
+         
+         <entry>
+            <form><orth>Estação</orth></form>
+            <gramGrp>s. f.</gramGrp>
+            <sense>
+               <def>cada um dos períodos mais ou menos naturais da existência</def>
+            </sense>
+         </entry>
+         
+         <entry>
+            <form><orth>Estar</orth></form>
+            <gramGrp>v. i.</gramGrp>
+            <sense><def>ser, relativamente a tempo ou lugar; existência</def></sense>
+         </entry>
+         
+         <entry>
+            <form><orth>Existência</orth></form>
+            <gramGrp>s. f.</gramGrp>
+            <sense>
+               <def>estado do que subsiste</def>
+            </sense>
+            <re><xr><ref>existencial</ref></xr><gramGrp>adj.</gramGrp></re>
+            <re><xr><ref>existente</ref></xr><gramGrp>adj.</gramGrp></re>
+            <re><xr><ref>existir</ref></xr><gramGrp>v. i.</gramGrp></re>
+         </entry>
+         
+         <entry>
+            <form><orth>Ficar</orth></form>
+            <gramGrp>v. i.</gramGrp>
+            <sense><def>subsistir</def></sense>
+         </entry>
+         
+         <entry>
+            <form><orth>Futuro</orth></form>
+            <gramGrp>adj.</gramGrp>
+            <sense><def>que há de vir a ser</def></sense>
+         </entry>
+         
+         <entry>
+         <form><orth>Haver</orth></form>
+            <gramGrp>v. i.</gramGrp>
+            <sense><def>existir</def></sense>
+         </entry>
+         
+         <entry>
+            <form><orth>Incompatível</orth></form>
+            <gramGrp>adj.</gramGrp>
+            <sense><def>que não pode coexistir</def></sense>
+         </entry>
+         
+         <entry>
+            <form><orth>Inconsistência</orth></form>
+            <gramGrp>s. f.</gramGrp>
+           <sense><def> o contrário de <ref>consistência</ref>; falta de base</def></sense>
+           <re><xr><ref>inconsistente</ref></xr><gramGrp>adj.</gramGrp></re>
+         </entry>
+         
+        <entry> <form><orth>Individualismo</orth></form>
+         <gramGrp>s. m.</gramGrp>
+         <sense><def>existência individual</def></sense></entry>
+         <entry>
+            
+         <form><orth>Inexistência</orth></form>
+         <gramGrp>s. f.</gramGrp>
+         <sense><def>falta de existência</def></sense>
+         <re><xr><ref>inexistente</ref></xr><gramGrp>adj.</gramGrp></re>
+         </entry>
+         
+         <entry>
+            <form><orth>Informar</orth></form>
+            <gramGrp>v. t.</gramGrp>
+            <sense><def>tornar existente</def></sense>
+         </entry>
+         
+         <entry>
+            <form><orth>Irreal</orth></form>
+            <gramGrp>adj.</gramGrp>
+            <sense><def>sem existência real</def></sense>
+         </entry>
+         
+         <entry>
+            <form><orth>Maduro</orth></form>
+            <gramGrp>adj.</gramGrp>
+            <sense><def>relativo a fases avançadas da existência</def></sense>
+            <ref>3709</ref>
+         </entry>
+         
+         <entry>
+            <form><orth>Negativo</orth></form>
+            <gramGrp>adj.</gramGrp>
+            <sense><def>que não existe</def></sense>
+         </entry>
+         
+         <entry>
+            <form><orth>Objecivo</orth></form>
+            <gramGrp>adj.</gramGrp>
+            <sense><def>que respeita a objectos exteriores ao
+            espírito</def></sense>
+            <re><xr><ref>objectivação</ref></xr><gramGrp>s. f.</gramGrp></re>
+            <re><xr><ref>objectivamente</ref></xr><gramGrp>adv.</gramGrp></re>
+            <re><xr><ref>objectivar</ref></xr><gramGrp>v. t.</gramGrp></re>
+            <re><xr><ref>objectividade</ref></xr><gramGrp>s f.</gramGrp></re>
+            <re><xr><ref>objectvismo</ref></xr><gramGrp>s. m.</gramGrp></re>
+         </entry>
+         
+         <entry>
+            <form><orth>Ontologia</orth></form>
+            <gramGrp>s. f.</gramGrp>
+            <sense><def>teoria ou ciência do ser</def></sense>
+            <re><xr><ref>ontológico</ref></xr><gramGrp>adj.</gramGrp></re>
+            <re><xr><ref>ontologicamente</ref></xr><gramGrp>adv.</gramGrp></re>
+            <re><xr><ref>ontologista</ref></xr><gramGrp>s. m. e f.</gramGrp></re>
+         </entry>
+         
+         <entry>
+            <form><orth>Perseidade</orth></form>
+            <gramGrp>s. f.</gramGrp>
+            <sense><def>expressão usada pela filosofia escolástica para indicar a quantidade do que existe de per si.</def></sense>
+         </entry>
+         
+         <entry>
+            <form><orth>Positivo</orth></form>
+            <gramGrp>adj.</gramGrp>
+            <sense><def>real</def></sense>
+            <re><xr><ref>positividade</ref></xr><gramGrp>s. f.</gramGrp></re>
+         </entry>
+         
+         <entry>
+            <form><orth>Preexistência</orth></form>
+            <gramGrp>s. f.</gramGrp>
+            <sense><def>existência anterior</def></sense>
+            <re><xr><ref>preexistente</ref></xr><gramGrp>adj.</gramGrp></re>
+            <re><xr><ref>preexistir</ref></xr><gramGrp>v. i.</gramGrp></re>
+         </entry>
+         
+         <entry>
+            <form><orth>Real</orth></form>
+            <gramGrp>adj.</gramGrp>
+            <sense><def>que tem de facto existência; positivo</def></sense>
+            <re><xr><ref>realidade</ref></xr><gramGrp>s. f.</gramGrp></re>
+         </entry>
+         
+         <entry>
+            <form><orth>Reexistir</orth></form>
+            <gramGrp>v. i.</gramGrp>
+            <sense><def>Tornar a existir</def></sense>
+         </entry>
+         
+         <entry>
+            <form><orth>Resistir</orth></form>
+            <gramGrp>v. i.</gramGrp>
+            <sense><def>subsistir</def></sense>
+         </entry>
+         
+         <entry>
+            <form><orth>Restar</orth></form>
+            <gramGrp>v. i.</gramGrp>
+            <sense><def>subsistir depois de desaparecer a maior parte das outras coisas</def></sense>
+            <re><xr><ref>restante</ref></xr><gramGrp>adj.</gramGrp></re>
+         </entry>
+         
+         <entry>
+            <form><orth>Ser</orth></form>
+            <gramGrp>s. m.</gramGrp>
+            <sense><def>o mesmo que existir; o que foi criado, ente.</def></sense>
+         </entry>
+         
+         <entry>
+            <form><orth>Ser</orth></form>
+            <gramGrp>v. i.</gramGrp>
+            <sense><def>ter existência real; ter a qualidade ou modo de existir
+               indicado pela palavra que se segue a esta</def></sense>
+         </entry>
+         
+         <entry>
+            <form><orth>Subjectivo</orth></form>
+            <gramGrp>adj.</gramGrp>
+            <sense><def>que se passa exclusivamente no espírito de uma pessoa.</def></sense>
+            <re><xr><ref>subjectivação</ref></xr><gramGrp>s. f.</gramGrp></re>
+            <re><xr><ref>subjectivamente</ref></xr><gramGrp>adv.</gramGrp></re>
+            <re><xr><ref>subjectivar</ref></xr><gramGrp>v. t.</gramGrp></re>
+            <re><xr><ref>subjectividade</ref></xr><gramGrp>s. f.</gramGrp></re>
+            <re><xr><ref>subjectivismo</ref></xr><gramGrp>s. m.</gramGrp></re>
+         </entry>
+         
+         <entry>
+            <form><orth>Subsistência</orth></form>
+            <gramGrp>s. f.</gramGrp>
+            <sense><def>estado ou qualidade do que continua a ser, a existir, a permanecer</def></sense>
+            <re><xr><ref>subsistente</ref></xr><gramGrp>adj.</gramGrp></re>
+            <re><xr><ref>subsistir</ref></xr><gramGrp>v. i.</gramGrp></re>
+         </entry>
+         
+         <entry>
+            <form><orth>Substantivo</orth></form>
+            <gramGrp>adj.</gramGrp>
+            <sense><def>que se refere a coisas que subsiste</def></sense>
+         </entry>
+         
+         <entry>
+            <form><orth>Ultra-existência</orth></form>
+            <gramGrp>s. f. des.</gramGrp>
+            <sense><def>qualidade do que existe além da morte</def></sense>
+            <re><xr><ref>ultra-existente</ref></xr><gramGrp>adj.</gramGrp></re>
+            <re><xr><ref>ultra-existir</ref></xr><gramGrp>v. i.</gramGrp></re>
+         </entry>
+         
+         <entry>
+            <form><orth>Verde</orth></form>
+            <gramGrp>adj.</gramGrp>
+            <sense><def>relativo aos primeiros anos da existência</def></sense>
+         </entry>
+         
+         <entry>
+            <form><orth>Vida</orth></form>
+            <gramGrp>s. f.</gramGrp>
+            <sense><def>existência</def></sense>
+            <re>
+               <form><orth>outra vida</orth></form>
+               <sense><def>eistência além da morte</def></sense>
+            </re>
+         </entry>
+         
+         <entry>
+            <form><orth>Viver</orth></form>
+            <gramGrp>v. i.</gramGrp>
+            <sense><def>existência</def></sense>
+         </entry>
+      </body>
+  </text>
+</TEI>

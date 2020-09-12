@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml"
+	schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Title</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Publication Information</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Information about the source</p>
+         </sourceDesc>
+      </fileDesc>
+  </teiHeader>
+  <text>
+      <body>
+         
+         <entry>
+            <form><orth>Combinação</orth></form>
+            <gramGrp>s. f.</gramGrp>
+            <sense><def>consubstanciação</def></sense>
+         </entry>
+         
+         <entry>
+            <form><orth>Consubstanciar</orth></form>
+            <gramGrp>v. t.</gramGrp>
+            <sense><def>juntar numa só substância dois ou mais corpos</def></sense>
+            <re><xr><ref>consubstanciação</ref></xr><gramGrp>s. f.</gramGrp></re>
+            <re><xr><ref>consubstanciado</ref></xr><gramGrp>adj.</gramGrp></re>
+            <re><xr><ref>consubstancial</ref></xr><gramGrp>adj.</gramGrp></re>
+            <re><xr><ref>consubstancialidade</ref></xr><gramGrp>s. f.</gramGrp></re>
+            <re><xr><ref>consubstancialmente</ref></xr><gramGrp>adv.</gramGrp></re>
+         </entry>
+         
+         <entry>
+            <form><orth>Dessorar</orth></form>
+            <gramGrp>v. t.</gramGrp>
+            <sense><def>tirar a substância</def></sense>
+         </entry>
+         
+         <entry>
+            <form><orth>Dessubstanciar</orth></form>
+            <gramGrp>v. t.</gramGrp>
+            <sense><def>tirar a substância de</def></sense>
+         </entry>
+         
+         <entry>
+            <form><orth>Formalidade</orth></form>
+            <gramGrp>s. f.</gramGrp>
+            <sense><def>substancialidade</def></sense>
+         </entry>
+         
+         <entry>
+            <form><orth>Forte</orth></form>
+            <gramGrp>adj</gramGrp>
+            <sense><def>substancioso</def></sense>
+         </entry>
+         
+         <entry>
+            <form><orth>Insubstancial</orth></form>
+            <gramGrp>adj.</gramGrp>
+            <sense><def>que não é substancial</def></sense>
+         </entry>
+         
+         <entry>
+            <form><orth>Sobressubstancial</orth></form>
+            <gramGrp>adj.</gramGrp>
+            <sense><def>muito substancial</def></sense>
+         </entry>
+         
+         <entry>
+            <form><orth>Sólido</orth></form>
+            <gramGrp>adj.</gramGrp>
+            <sense><def>substancial</def></sense>
+         </entry>
+         
+         <entry>
+            <form><orth>Substância</orth></form>
+            <gramGrp>s. f.</gramGrp>
+            <sense><def>aquilo que subsiste por si; matéria de que é formado um corpo</def></sense>
+            <re><xr><ref>substancial</ref></xr><gramGrp>adj.</gramGrp></re>
+            <re><xr><ref>substancialidade</ref></xr><gramGrp>s. f.</gramGrp></re>
+            <re><xr><ref>substancialmente</ref></xr><gramGrp>adv</gramGrp></re>
+            <re>
+               <xr><ref>substancializar</ref></xr><gramGrp>v. t.</gramGrp>
+               <sense><def>converter em substâncias; considerar como substâncias</def></sense>
+            </re>
+            <re><xr><ref>substancioso</ref></xr><gramGrp>adj.</gramGrp></re>
+         </entry>
+         
+         <entry>
+            <form><orth>Substantífico</orth></form>
+            <gramGrp>adj.</gramGrp>
+            <sense><def>o mesmo que <ref>substancioso</ref></def></sense>
+         </entry>
+         
+         <entry>
+            <form><orth>Substantivo</orth></form>
+            <gramGrp>adj.</gramGrp>
+            <sense><def>que por si só designa ou representa a sua substância</def></sense>
+         </entry>
+         
+         <entry>
+            <form><orth>Sucedâneo</orth></form>
+            <gramGrp>s. m. e adj.</gramGrp>
+            <sense><def>diz-se de uma substância que pode substituir outra</def></sense>
+         </entry>
+         
+         <entry>
+            <form><orth>Suculento</orth></form>
+            <gramGrp>s. f.</gramGrp>
+            <sense><def>substancial</def></sense>
+         </entry>
+         
+         <entry>
+            <form><orth>Sustância</orth></form>
+            <gramGrp>s. f.</gramGrp>
+            <sense><def>o mesmo que <ref>sustento</ref>: <q>um caldo de sustância</q></def></sense>
+         </entry>
+         
+         <entry>
+            <form><orth>Transubstanciação</orth></form>
+            <gramGrp>s. f.</gramGrp>
+            <sense><def>mudança de uma substância</def></sense>
+            <re><xr><ref>transubstancial</ref></xr><gramGrp>adj.</gramGrp></re>
+            <re>
+               <xr><ref>transubstanciar</ref></xr><gramGrp>v. t.</gramGrp>
+               <sense><def>mudar a substância de; realizar a substanciação de.</def></sense>
+            </re>
+            
+         </entry>
+         
+      </body>
+  </text>
+</TEI>
